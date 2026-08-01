@@ -92,8 +92,8 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
   - Danke an [BirdBird](https://forum.cockos.com/member.php?u=130362) für [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514).
   - Danke an [Justin Frankel](https://www.cockos.com/) für die [REAPER DAW](https://www.reaper.fm).
   - Excluded in Release:
-    - [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) von [Reapertips](https://www.reapertips.com/). Diese sollten erworben werden.
-    - [ReaPack Packages](https://reapack.com/repos). Können jedoch mit einem Klick auf dedizierten Toolbar-Button gedownloaded werden.
+    - [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) von [Reapertips](https://www.reapertips.com/): Diese sollten erworben werden.
+    - [ReaPack Packages](https://reapack.com/repos): Können jedoch mit einem Klick auf dedizierten Toolbar-Button gedownloaded werden ("Synchronize packages"). Im Scripts-Ordner dieser Repo sind nur Scripts, bei denen ich den FOSS-Status selber validieren konnte. Da FOSS-Status nicht bei allen ReaPack-Packages von mir validiert werden kann, sind nicht alle Files in dieser Repo. Ist aber eh scheißegal, da man so oder so ab und zu die Pakete zum Updaten synchronisieren sollte und dann werden eh alle Packages neu geladen.
     - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html) von [WhiteTie](https://www.houseofwhitetie.com), da prop. 🙄
 
 
