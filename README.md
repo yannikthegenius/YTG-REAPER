@@ -34,7 +34,7 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
  
 <img width="586" height="840" alt="Screenshot_2026-07-28_21-56-39" src="https://github.com/user-attachments/assets/5c50a5ab-e864-45d9-857a-a2820e9346bb" />
 
-  - Project Timer: Jede .RPP Project File wird immer automatisch die Zeit tracken, sodass man weiß, wie lang man an einem Projekt gearbeitet hat (seriöse Messung durch integrierten AFK-Mode).
+  - [Project Timer](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua): Jede .RPP Project File wird immer automatisch die Zeit tracken, sodass man weiß, wie lang man an einem Projekt gearbeitet hat (seriöse Messung durch integrierten AFK-Mode).
 - Show FX Sends + Inserts by default; ähnlich wie Pro Tools.
 
 <img width="555" height="174" alt="Screenshot_2026-07-28_16-26-02" src="https://github.com/user-attachments/assets/14243189-2e6a-4559-bb88-114fdafca0a9" />
@@ -88,6 +88,7 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
   - Danke an [White Tie](https://www.houseofwhitetie.com) für [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html). Mach den Script FOSS, du Stinker.
   - Danke an [solger](https://forum.cockos.com/member.php?u=56856) für [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697).
   - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
+  - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Project Time Counter](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua).
   - Danke an [OLSHALOM](https://forum.cockos.com/member.php?u=134313) für [CHROMA Coloring Tool](https://forum.cockos.com/showthread.php?t=281516).
   - Danke an [BirdBird](https://forum.cockos.com/member.php?u=130362) für [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514).
   - Danke an [Justin Frankel](https://www.cockos.com/) für die [REAPER DAW](https://www.reaper.fm).
