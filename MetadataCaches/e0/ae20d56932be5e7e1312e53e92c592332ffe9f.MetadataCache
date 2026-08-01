@@ -1,0 +1,25 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/Stevie Wonder - Superstition"
+F "Bass (D#2).wav" 109600 0 1717187698 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.620
+D i 32
+F "Drum Fill 2 136.wav" 155924 0 1718316174 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.882
+D i 16
+F "Drum Loop 1 98.wav" 1728276 0 1718316020 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:09.796
+D i 16
+F "Drum Loop 2 98.wav" 1728276 0 1718316034 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:09.796
+D i 16
+F "Drum Loop 3 102.wav" 1660512 0 1718316222 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:09.412
+D i 16
+F Hat.wav 35560 0 1685425938 0
+D s 44100 n 1 l 0:00.201 i 32
+F Kick.wav 54548 0 1717187680 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.308
+D i 32
+F "Open Hat.wav" 55288 0 1685425918 0
+D s 44100 n 1 l 0:00.312 i 32
+F Snare.wav 110576 0 1685425898 0
+D s 44100 n 1 l 0:00.626 i 32

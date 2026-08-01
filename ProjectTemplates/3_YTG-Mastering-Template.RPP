@@ -1,0 +1,236 @@
+<REAPER_PROJECT 0.1 "7.78/linux-x86_64" 1785258715 0
+  AUTHOR "Yannik Riekert"
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 393
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 113 0
+  ENVFADESZ10 40
+  PEAKGAIN 1.1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 4 8 1 0 0 0
+  TIMEMODE 1 9 -1 60 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 0
+  ZOOM 6.49054715 6 0
+  VZOOMEX 7.61898232 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgoAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN BOUNCE/$project_D$day-M$month-Y$year_$bpm-BPM_$sampleratekk-$bitdepthb
+  RENDER_FMT 0 2 48000
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 16 1000
+  RENDER_RESAMPLE 10 10 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 512
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  <RENDER_METADATA
+    TAG ID3:COMM "Yannik Riekert ⏺ www.cozy.otsz.de"
+    TAG ID3:COMMENT_LANG German
+    TAG ID3:LYRIC_LANG German
+    TAG ID3:TBPM $tempo
+    TAG ID3:TCON Rap
+    TAG ID3:TCOP "OT$Z RECORD$"
+    TAG ID3:TDRC $date
+    TAG ID3:TEXT "Yannik Riekert"
+    TAG ID3:TIT2 $project
+    TAG ID3:TPE1 "OT$Z Cozy"
+    TAG ID3:TPE2 "OT$Z Cozy"
+    TAG ID3:TYER $date
+  >
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 0
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 48000 0 0
+  <RENDER_CFG
+    ZXZhdxgoAQ==
+  >
+  LOCK 1
+  <METRONOME 17 2
+    VOL 0.316228 0.158114
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 90 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 160 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {504FEF7F-D29C-4ADA-5C81-DD1679E2238D}
+  MASTER_SEL 0
+  <MASTERFXLIST
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <JS "BirdBird ReaScript Testing/Global Sampler/BirdBird_Global Sampler.jsfx" ""
+      - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    >
+    FLOATPOS 0 0 0 0
+    FXID {6B9DA8A3-DFC6-1734-BF08-0451F7FBFCC7}
+    WAK 0 0
+    BYPASS 0 0 0
+    <JS analysis/loudness_meter ""
+      1 0 0 2 1 1 1 0 -12 -6 1 0 0 1.8 0 - - - - - - - - - - - - - - -316.478175 -316.0206 -100 -319.658179 -319.658179 -100 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    >
+    FLOATPOS 0 0 0 0
+    FXID {05D6E88D-CBC4-ECF3-307F-324F024F35F0}
+    WAK 0 0
+  >
+  <MASTERPLAYSPEEDENV
+    EGUID {702544BE-1727-2BDA-04CB-664F54E39FEF}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {3F43D190-04B4-FCC1-2455-173148129CCD}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 66 16
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {A37428EA-4C47-B706-8742-C28BD48EA008}
+    NAME ""
+    PEAKCOL 29019927
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 196 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A37428EA-4C47-B706-8742-C28BD48EA008}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1956 96 1298 674
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 1 0 0
+      <CLAP "CLAP: master_me (Klaus Scheuermann)" trummerschlunk.master_me ""
+        CFG 4 1030 597 ""
+        <STATE
+          X19kcGZfcHJvZ3JhbV9fADAAX19kcGZfc3RhdGVfYmVnaW5fXwBtb2RlAGVhc3kAX19kcGZfc3RhdGVfZW5kX18AX19kcGZfcGFyYW1ldGVyc19iZWdpbl9fAGRwZl9i
+          eXBhc3MAMQB0YXJnZXQALTE2AGluX2dhaW4AMABwaGFzZV9sADAAcGhhc2VfcgAwAG1vbm8AMABkY19ibG9ja2VyADAAc3RlcmVvX2NvcnJlY3QAMABnYXRlX2J5cGFz
+          cwAxAGdhdGVfdGhyZXNob2xkAC05MABnYXRlX2F0dGFjawAwAGdhdGVfaG9sZAA1MABnYXRlX3JlbGVhc2UANDMwLjUAZXFfYnlwYXNzADAAZXFfaGlnaHBhc3NfZnJl
+          cQA1AGVxX3RpbHRfZ2FpbgAwAGVxX3NpZGVfZ2FpbgAxAGVxX3NpZGVfZnJlcQA2MDAAZXFfc2lkZV9iYW5kd2lkdGgAMQBsZXZlbGVyX2J5cGFzcwAwAGxldmVsZXJf
+          c3BlZWQAMjAAbGV2ZWxlcl9icmFrZV90aHJlc2hvbGQALTEwAGxldmVsZXJfbWF4X3BsdXMAMTAAbGV2ZWxlcl9tYXhfbWludXMAMTAAa25lZWNvbXBfYnlwYXNzADAA
+          a25lZWNvbXBfc3RyZW5ndGgAMjAAa25lZWNvbXBfdGhyZXNob2xkAC00AGtuZWVjb21wX2F0dGFjawAyMABrbmVlY29tcF9yZWxlYXNlADM0MABrbmVlY29tcF9rbmVl
+          ADYAa25lZWNvbXBfbGluawA2MABrbmVlY29tcF9mZmZiADUwAGtuZWVjb21wX21ha2V1cAAwAGtuZWVjb21wX2RyeXdldAA1MABtc2NvbXBfYnlwYXNzADAAbXNjb21w
+          X2xvd19zdHJlbmd0aAAxMABtc2NvbXBfbG93X3RocmVzaG9sZAAtMwBtc2NvbXBfbG93X2F0dGFjawAxNQBtc2NvbXBfbG93X3JlbGVhc2UAMTUwAG1zY29tcF9sb3df
+          a25lZQAxMgBtc2NvbXBfbG93X2xpbmsANzAAbXNjb21wX2xvd19jcm9zc292ZXIANjAAbXNjb21wX2hpZ2hfc3RyZW5ndGgAMzAAbXNjb21wX2hpZ2hfdGhyZXNob2xk
+          AC0xMgBtc2NvbXBfaGlnaF9hdHRhY2sAOABtc2NvbXBfaGlnaF9yZWxlYXNlADMwAG1zY29tcF9oaWdoX2tuZWUAMTIAbXNjb21wX2hpZ2hfbGluawAzMABtc2NvbXBf
+          aGlnaF9jcm9zc292ZXIAODAwMABtc2NvbXBfb3V0cHV0X2dhaW4AMQBsaW1pdGVyX2J5cGFzcwAwAGxpbWl0ZXJfc3RyZW5ndGgAODAAbGltaXRlcl90aHJlc2hvbGQA
+          NgBsaW1pdGVyX2F0dGFjawAzAGxpbWl0ZXJfcmVsZWFzZQA0MABsaW1pdGVyX2tuZWUAMwBsaW1pdGVyX2ZmZmIANTAAbGltaXRlcl9tYWtldXAAMABicmlja3dhbGxf
+          YnlwYXNzADAAYnJpY2t3YWxsX2NlaWxpbmcALTEAYnJpY2t3YWxsX3JlbGVhc2UANzUAX19kcGZfcGFyYW1ldGVyc19lbmRfXwD+AA==
+        >
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1D7CF962-7DA0-405D-14D6-9AE90C6B2A0A}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS loser/Saturation ""
+        45 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C17879BF-0043-118F-D8D0-A54B55509006}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS loser/masterLimiter ""
+        -6 200 100 0 250 -1 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7F50FE57-F6D5-6B08-D846-25B5DB6E46FC}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS "Geraint's JSFX/Utility/Spectrum-Matcher/Spectrum Matcher.jsfx" ""
+        30 4 40 1 6 0 30 1 20 18000 0 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      <JS_SER
+        AAAAAAAAoEEAoIxGAADwQQDgPUUAIERFtjfwOSQomDqHwUA7ITD0OwcDTDzJsFA8A3pVPFZfWjyLDkM80QwfPKWwATzdf9M7HHWsO1qfjDsEVGU7vf46O/t5GDvqqPg6
+        F8LKOmxUpTp+z4Y6m9lbOjxEMzq0LBI692HuOc1gwjklf545IT2BOXrDUjmA2ys5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEA=
+      >
+      FLOATPOS 2351 1340 690 519
+      FXID {B1DF7515-D7FB-441D-AF32-D6071E622908}
+      WAK 0 0
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+      {A37428EA-4C47-B706-8742-C28BD48EA008} 50372344 "" "" ""
+    >
+  >
+  <EXTSTATE
+    <TIME
+      D 0
+      H 0
+      M 3
+      S 7
+    >
+  >
+>

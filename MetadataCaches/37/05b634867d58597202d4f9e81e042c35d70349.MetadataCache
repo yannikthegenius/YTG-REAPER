@@ -1,0 +1,9 @@
+C10018 "/home/yannik/Desktop/Power Nap/MASTER/Media"
+F "#2_Power Nap_D23-M04-Y2026_87-BPM_48k-24b.wav" 31928696 0 1776972936 0
+D t "Power Nap" a "OT$Z Cozy" y 2026-04-23 g Rap
+D p 87.000000 s 48000 n 2 l 1:50.848
+D i 24
+F "#2_Power Nap_D23-M04-Y2026_87-BPM_48k-b.mp3" 4457859 0 1776972703 0
+D t "Power Nap Interlude" a "OT$Z Cozy" y 2026-04-23 g Rap
+D p 87 s 48000 n 2 l 1:51.348
+D i 320k

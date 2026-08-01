@@ -1,0 +1,9 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/James Brown - Sexy, Sexy, Sexy"
+F "Drum Fill 128.wav" 330934 0 1718400612 0
+D s 44100 n 2 l 0:01.875 i 16
+F "Snare 1.wav" 82436 0 1716885168 0
+D t "James Brown Sexy session (Insert 2)" s 44100 n 2 l 0:00.233
+D i 32
+F "Snare 2.wav" 691940 0 1716885152 0
+D t "James Brown Sexy session (Insert 2)" p 122.4164 s 44100 n 2
+D l 0:01.961 i 32

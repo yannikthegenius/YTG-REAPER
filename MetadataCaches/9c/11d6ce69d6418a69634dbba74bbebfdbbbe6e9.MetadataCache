@@ -1,0 +1,31 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/Unorganized/Nirvana"
+F "Heart-Shaped Box Kick.wav" 262208 0 1718112210 0
+D t drums_1 c "Modified by FL Studio 21" s 48000 n 2
+D l 0:00.682 i 32
+F "Heart-Shaped Box Snare.wav" 236296 0 1718112116 0
+D t drums_2 c "Modified by FL Studio 21" s 48000 n 2
+D l 0:00.615 i 32
+F "In Bloom Kick.wav" 52488 0 1718110378 0
+D t "Bass Drum" c "Modified by FL Studio 21" s 44100 n 1
+D l 0:00.592 i 16
+F "PennyRoyal Tea Drum Loop 1 116.wav" 2923800 0 1718110844 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:16.573
+D i 16
+F "PennyRoyal Tea Drum Loop 2 116 With Fill.wav" 2923800 0 1718110974 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:16.573
+D i 16
+F "PennyRoyal Tea Drum Loop 2 116.wav" 2923800 0 1718110880 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:16.573
+D i 16
+F "PennyRoyal Tea Snare 1.wav" 48214 0 1718110332 0
+D c "Modified by FL Studio 21" s 48000 n 1 l 0:00.500
+D i 16
+F "PennyRoyal Tea Snare 2.wav" 47370 0 1718110340 0
+D c "Modified by FL Studio 21" s 48000 n 1 l 0:00.491
+D i 16
+F "Smells Like Teen Spirit Kick.wav" 294808 0 1718111468 0
+D t drums_1 c "Modified by FL Studio 21" s 48000 n 2
+D l 0:00.767 i 32
+F "Smells Like Teen Spirit Snare.wav" 200176 0 1718111452 0
+D t drums_2 c "Modified by FL Studio 21" s 48000 n 2
+D l 0:00.521 i 32

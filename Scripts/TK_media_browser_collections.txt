@@ -1,0 +1,17 @@
+{
+ version = 1,
+ subgroup2_order = {
+ },
+ subgroup2_meta = {
+ },
+ items = {
+ },
+ group_order = {
+ },
+ subgroup_meta = {
+ },
+ group_meta = {
+ },
+ subgroup_order = {
+ },
+}

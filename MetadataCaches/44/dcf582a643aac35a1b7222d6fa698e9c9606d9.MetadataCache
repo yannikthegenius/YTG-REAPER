@@ -1,0 +1,397 @@
+C10018 "/media/Data/OUT$IDERZ/RESSOURCES/BEAT RESSOURCES/Drums/808 Samples"
+F "bass (1).wav" 184448 0 1116780120 0
+D s 44100 n 1 l 0:02.090 i 16
+F "bass (10).wav" 341928 0 1049990340 0
+D s 44100 n 1 l 0:03.876 i 16
+F "bass (11).wav" 6256 0 1049990340 0
+D s 44100 n 1 l 0:00.070 i 16
+F "bass (12).wav" 22228 0 1049990340 0
+D s 44100 n 1 l 0:00.252 i 16
+F "bass (13).wav" 8984 0 1049990340 0
+D s 44100 n 1 l 0:00.101 i 16
+F "bass (14).wav" 16144 0 1049990340 0
+D s 44100 n 1 l 0:00.183 i 16
+F "bass (15).wav" 119980 0 1049990340 0
+D s 44100 n 1 l 0:01.360 i 16
+F "bass (16).wav" 6204 0 1049990340 0
+D s 44100 n 1 l 0:00.070 i 16
+F "bass (17).wav" 393320 0 1049990340 0
+D s 44100 n 1 l 0:04.459 i 16
+F "bass (18).wav" 46764 0 1049990340 0
+D s 44100 n 1 l 0:00.530 i 16
+F "bass (19).WAV" 63720 0 1116771480 0
+D s 44100 n 1 l 0:00.721 i 16
+F "bass (2).WAV" 264646 0 1099498320 0
+D s 44100 n 1 l 0:03.000 i 16
+F "bass (20).WAV" 136102 0 1116769620 0
+D s 44100 n 1 l 0:01.542 i 16
+F "bass (21).wav" 211468 0 1056983160 0
+D y 2003-06-30 s 44100 n 1 l 0:02.396
+D i 16
+F "bass (22).wav" 246016 0 1116777120 0
+D y 2004-01-10 s 44100 n 1 l 0:02.787
+D i 16
+F "bass (23).wav" 227008 0 1049990340 0
+D s 44100 n 1 l 0:02.573 i 16
+F "bass (3).WAV" 44146 0 1099498320 0
+D s 44100 n 1 l 0:00.500 i 16
+F "bass (4).WAV" 176446 0 1099498320 0
+D s 44100 n 1 l 0:02.000 i 16
+F "bass (5).WAV" 264646 0 1099498320 0
+D s 44100 n 1 l 0:03.000 i 16
+F "bass (6).WAV" 176446 0 1099498320 0
+D s 44100 n 1 l 0:02.000 i 16
+F "bass (7).wav" 186184 0 1116780120 0
+D s 44100 n 1 l 0:02.110 i 16
+F "bass (8).wav" 191096 0 1049990340 0
+D s 44100 n 1 l 0:02.166 i 16
+F "bass (9).wav" 5048 0 1049990340 0
+D s 44100 n 1 l 0:00.057 i 16
+F bass.wav 225156 0 1049990340 0
+D s 44100 n 1 l 0:02.552 i 16
+F "clap (1).wav" 22680 0 948720720 0
+D y 2004-02-22 s 44100 n 1 r 1:06:16.320
+D l 0:00.243 i 16
+F "clap (10).wav" 30180 0 1004882880 0
+D s 44100 n 1 l 0:00.341 i 16
+F "clap (11).wav" 29300 0 1090690080 0
+D y 2004-07-24 s 44100 n 2 l 0:00.165
+D i 16
+F "clap (12).wav" 20192 0 1049990340 0
+D s 44100 n 1 l 0:00.228 i 16
+F "clap (13).WAV" 38188 0 1085302920 0
+D s 44100 n 1 l 0:00.432 i 16
+F "clap (14).WAV" 176446 0 1005701520 0
+D s 44100 n 1 l 0:02.000 i 16
+F "clap (15).wav" 174096 0 1116780000 0
+D s 44100 n 1 l 0:01.972 i 16
+F "clap (2).wav" 86144 0 1099779900 0
+D s 44100 n 1 l 0:00.975 i 16
+F "clap (3).WAV" 49548 0 1085302920 0
+D t "808 CLAP" c "808 CLAP" s 44100 n 1
+D l 0:00.559 i 16
+F "clap (4).WAV" 47658 0 1085302920 0
+D s 44100 n 1 l 0:00.540 i 16
+F "clap (5).WAV" 39854 0 1085302920 0
+D s 44100 n 1 l 0:00.451 i 16
+F "clap (6).WAV" 32410 0 1085302920 0
+D s 44100 n 1 l 0:00.367 i 16
+F "clap (7).WAV" 22162 0 1085302920 0
+D t "808 Claps" s 44100 n 1 l 0:00.249
+D i 16
+F "clap (8).wav" 22034 0 1004882880 0
+D s 44100 n 1 l 0:00.249 i 16
+F "clap (9).wav" 37240 0 1004882880 0
+D s 44100 n 1 l 0:00.421 i 16
+F clap.wav 51472 0 1116770460 0
+D s 44100 n 1 l 0:00.582 i 16
+F "cymbal (1).wav" 64332 0 1049990340 0
+D s 44100 n 1 l 0:00.729 i 16
+F "cymbal (2).wav" 193700 0 1049990340 0
+D s 44100 n 1 l 0:02.196 i 16
+F "cymbal (3).wav" 148270 0 1109926560 0
+D s 44100 n 1 l 0:01.681 i 16
+F "cymbal (4).WAV" 281928 0 1116770220 0
+D s 44100 n 1 l 0:03.195 i 16
+F cymbal.wav 77770 0 988371600 0
+D s 44100 n 1 l 0:00.880 i 16
+F "hi hat (1).WAV" 9512 0 1116770160 0
+D s 44100 n 1 l 0:00.106 i 16
+F "hi hat (10).wav" 6660 0 1004882880 0
+D s 44100 n 1 l 0:00.074 i 16
+F "hi hat (11).wav" 7850 0 1004882880 0
+D s 44100 n 1 l 0:00.088 i 16
+F "hi hat (12).wav" 12828 0 1004882880 0
+D s 44100 n 1 l 0:00.144 i 16
+F "hi hat (13).WAV" 22158 0 1116770940 0
+D s 44100 n 1 l 0:00.250 i 16
+F "hi hat (14).wav" 9058 0 1004896620 0
+D s 44100 n 1 l 0:00.102 i 16
+F "hi hat (15).wav" 26926 0 1004882880 0
+D s 44100 n 1 l 0:00.304 i 16
+F "hi hat (16).wav" 36480 0 1004882940 0
+D s 44100 n 2 l 0:00.206 i 16
+F "hi hat (17).wav" 60824 0 1004882940 0
+D s 44100 n 2 l 0:00.344 i 16
+F "hi hat (18).wav" 85900 0 1004882940 0
+D s 44100 n 2 l 0:00.486 i 16
+F "hi hat (19).wav" 109248 0 1004882940 0
+D s 44100 n 2 l 0:00.619 i 16
+F "hi hat (2).WAV" 52294 0 1116770160 0
+D s 44100 n 1 l 0:00.592 i 16
+F "hi hat (20).wav" 103556 0 1004882940 0
+D s 44100 n 2 l 0:00.587 i 16
+F "hi hat (21).WAV" 61464 0 1116770940 0
+D s 44100 n 1 l 0:00.696 i 16
+F "hi hat (22).wav" 7982 0 1004882940 0
+D s 44100 n 1 l 0:00.089 i 16
+F "hi hat (23).wav" 17036 0 1004882940 0
+D s 44100 n 1 l 0:00.192 i 16
+F "hi hat (24).wav" 34796 0 1004882940 0
+D s 44100 n 1 l 0:00.393 i 16
+F "hi hat (25).wav" 56324 0 1004882940 0
+D s 44100 n 1 l 0:00.637 i 16
+F "hi hat (26).wav" 35214 0 1099779900 0
+D s 44100 n 1 l 0:00.398 i 16
+F "hi hat (27).wav" 90652 0 1004883000 0
+D s 44100 n 2 l 0:00.513 i 16
+F "hi hat (28).WAV" 6964 0 1116771480 0
+D s 44100 n 1 l 0:00.078 i 16
+F "hi hat (29).WAV" 7820 0 1116771480 0
+D s 44100 n 1 l 0:00.087 i 16
+F "hi hat (3).wav" 52148 0 1053561420 0
+D y 2003-05-22 s 44100 n 1 l 0:00.590
+D i 16
+F "hi hat (30).wav" 42492 0 1116780000 0
+D y 2000-01-24 s 44100 n 2 l 0:00.240
+D i 16
+F "hi hat (31).wav" 39992 0 1116780000 0
+D y 2000-01-24 s 44100 n 2 l 0:00.226
+D i 16
+F "hi hat (32).wav" 40892 0 1116780000 0
+D y 2000-01-24 s 44100 n 2 l 0:00.231
+D i 16
+F "hi hat (33).wav" 146208 0 1116780000 0
+D y 2000-01-24 s 44100 n 2 l 0:00.827
+D i 16
+F "hi hat (34).wav" 118304 0 1116780000 0
+D y 2000-01-24 s 44100 n 2 l 0:00.669
+D i 16
+F "hi hat (35).wav" 6424 0 988371600 0
+D s 44100 n 1 l 0:00.071 i 16
+F "hi hat (36).wav" 49012 0 988373100 0
+D s 44100 n 1 l 0:00.554 i 16
+F "hi hat (37).WAV" 144456 0 922781520 0
+D s 44100 n 1 l 0:01.637 i 16
+F "hi hat (38).wav" 7184 0 1109926560 0
+D s 44100 n 1 l 0:00.081 i 16
+F "hi hat (39).wav" 8608 0 1109926560 0
+D s 44100 n 1 l 0:00.097 i 16
+F "hi hat (4).wav" 9028 0 1053561420 0
+D y 2003-05-22 s 44100 n 1 l 0:00.101
+D i 16
+F "hi hat (5).WAV" 21648 0 1116776580 0
+D s 44100 n 1 l 0:00.244 i 16
+F "hi hat (6).wav" 6660 0 1053557880 0
+D y 2003-05-22 s 44100 n 1 l 0:00.074
+D i 16
+F "hi hat (7).WAV" 7616 0 924516000 0
+D t "808_HH__CL      " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.084 i 16
+F "hi hat (8).WAV" 29680 0 924516000 0
+D t "808_HH__OP      " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.334 i 16
+F "hi hat (9).wav" 5880 0 1004882880 0
+D s 44100 n 1 l 0:00.066 i 16
+F "hi hat.wav" 30632 0 1109926560 0
+D s 44100 n 1 l 0:00.347 i 16
+F "kick (1).WAV" 44368 0 924516000 0
+D t "808_LNG_KICK    " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.501 i 16
+F "kick (10).wav" 23084 0 1078948800 0
+D s 44100 n 2 l 0:00.131 i 16
+F "kick (11).wav" 32140 0 1116777120 0
+D c " " s 44100 n 1 l 0:00.363
+D i 16
+F "kick (12).wav" 208160 0 1116780000 0
+D y 2000-01-24 s 44100 n 2 l 0:01.178
+D i 16
+F "kick (13).wav" 150816 0 1116780000 0
+D y 2000-01-24 s 44100 n 2 l 0:00.853
+D i 16
+F "kick (14).wav" 264690 0 948724920 0
+D s 44100 n 1 l 0:03.000 i 16
+F "kick (15).wav" 177614 0 948724380 0
+D y 2004-02-22 s 44100 n 1 r 1:06:16.320
+D l 0:02.000 i 16
+F "kick (16).wav" 57612 0 1109926560 0
+D s 44100 n 1 l 0:00.653 i 16
+F "kick (17).wav" 134200 0 1109926560 0
+D s 44100 n 1 l 0:01.521 i 16
+F "kick (18).WAV" 50398 0 1116776580 0
+D s 44100 n 1 l 0:00.570 i 16
+F "kick (19).WAV" 32912 0 1116776580 0
+D s 44100 n 1 l 0:00.372 i 16
+F "kick (2).wav" 29144 0 948720780 0
+D y 2004-02-22 s 44100 n 1 r 1:06:16.320
+D l 0:00.316 i 16
+F "kick (20).WAV" 196882 0 1116770160 0
+D s 44100 n 1 l 0:02.231 i 16
+F "kick (21).WAV" 23994 0 1116770160 0
+D s 44100 n 1 l 0:00.271 i 16
+F "kick (22).WAV" 44262 0 1116776580 0
+D s 44100 n 1 l 0:00.500 i 16
+F "kick (3).wav" 165932 0 1078948740 0
+D s 44100 n 2 l 0:00.940 i 16
+F "kick (4).wav" 115244 0 1078948740 0
+D s 44100 n 2 l 0:00.653 i 16
+F "kick (5).wav" 46124 0 1078948740 0
+D s 44100 n 2 l 0:00.261 i 16
+F "kick (6).wav" 59948 0 1078948800 0
+D s 44100 n 2 l 0:00.340 i 16
+F "kick (7).wav" 336428 0 1078948800 0
+D s 44100 n 2 l 0:01.907 i 16
+F "kick (8).wav" 165932 0 1078948800 0
+D s 44100 n 2 l 0:00.940 i 16
+F "kick (9).wav" 193580 0 1078948800 0
+D s 44100 n 2 l 0:01.097 i 16
+F kick.WAV 17104 0 927629700 0
+D s 44100 n 1 l 0:00.193 i 16
+F "snare (1).WAV" 16066 0 1116770220 0
+D s 44100 n 1 l 0:00.181 i 16
+F "snare (10).wav" 16314 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.091 i 16
+F "snare (11).wav" 16290 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.091 i 16
+F "snare (12).wav" 20418 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.114 i 16
+F "snare (13).wav" 19554 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.109 i 16
+F "snare (14).wav" 19230 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.108 i 16
+F "snare (15).wav" 21250 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.119 i 16
+F "snare (16).wav" 22218 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.124 i 16
+F "snare (17).wav" 20114 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.113 i 16
+F "snare (18).wav" 18278 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.102 i 16
+F "snare (19).wav" 19370 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.108 i 16
+F "snare (2).WAV" 12238 0 1116770220 0
+D s 44100 n 1 l 0:00.137 i 16
+F "snare (20).wav" 21138 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.118 i 16
+F "snare (21).wav" 21078 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.118 i 16
+F "snare (22).wav" 18422 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.103 i 16
+F "snare (23).wav" 20494 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.115 i 16
+F "snare (24).WAV" 7290 0 1079812200 0
+D c " " s 44100 n 1 l 0:00.082
+D i 16
+F "snare (25).WAV" 7290 0 1079812200 0
+D c " " s 44100 n 1 l 0:00.082
+D i 16
+F "snare (26).WAV" 7290 0 1079814780 0
+D c " " s 44100 n 1 l 0:00.082
+D i 16
+F "snare (27).WAV" 12598 0 1066113420 0
+D t 808-SNARE s 44100 n 1 l 0:00.140
+D i 16
+F "snare (28).WAV" 2252 0 985592820 0
+D s 22050 n 2 l 0:00.050 i 8
+F "snare (29).WAV" 16402 0 915301920 0
+D y 1999-01-02 s 44100 n 1 l 0:00.185
+D i 16
+F "snare (3).WAV" 35500 0 1085302920 0
+D s 44100 n 1 l 0:00.402 i 16
+F "snare (30).WAV" 29572 0 915301920 0
+D y 1999-01-02 s 44100 n 1 l 0:00.334
+D i 16
+F "snare (31).WAV" 15700 0 915301920 0
+D y 1999-01-02 s 44100 n 1 l 0:00.177
+D i 16
+F "snare (32).WAV" 26066 0 915302220 0
+D y 1999-01-02 s 44100 n 1 l 0:00.294
+D i 16
+F "snare (33).WAV" 6228 0 985592880 0
+D s 22050 n 2 l 0:00.140 i 8
+F "snare (34).WAV" 51484 0 922781760 0
+D s 44100 n 1 l 0:00.583 i 16
+F "snare (35).wav" 8128 0 1049990340 0
+D s 44100 n 1 l 0:00.092 i 16
+F "snare (36).wav" 7916 0 1049990340 0
+D s 44100 n 1 l 0:00.089 i 16
+F "snare (37).wav" 6752 0 1049990340 0
+D s 44100 n 1 l 0:00.076 i 16
+F "snare (38).wav" 7160 0 1049990340 0
+D s 44100 n 1 l 0:00.081 i 16
+F "snare (39).wav" 6824 0 1049990340 0
+D s 44100 n 1 l 0:00.077 i 16
+F "snare (4).WAV" 12004 0 915302340 0
+D y 1999-01-02 s 44100 n 1 l 0:00.135
+D i 16
+F "snare (40).wav" 6764 0 1049990340 0
+D s 44100 n 1 l 0:00.076 i 16
+F "snare (41).wav" 5020 0 1049990340 0
+D s 44100 n 1 l 0:00.056 i 16
+F "snare (42).wav" 6260 0 1049990340 0
+D s 44100 n 1 l 0:00.070 i 16
+F "snare (43).wav" 132896 0 1116780000 0
+D y 2000-01-24 s 44100 n 2 l 0:00.752
+D i 16
+F "snare (44).wav" 11344 0 988373220 0
+D s 44100 n 1 l 0:00.127 i 16
+F "snare (45).wav" 14356 0 1053557940 0
+D y 2003-05-22 s 44100 n 1 l 0:00.161
+D i 16
+F "snare (46).WAV" 13364 0 1053558000 0
+D y 2003-05-22 s 44100 n 1 l 0:00.150
+D i 16
+F "snare (47).wav" 19264 0 1109926560 0
+D s 44100 n 1 l 0:00.218 i 16
+F "snare (48).wav" 21604 0 1109926560 0
+D s 44100 n 1 l 0:00.244 i 16
+F "snare (5).WAV" 6776 0 915302340 0
+D y 1999-01-02 s 44100 n 1 l 0:00.075
+D i 16
+F "snare (6).WAV" 12224 0 915302400 0
+D y 1999-01-02 s 44100 n 1 l 0:00.137
+D i 16
+F "snare (7).WAV" 12288 0 924516000 0
+D t "808-SNARE       " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.137 i 16
+F "snare (8).wav" 30836 0 1090682760 0
+D y 2004-07-24 s 44100 n 2 l 0:00.174
+D i 16
+F "snare (9).wav" 22274 0 1004883000 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.125 i 16
+F snare.WAV 23094 0 1116770220 0
+D s 44100 n 1 l 0:00.260 i 16
+F "tom (1).WAV" 52176 0 1109926560 0
+D s 44100 n 1 l 0:00.591 i 16
+F "tom (10).WAV" 122064 0 922781220 0
+D s 44100 n 1 l 0:01.383 i 16
+F "tom (11).wav" 14914 0 988373340 0
+D s 44100 n 1 l 0:00.168 i 16
+F "tom (12).wav" 27680 0 988373340 0
+D s 44100 n 1 l 0:00.312 i 16
+F "tom (13).wav" 18122 0 988373400 0
+D s 44100 n 1 l 0:00.204 i 16
+F "tom (2).WAV" 27058 0 1116770220 0
+D s 44100 n 1 l 0:00.305 i 16
+F "tom (3).wav" 31216 0 1109926560 0
+D s 44100 n 1 l 0:00.353 i 16
+F "tom (4).wav" 72390 0 1004825400 0
+D b "Waveland Volume 2 -> CD-ROM PC." y 1995-05-01 g "Techno, Ambient, Industrial." d "Waveland Volume 2"
+D s 44100 n 2 l 0:00.409 i 16
+F "tom (5).wav" 10896 0 1049990340 0
+D s 44100 n 1 l 0:00.123 i 16
+F "tom (6).wav" 29066 0 1049990340 0
+D s 44100 n 1 l 0:00.329 i 16
+F "tom (7).wav" 15628 0 1049990340 0
+D s 44100 n 1 l 0:00.177 i 16
+F "tom (8).WAV" 63292 0 922781340 0
+D s 44100 n 1 l 0:00.717 i 16
+F "tom (9).WAV" 94322 0 922781220 0
+D s 44100 n 1 l 0:01.069 i 16
+F tom.WAV 26816 0 1109926560 0
+D s 44100 n 1 l 0:00.303 i 16

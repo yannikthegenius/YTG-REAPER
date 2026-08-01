@@ -1,0 +1,73 @@
+C10018 "/mnt/Data/OUT$IDERZ/RESOURCES/BEAT RESOURCES/Drums/SHITTON OF DRUMKITS/Metro 9999"
+F DIST1M808.wav 693914 0 1449853224 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:01.965
+D i 32
+F DIST2M808.wav 1009626 0 1449853224 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:02.860
+D i 32
+F DIST3M808.wav 1192154 0 1449853222 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:03.378
+D i 32
+F DIST4M808.wav 1220938 0 1449853224 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:03.459
+D i 32
+F DIST78.wav 1018406 0 1449853224 0
+D c "Recorded on 10/24/2014 in Edison." s 44100 n 2 l 0:02.885
+D i 32
+F "Metro Boomin 808.wav" 3110114 0 1449853224 0
+D p 122.5183 s 44100 n 2 l 0:08.815
+D i 32
+F "Metro Clap 11 Wet.wav" 336306 0 1449853222 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:01.904
+D i 16
+F "Metro Clap 11.wav" 114562 0 1449853222 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:00.323
+D i 32
+F "Metro Honest Kick.wav" 53222 0 1449853224 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:00.300
+D i 16
+F "MetroBoomin Open Hat.wav" 183866 0 1449853222 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:00.520
+D i 32
+F "MetroBoomin Perc.wav" 1301970 0 1449853222 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:03.689
+D i 32
+F "MetroBoomin Slap.wav" 210594 0 1449853220 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:00.596
+D i 32
+F SIZZLE1SNARE.wav 60828 0 1449853220 0
+D s 44100 n 2 l 0:00.171 i 32
+F SOMETRO188.wav 1202796 0 1449853220 0
+D p 140.8168 s 44100 n 2 l 0:03.408
+D i 32
+F SOMETRO189.wav 356222 0 1449853222 0
+D c "Recorded on 10/24/2014 in Edison." s 44100 n 2 l 0:01.009
+D i 32
+F "SonnyDigital Rim.wav" 88514 0 1449853218 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 1 l 0:00.500
+D i 32
+F "SonnyDigital Snare.wav" 46986 0 1449853220 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:00.132
+D i 32
+F "spinz 808.wav" 467594 0 1449853218 0
+D y 2012-03-16 s 44100 n 2 r 1:00:00.000
+D l 0:01.764 i 24
+F "SUB BOOM78.wav" 910268 0 1449853216 0
+D s 44100 n 2 l 0:02.579 i 32
+F "SUB BOOM79.wav" 4430428 0 1449853220 0
+D c "Modified by FL Studio 10" p 152.9005 s 44100 n 2
+D l 0:12.557 i 32
+F "SUB BOOM80.wav" 179812 0 1449853218 0
+D c "Modified by FL Studio 10" s 44100 n 2 l 0:00.508
+D i 32
+F TM88H1HAT.wav 33476 0 1449853214 0
+D c "Recorded on 9/26/2011 in Edison." s 44100 n 2 l 0:00.094
+D i 32
+F "Torture Kick.wav" 48886 0 1449853214 0
+D s 44100 n 2 l 0:00.184 i 24
+F "WillAFool 808.wav" 713558 0 1449853216 0
+D c "Recorded on 10/24/2014 in Edison." s 44100 n 2 l 0:02.021
+D i 32
+F "WillAFool Clap.wav" 19682 0 1449853216 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:00.109
+D i 16

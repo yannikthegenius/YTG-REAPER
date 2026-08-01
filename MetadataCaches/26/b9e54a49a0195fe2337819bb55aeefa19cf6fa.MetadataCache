@@ -1,0 +1,31 @@
+C10018 "/home/yannik/Desktop/2_WALL-E Sound Design/Media"
+F 176578__sgarrison2127__coins-in-a-jar-sped-up.aiff 232588 0 1765916461 0
+D s 44100 n 1 l 0:01.749 i 24
+F 350903__cabled_mess__jump_c_03.wav 41522 0 1765916414 0
+D s 44100 n 1 l 0:00.470 i 16
+F 408591__miguelab1998__20touch_metal.wav 149328 0 1765916779 0
+D s 48000 n 2 l 0:00.777 i 16
+F 469101__hawkeye_sprout__girl-thinking.wav 295238 0 1769004819 0
+D s 44100 n 2 l 0:01.115 i 24
+F 541940__nontu_lwazi00__bouncing-a-shell-on-a-hockey-ball.wav 38950858 0 1767709273 0
+D y 2020-11-02 s 48000 n 2 r 0:07.936
+D l 2:15.243 i 24
+F 562707__andresrojashere__sound-1-spray-can-transformation-3-calm.wav 1151572 0 1767710322 0
+D y 2021-03-09 s 44100 n 2 l 0:04.349
+D i 24
+F 567251__iwanplays__stones-falling.wav 741430 0 1767714111 0
+D t "018 Falling Rocks" a "Joseph Krebs" y 7/2013 s 44100
+D n 2 l 0:04.201 i 16
+F 727945__ethanssounds__blow_on_mic.mp3 172390 0 1769560751 0
+D t "blowing on mike" a ethan y 2024 g "sound effect"
+D s 44100 n 2 l 0:10.890 i 127k
+F 741625__goatsheadcastle__soft-packet-item-falling-on-concrete-multiple-times.wav 1884204 0 1767709275 0
+D s 44100 n 2 l 0:10.681 i 16
+F 781078__spinopel__wheel-noise.wav 7595968 0 1765915823 0
+D a SpinOpel g Experimental c https://spinopel.top/ s 44100
+D n 1 l 1:25.542 i 16 j "mime:image/png offset:7545200 length:50768"
+F 825544__newlocknew__magshim_sparkling-twinkle-bleep-1_em.wav 5762312 0 1767709887 0
+D t "MAGShim_Sparkling Twinkle Bleep 1_EM" c " " s 48000 n 2
+D l 0:30.010 i 16
+F 829979__kanaizo__reflective-ambience-1.wav 74783176 0 1769005278 0
+D s 48000 n 2 l 4:19.663 i 24

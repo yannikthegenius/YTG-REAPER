@@ -1,0 +1,31 @@
+C10018 /home/yannik/Desktop/Abschlussaufgabe_Welcome_17-07-24/MIX/Media
+F Bass.wav 10163252 0 1661464606 0
+D t Welcome_export s 44100 n 2 l 0:38.400
+D i 24
+F Drums.wav 10163254 0 1661464606 0
+D t Welcome_export s 44100 n 2 l 0:38.400
+D i 24
+F FX_DrumIntro.wav 10163260 0 1661464606 0
+D t Welcome_export s 44100 n 2 l 0:38.400
+D i 24
+F FX_Riser.wav 10163256 0 1661464606 0
+D t Welcome_export s 44100 n 2 l 0:38.400
+D i 24
+F FX_Subdrop.wav 10163258 0 1661464606 0
+D t Welcome_export s 44100 n 2 l 0:38.400
+D i 24
+F "Guit C.wav" 10163254 0 1661464606 0
+D t Welcome_export s 44100 n 2 l 0:38.400
+D i 24
+F "Guit L.wav" 10163254 0 1661464606 0
+D t Welcome_export s 44100 n 2 l 0:38.400
+D i 24
+F "Guit R.wav" 10163254 0 1661464606 0
+D t Welcome_export s 44100 n 2 l 0:38.400
+D i 24
+F "Guit Solo.wav" 10163258 0 1661464606 0
+D t Welcome_export s 44100 n 2 l 0:38.400
+D i 24
+F Vocals.wav 10163254 0 1661464606 0
+D t Welcome_export s 44100 n 2 l 0:38.400
+D i 24

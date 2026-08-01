@@ -1,0 +1,27 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/Drake - The Motto"
+F 808.wav 1210010 0 1686937406 0
+D t "BWB 808 DEEP SUB (6)" s 44100 n 2 l 0:06.857
+D i 16
+F "Clap 1.wav" 56292 0 1686937118 0
+D s 44100 n 2 l 0:00.318 i 16
+F "Clap 3.wav" 15048 0 1686937180 0
+D s 44100 n 2 l 0:00.084 i 16
+F "Clap 4.wav" 9276 0 1686937204 0
+D s 44100 n 2 l 0:00.051 i 16
+F "Clap 5.wav" 13544 0 1686937230 0
+D s 44100 n 2 l 0:00.076 i 16
+F "Clap 6.wav" 17216 0 1686937256 0
+D s 44100 n 2 l 0:00.096 i 16
+F "Clap 7.wav" 17524 0 1686937156 0
+D s 44100 n 2 l 0:00.098 i 16
+F Kick.wav 29584 0 1686937354 0
+D s 44100 n 2 l 0:00.083 i 32
+F "Open Hat 2.wav" 275000 0 1686937444 0
+D s 44100 n 2 l 0:00.779 i 32
+F "Open Hat 3.wav" 48212 0 1686937468 0
+D s 44100 n 1 l 0:00.544 i 16
+F "Open Hat.wav" 176624 0 1686937278 0
+D s 44100 n 1 l 0:01.000 i 32
+F Snare.wav 37390 0 1686937300 0
+D t VT_SD c "		" s 44100 n 1
+D l 0:00.211 i 32

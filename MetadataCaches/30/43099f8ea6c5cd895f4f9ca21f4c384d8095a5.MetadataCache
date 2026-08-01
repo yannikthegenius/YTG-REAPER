@@ -1,0 +1,76 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/The Jacksons - Walk Right Now"
+F "Clap 1.wav" 350078 0 1716970450 0
+D t WRN_Clappers&Flute_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:00.911 i 32
+F "Clap 2.wav" 353722 0 1716970456 0
+D t WRN_Clappers&Flute_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:00.920 i 32
+F "Clap 3.wav" 355762 0 1716970464 0
+D t WRN_Clappers&Flute_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:00.926 i 32
+F "Clap 4.wav" 325472 0 1716970484 0
+D t WRN_HandClaps_03 c "Recorded on 29-5-24 in Edison." s 44100 n 2
+D l 0:00.922 i 32
+F "Clap 5.wav" 326568 0 1716970490 0
+D t WRN_HandClaps_03 c "Recorded on 29-5-24 in Edison." s 44100 n 2
+D l 0:00.925 i 32
+F "Drum Fill 110.wav" 208894 0 1716970620 0
+D t WRN_Audio2_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:00.543 i 32
+F "Drum Loop 1 129.wav" 1313020 0 1718317124 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:07.442
+D i 16
+F "Drum Loop 2 129.wav" 1313020 0 1718317216 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:07.442
+D i 16
+F "Drum Loop 3 129.wav" 1313020 0 1718317152 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:07.442
+D i 16
+F "Drum Loop 4 129.wav" 1313020 0 1718317144 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:07.442
+D i 16
+F "Drum Loop 5 129.wav" 2625764 0 1718317160 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:14.884
+D i 16
+F "Drum Loop 6 129.wav" 3282136 0 1718316942 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:18.605
+D i 16
+F "FX 1.wav" 5198058 0 1716970404 0
+D t WRN_Siren_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:13.536 i 32
+F "FX 2.wav" 5351590 0 1716970412 0
+D t WRN_Siren_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:13.936 i 32
+F "FX 3.wav" 6641174 0 1716970416 0
+D t WRN_Siren_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:17.294 i 32
+F "FX 4.wav" 2428878 0 1716970650 0
+D t WRN_ODToms_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:06.324 i 32
+F "Perc 1.wav" 729312 0 1716970290 0
+D t WRN_NewPerc_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:01.899 i 32
+F "Perc 2.wav" 465416 0 1716970296 0
+D t WRN_NewPerc_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:01.211 i 32
+F "Perc 3.wav" 863358 0 1716970386 0
+D t WRN_ODToms_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:02.248 i 32
+F "Perc 4.wav" 475092 0 1716970564 0
+D t WRN_NewPerc_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:01.236 i 32
+F "Perc 5.wav" 352462 0 1716970660 0
+D t WRN_Congas_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:00.917 i 32
+F "Perc 6.wav" 354162 0 1716970442 0
+D t WRN_Congas_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:00.922 i 32
+F "Perc 7.wav" 85458 0 1716970426 0
+D t WRN_Cabasa_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:00.222 i 32
+F "Perc 8.wav" 38070 0 1716970432 0
+D t WRN_Cabasa_03 c "Modified by FL Studio 21" s 96000 n 1
+D l 0:00.098 i 32
+F "Perc Loop 129.wav" 1313020 0 1718316982 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:07.442
+D i 16
