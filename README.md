@@ -15,6 +15,8 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 ## 🎧 Notable Changes
 Viele nützliche REAPER-Scripts für eine bessere User Experience:
  - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte direkt wieder öffnen und weiterarbeiten.
+<img width="923" height="574" alt="image" src="https://github.com/user-attachments/assets/613658d4-3fda-426b-8f4d-b6c1a7020ec9" />
+
  - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
 <img width="785" height="298" alt="image" src="https://github.com/user-attachments/assets/11e4b2ae-9177-43a7-99ad-a1b74c6b5649" />
 
