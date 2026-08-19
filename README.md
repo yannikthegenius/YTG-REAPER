@@ -16,7 +16,11 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 Viele nützliche REAPER-Scripts für eine bessere User Experience:
  - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte direkt wieder öffnen und weiterarbeiten.
  - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
+<img width="103" height="838" alt="image" src="https://github.com/user-attachments/assets/f3fa6abe-d680-4bdb-923b-61c141a9e6a5" />
+
  - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden (WAV File).
+<img width="337" height="71" alt="image" src="https://github.com/user-attachments/assets/1a8ec742-4511-4cc9-9ba4-2847fc829fbb" />
+
  - Pre-Installed [ReaPack](https://reapack.com/).
  - Added additional ReaPack Repos.
  - Pre-Installed [SWS](https://sws-extension.org/).
