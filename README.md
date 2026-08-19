@@ -25,13 +25,12 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
   - Added additional ReaPack Repos.
   - Pre-Installed [SWS](https://sws-extension.org/).
   - Press B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
-  - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516).
-  - Press I for [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
-
 <img width="1178" height="664" alt="Screenshot_2026-08-19_21-01-49" src="https://github.com/user-attachments/assets/ecf6c1bb-9d74-4a96-941b-3a53c3a72f5e" />
- 
+
+  - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516).
 <img width="50%" height="50%" alt="Screenshot_2026-07-28_22-05-23" src="https://github.com/user-attachments/assets/20fed96c-6760-4ac4-8186-431c8c9e2ebd" />
 
+  - Press I for [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/e6aefde8-ddc7-4a6a-8655-02ec7ce2e842" />
 
 
