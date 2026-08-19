@@ -14,8 +14,6 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 
 ## 🎧 Notable Changes
 Viele nützliche REAPER-Scripts für eine bessere User Experience:
- - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte direkt wieder öffnen und weiterarbeiten.
-<img width="923" height="574" alt="image" src="https://github.com/user-attachments/assets/613658d4-3fda-426b-8f4d-b6c1a7020ec9" />
 
  - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
 <img width="785" height="298" alt="image" src="https://github.com/user-attachments/assets/11e4b2ae-9177-43a7-99ad-a1b74c6b5649" />
@@ -53,6 +51,9 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
   - Empty Track is now blue to achieve a more coherent look.
 <img width="1577" height="386" alt="image" src="https://github.com/user-attachments/assets/1fc33be6-7876-4c26-8cac-f51d09eba6a2" />
+
+ - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte direkt wieder öffnen und weiterarbeiten.
+<img width="923" height="574" alt="image" src="https://github.com/user-attachments/assets/613658d4-3fda-426b-8f4d-b6c1a7020ec9" />
 
 - Zwei sinnvolle Toolbars mit nützlichen Funktionen: Nicht zu überladen, aber so, dass es die Funktionalität von REAPER verbessert. Alle Icons haben einen Hover Text mit Erläuterung der Funktion. 
 <img width="1861" height="36" alt="Screenshot_2026-08-19_20-55-37" src="https://github.com/user-attachments/assets/a4705398-2110-4894-a807-e76fe98f0050" />
