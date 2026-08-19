@@ -8,7 +8,7 @@ Meine Configs für [REAPER](https://reaper.fm) based on [Reapertips Theme](https
 ---
 
 ####  👌 REAPER hätte sicherlich Millionen mehr User, wenn es by default einfach nur besser aussehen würde.
-Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifikant verbessert, indem ihr einfach nur die Files von dieser Repo in den REAPER Config-Ordner kopiert. 
+Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifikant verbessert, indem ihr einfach nur die Files von dieser Repo in euren REAPER Config-Ordner kopiert. 
 
 ---
 
