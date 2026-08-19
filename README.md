@@ -17,6 +17,10 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
   - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte direkt wieder öffnen und weiterarbeiten.
   - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
   - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden (WAV File).
+  - Empty Track is now blue to achieve a more coherent look
+ 
+<img width="1577" height="386" alt="image" src="https://github.com/user-attachments/assets/1fc33be6-7876-4c26-8cac-f51d09eba6a2" />
+ 
   - Pre-Installed [ReaPack](https://reapack.com/).
   - Added additional ReaPack Repos.
   - Pre-Installed [SWS](https://sws-extension.org/). 
@@ -32,9 +36,14 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
   - REAPER zeigt bei einem verfügbaren Update die [REAPER Update Utility](https://forum.cockos.com/showthread.php?t=242922) beim nächsten Startup an: Man kann einfach REAPER updaten, ohne jemals den Browser öffnen zu müssen.
   - Open Media Explorer with [MX Tuner](https://forum.cockos.com/showthread.php?t=259698) by default: Tune selected sample to a key.
  
-<img width="586" height="840" alt="Screenshot_2026-07-28_21-56-39" src="https://github.com/user-attachments/assets/5c50a5ab-e864-45d9-857a-a2820e9346bb" />
+<img width="343" height="830" alt="Screenshot_2026-08-19_20-48-56" src="https://github.com/user-attachments/assets/83889d0c-2229-4e85-be17-aaf6adf23dc3" />
+
 
   - [Project Timer](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua): Jede .RPP Project File wird immer automatisch die Zeit tracken, sodass man weiß, wie lang man an einem Projekt gearbeitet hat (seriöse Messung durch integrierten AFK-Mode).
+
+<img width="580" height="108" alt="image" src="https://github.com/user-attachments/assets/c4d2616e-137b-4ed3-a547-3adb78aee792" />
+
+
 - Show FX Sends + Inserts by default; ähnlich wie Pro Tools.
 
 <img width="555" height="174" alt="Screenshot_2026-07-28_16-26-02" src="https://github.com/user-attachments/assets/14243189-2e6a-4559-bb88-114fdafca0a9" />
@@ -42,14 +51,14 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 
 - Zwei sinnvolle Toolbars mit nützlichen Funktionen: Nicht zu überladen, aber so, dass es die Funktionalität von REAPER verbessert.
 
-<img width="1647" height="33" alt="Screenshot_2026-07-29_17-54-08" src="https://github.com/user-attachments/assets/2cfaefe0-fd88-4c29-821f-741e2bb72971" />
+<img width="1861" height="36" alt="Screenshot_2026-08-19_20-55-37" src="https://github.com/user-attachments/assets/a4705398-2110-4894-a807-e76fe98f0050" />
 
-<img width="1647" height="33" alt="Screenshot_2026-07-29_17-54-18" src="https://github.com/user-attachments/assets/6419bbcd-6ce9-4c0d-936c-b0f9de2c8c4c" />
+<img width="1861" height="36" alt="Screenshot_2026-08-19_20-55-55" src="https://github.com/user-attachments/assets/753b8801-f7f0-43d7-8f54-2d564b0fc478" />
 
 
 - Improved Main Toolbar.
 
-<img width="697" height="102" alt="Screenshot_2026-07-29_17-56-58" src="https://github.com/user-attachments/assets/f4652b2d-caa3-4084-ad0d-442ff228910e" />
+<img width="692" height="108" alt="Screenshot_2026-08-19_20-54-19" src="https://github.com/user-attachments/assets/d375b8ae-dd3a-4b05-a36c-4df92be61557" />
 
 - Extended Keyboard Shortcuts.
 - Extended Right Click Menu Entries.
