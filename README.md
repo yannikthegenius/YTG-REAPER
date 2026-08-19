@@ -51,7 +51,7 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 <img width="555" height="174" alt="Screenshot_2026-07-28_16-26-02" src="https://github.com/user-attachments/assets/14243189-2e6a-4559-bb88-114fdafca0a9" />
 
 
-- Zwei sinnvolle Toolbars mit nützlichen Funktionen: Nicht zu überladen, aber so, dass es die Funktionalität von REAPER verbessert.
+- Zwei sinnvolle Toolbars mit nützlichen Funktionen: Nicht zu überladen, aber so, dass es die Funktionalität von REAPER verbessert. Alle Icons haben einen Hover Text mit Erläuterung der Funktion. 
 
 <img width="1861" height="36" alt="Screenshot_2026-08-19_20-55-37" src="https://github.com/user-attachments/assets/a4705398-2110-4894-a807-e76fe98f0050" />
 
