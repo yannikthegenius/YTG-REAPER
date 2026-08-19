@@ -13,18 +13,14 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 ---
 
 ## 🎧 Notable Changes
-- Viele nützliche REAPER-Scripts für eine bessere User Experience:
-  - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte direkt wieder öffnen und weiterarbeiten.
-  - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
-  - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden (WAV File).
-  - Empty Track is now blue to achieve a more coherent look.
- 
-<img width="1577" height="386" alt="image" src="https://github.com/user-attachments/assets/1fc33be6-7876-4c26-8cac-f51d09eba6a2" />
- 
-  - Pre-Installed [ReaPack](https://reapack.com/).
-  - Added additional ReaPack Repos.
-  - Pre-Installed [SWS](https://sws-extension.org/).
-  - Press B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
+Viele nützliche REAPER-Scripts für eine bessere User Experience:
+ - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte direkt wieder öffnen und weiterarbeiten.
+ - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
+ - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden (WAV File).
+ - Pre-Installed [ReaPack](https://reapack.com/).
+ - Added additional ReaPack Repos.
+ - Pre-Installed [SWS](https://sws-extension.org/).
+ - Press B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
 <img width="1178" height="664" alt="Screenshot_2026-08-19_21-01-49" src="https://github.com/user-attachments/assets/ecf6c1bb-9d74-4a96-941b-3a53c3a72f5e" />
 
   - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516).
@@ -35,33 +31,28 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 
 
   - REAPER zeigt bei einem verfügbaren Update die [REAPER Update Utility](https://forum.cockos.com/showthread.php?t=242922) beim nächsten Startup an: Man kann einfach REAPER updaten, ohne jemals den Browser öffnen zu müssen.
-
 <img width="403" height="300" alt="image" src="https://github.com/user-attachments/assets/af603b9f-8ae5-46b6-b218-60c379d8f8e7" />
 
   - Open Media Explorer with [MX Tuner](https://forum.cockos.com/showthread.php?t=259698) by default: Tune selected sample to a key.
- 
 <img width="343" height="830" alt="Screenshot_2026-08-19_20-48-56" src="https://github.com/user-attachments/assets/83889d0c-2229-4e85-be17-aaf6adf23dc3" />
 
 
   - [Project Timer](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua): Jede .RPP Project File wird immer automatisch die Zeit tracken, sodass man weiß, wie lang man an einem Projekt gearbeitet hat (seriöse Messung durch integrierten AFK-Mode).
-
 <img width="580" height="108" alt="image" src="https://github.com/user-attachments/assets/c4d2616e-137b-4ed3-a547-3adb78aee792" />
 
 
 - Show FX Sends + Inserts by default; ähnlich wie Pro Tools.
-
 <img width="555" height="174" alt="Screenshot_2026-07-28_16-26-02" src="https://github.com/user-attachments/assets/14243189-2e6a-4559-bb88-114fdafca0a9" />
 
+  - Empty Track is now blue to achieve a more coherent look.
+<img width="1577" height="386" alt="image" src="https://github.com/user-attachments/assets/1fc33be6-7876-4c26-8cac-f51d09eba6a2" />
 
 - Zwei sinnvolle Toolbars mit nützlichen Funktionen: Nicht zu überladen, aber so, dass es die Funktionalität von REAPER verbessert. Alle Icons haben einen Hover Text mit Erläuterung der Funktion. 
-
 <img width="1861" height="36" alt="Screenshot_2026-08-19_20-55-37" src="https://github.com/user-attachments/assets/a4705398-2110-4894-a807-e76fe98f0050" />
-
 <img width="1861" height="36" alt="Screenshot_2026-08-19_20-55-55" src="https://github.com/user-attachments/assets/753b8801-f7f0-43d7-8f54-2d564b0fc478" />
 
 
 - Improved Main Toolbar.
-
 <img width="692" height="108" alt="Screenshot_2026-08-19_20-54-19" src="https://github.com/user-attachments/assets/d375b8ae-dd3a-4b05-a36c-4df92be61557" />
 
 - Extended Keyboard Shortcuts.
@@ -69,7 +60,6 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 - Pre-Defined Auto Track Coloring.
 - Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) für Automatic File Naming.
 - Pre-Defined Project Templates für *Mix + Record [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Buttons geladen werden können.
-
 <img width="128" height="33" alt="Screenshot_2026-08-19_21-06-19" src="https://github.com/user-attachments/assets/6a72edc8-ea77-44aa-9d3c-9dfee31dec8f" />
 
 
