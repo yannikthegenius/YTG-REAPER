@@ -22,13 +22,13 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
  - Pre-Installed [SWS](https://sws-extension.org/).
  - Press B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
 <img width="1178" height="664" alt="Screenshot_2026-08-19_21-01-49" src="https://github.com/user-attachments/assets/ecf6c1bb-9d74-4a96-941b-3a53c3a72f5e" />
+<img width="1902" height="807" alt="image" src="https://github.com/user-attachments/assets/ef4d4e8d-93f0-4a05-8e18-57768fe1b429" />
 
   - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516).
 <img width="50%" height="50%" alt="Screenshot_2026-07-28_22-05-23" src="https://github.com/user-attachments/assets/20fed96c-6760-4ac4-8186-431c8c9e2ebd" />
 
   - Press I for [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/e6aefde8-ddc7-4a6a-8655-02ec7ce2e842" />
-
 
   - REAPER zeigt bei einem verfügbaren Update die [REAPER Update Utility](https://forum.cockos.com/showthread.php?t=242922) beim nächsten Startup an: Man kann einfach REAPER updaten, ohne jemals den Browser öffnen zu müssen.
 <img width="403" height="300" alt="image" src="https://github.com/user-attachments/assets/af603b9f-8ae5-46b6-b218-60c379d8f8e7" />
@@ -57,6 +57,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
 - Extended Keyboard Shortcuts.
 - Extended Right Click Menu Entries.
+- Navigate Project Timeline with Middle Click, like in Video Editors or Graphic Design Software. Or scroll in TCP Area for vertical movement or scroll outside of TCP Area for horizontal movement (zoom in).
 - Pre-Defined Auto Track Coloring.
 - Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) für Automatic File Naming.
 - Pre-Defined Project Templates für *Mix + Record [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Buttons geladen werden können.
