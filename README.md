@@ -66,7 +66,10 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 - Extended Right Click Menu Entries.
 - Pre-Defined Auto Track Coloring.
 - Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) für Automatic File Naming.
-- Pre-Defined Project Templates für *Mix + Record*, *Mastering* oder *Empty*, welche mit einem Klick auf dedizierte Toolbar-Buttons geladen werden können.
+- Pre-Defined Project Templates für *Mix + Record [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Buttons geladen werden können.
+
+<img width="128" height="33" alt="Screenshot_2026-08-19_21-06-19" src="https://github.com/user-attachments/assets/6a72edc8-ea77-44aa-9d3c-9dfee31dec8f" />
+
 
 ---
 
