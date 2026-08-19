@@ -59,6 +59,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Improved Main Toolbar.
 <img width="692" height="108" alt="Screenshot_2026-08-19_20-54-19" src="https://github.com/user-attachments/assets/d375b8ae-dd3a-4b05-a36c-4df92be61557" />
 
+- Setup Project Auto Saves.
 - Extended Keyboard Shortcuts.
 - Extended Right Click Menu Entries.
 - Pre-Installed [ReaPack](https://reapack.com/).
