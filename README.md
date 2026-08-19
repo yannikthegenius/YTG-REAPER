@@ -35,6 +35,9 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 
 
   - REAPER zeigt bei einem verfügbaren Update die [REAPER Update Utility](https://forum.cockos.com/showthread.php?t=242922) beim nächsten Startup an: Man kann einfach REAPER updaten, ohne jemals den Browser öffnen zu müssen.
+
+<img width="403" height="300" alt="image" src="https://github.com/user-attachments/assets/af603b9f-8ae5-46b6-b218-60c379d8f8e7" />
+
   - Open Media Explorer with [MX Tuner](https://forum.cockos.com/showthread.php?t=259698) by default: Tune selected sample to a key.
  
 <img width="343" height="830" alt="Screenshot_2026-08-19_20-48-56" src="https://github.com/user-attachments/assets/83889d0c-2229-4e85-be17-aaf6adf23dc3" />
