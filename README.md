@@ -65,7 +65,12 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Imported additional ReaPack Repos.
 - Pre-Installed [SWS](https://sws-extension.org/).
 - Navigate Project Timeline with Middle Click, like in Video Editors or Graphic Design Software. Or Scroll in TCP Area for Vertical Movement or Scroll outside of TCP Area for Horizontal Movement (zoom in).
-- Pre-Defined Auto Track Coloring.
+- Pre-Defined Automatic Track Coloring.
+- Pre-Defined Automatic Track Icons (Example: Naming a Track 'REC' automatically Colors the Track Red and inserts a Microphone Icon without needing to configure anything manually).
+- Ruler shows a bright red color while Recording.
+<img width="1822" height="250" alt="Screenshot_2026-08-19_22-12-35" src="https://github.com/user-attachments/assets/77bfd745-c79b-4475-8973-4948cb2f85ff" />
+
+
 - Click on Media Item Edges to Reset Trimmed Item Length.
 - Implemented Startup Sound and Render Sound Effect.
 - Changed Reapeaks File Directory to Reduce Clutter. 
