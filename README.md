@@ -38,7 +38,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Show FX Sends + Inserts by default; ähnlich wie Pro Tools.
 <img width="555" height="174" alt="Screenshot_2026-07-28_16-26-02" src="https://github.com/user-attachments/assets/14243189-2e6a-4559-bb88-114fdafca0a9" />
 
-  - Empty Track is now blue to achieve a more coherent look.
+  - Empty Track is now blue instead of grey to achieve a more coherent and vibrant look.
 <img width="1577" height="386" alt="image" src="https://github.com/user-attachments/assets/1fc33be6-7876-4c26-8cac-f51d09eba6a2" />
 
  - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte direkt wieder öffnen und weiterarbeiten.
