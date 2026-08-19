@@ -19,7 +19,8 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 <img width="785" height="298" alt="image" src="https://github.com/user-attachments/assets/11e4b2ae-9177-43a7-99ad-a1b74c6b5649" />
 
  - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden (WAV File).
-<img width="337" height="59" alt="image" src="https://github.com/user-attachments/assets/e7f9c518-4148-458f-829b-8fc8530dd60f" />
+<img width="539" height="54" alt="Screenshot_2026-08-19_21-35-47" src="https://github.com/user-attachments/assets/b2ac3477-cce7-401e-aa95-4cd4a75f4f02" />
+
 
  - Pre-Installed [ReaPack](https://reapack.com/).
  - Added additional ReaPack Repos.
