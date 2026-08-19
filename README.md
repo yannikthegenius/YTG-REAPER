@@ -16,8 +16,8 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
  - Press B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
-<img width="1178" height="664" alt="Screenshot_2026-08-19_21-01-49" src="https://github.com/user-attachments/assets/ecf6c1bb-9d74-4a96-941b-3a53c3a72f5e" />
-<img width="1902" height="807" alt="image" src="https://github.com/user-attachments/assets/ef4d4e8d-93f0-4a05-8e18-57768fe1b429" />
+<img width="50%" height="50%" alt="Screenshot_2026-08-19_21-01-49" src="https://github.com/user-attachments/assets/ecf6c1bb-9d74-4a96-941b-3a53c3a72f5e" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/ef4d4e8d-93f0-4a05-8e18-57768fe1b429" />
 
   - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516).
 <img width="50%" height="50%" alt="Screenshot_2026-07-28_22-05-23" src="https://github.com/user-attachments/assets/20fed96c-6760-4ac4-8186-431c8c9e2ebd" />
