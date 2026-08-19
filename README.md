@@ -45,7 +45,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 <img width="923" height="574" alt="image" src="https://github.com/user-attachments/assets/613658d4-3fda-426b-8f4d-b6c1a7020ec9" />
 
  - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden (WAV File).
-<img width="539" height="54" alt="Screenshot_2026-08-19_21-35-47" src="https://github.com/user-attachments/assets/b2ac3477-cce7-401e-aa95-4cd4a75f4f02" />
+<img width="862" height="558" alt="Screenshot_2026-08-19_21-54-00" src="https://github.com/user-attachments/assets/2351a0b8-24ef-4a23-acc6-d531f84be7fb" />
 
 
  - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
