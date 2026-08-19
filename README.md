@@ -15,16 +15,6 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 ## 🎧 Notable Changes
 Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
- - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
-<img width="785" height="298" alt="image" src="https://github.com/user-attachments/assets/11e4b2ae-9177-43a7-99ad-a1b74c6b5649" />
-
- - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden (WAV File).
-<img width="539" height="54" alt="Screenshot_2026-08-19_21-35-47" src="https://github.com/user-attachments/assets/b2ac3477-cce7-401e-aa95-4cd4a75f4f02" />
-
-
- - Pre-Installed [ReaPack](https://reapack.com/).
- - Added additional ReaPack Repos.
- - Pre-Installed [SWS](https://sws-extension.org/).
  - Press B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
 <img width="1178" height="664" alt="Screenshot_2026-08-19_21-01-49" src="https://github.com/user-attachments/assets/ecf6c1bb-9d74-4a96-941b-3a53c3a72f5e" />
 <img width="1902" height="807" alt="image" src="https://github.com/user-attachments/assets/ef4d4e8d-93f0-4a05-8e18-57768fe1b429" />
@@ -45,7 +35,6 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
   - [Project Timer](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua): Jede .RPP Project File wird immer automatisch die Zeit tracken, sodass man weiß, wie lang man an einem Projekt gearbeitet hat (seriöse Messung durch integrierten AFK-Mode).
 <img width="580" height="108" alt="image" src="https://github.com/user-attachments/assets/c4d2616e-137b-4ed3-a547-3adb78aee792" />
 
-
 - Show FX Sends + Inserts by default; ähnlich wie Pro Tools.
 <img width="555" height="174" alt="Screenshot_2026-07-28_16-26-02" src="https://github.com/user-attachments/assets/14243189-2e6a-4559-bb88-114fdafca0a9" />
 
@@ -54,6 +43,13 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
  - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte direkt wieder öffnen und weiterarbeiten.
 <img width="923" height="574" alt="image" src="https://github.com/user-attachments/assets/613658d4-3fda-426b-8f4d-b6c1a7020ec9" />
+
+ - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden (WAV File).
+<img width="539" height="54" alt="Screenshot_2026-08-19_21-35-47" src="https://github.com/user-attachments/assets/b2ac3477-cce7-401e-aa95-4cd4a75f4f02" />
+
+
+ - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
+<img width="785" height="298" alt="image" src="https://github.com/user-attachments/assets/11e4b2ae-9177-43a7-99ad-a1b74c6b5649" />
 
 - Zwei sinnvolle Toolbars mit nützlichen Funktionen: Nicht zu überladen, aber so, dass es die Funktionalität von REAPER verbessert. Alle Icons haben einen Hover Text mit Erläuterung der Funktion. 
 <img width="1861" height="36" alt="Screenshot_2026-08-19_20-55-37" src="https://github.com/user-attachments/assets/a4705398-2110-4894-a807-e76fe98f0050" />
@@ -65,6 +61,9 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
 - Extended Keyboard Shortcuts.
 - Extended Right Click Menu Entries.
+- Pre-Installed [ReaPack](https://reapack.com/).
+- Added additional ReaPack Repos.
+- Pre-Installed [SWS](https://sws-extension.org/).
 - Navigate Project Timeline with Middle Click, like in Video Editors or Graphic Design Software. Or scroll in TCP Area for vertical movement or scroll outside of TCP Area for horizontal movement (zoom in).
 - Pre-Defined Auto Track Coloring.
 - Click on Media Item Edges to Reset Trimmed Item Length.
