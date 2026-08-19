@@ -23,8 +23,9 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
  
   - Pre-Installed [ReaPack](https://reapack.com/).
   - Added additional ReaPack Repos.
-  - Pre-Installed [SWS](https://sws-extension.org/). 
-  - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516) and
+  - Pre-Installed [SWS](https://sws-extension.org/).
+  - Press B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
+  - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516).
   - Press I for [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
 
  
@@ -98,6 +99,7 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
   - Danke an [solger](https://forum.cockos.com/member.php?u=56856) für [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697).
   - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
   - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Project Time Counter](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua).
+  - Danke an [ArthurMcArthur](https://forum.cockos.com/member.php?u=109337) für [McSequencer](https://forum.cockos.com/showthread.php?t=286577).
   - Danke an [OLSHALOM](https://forum.cockos.com/member.php?u=134313) für [CHROMA Coloring Tool](https://forum.cockos.com/showthread.php?t=281516).
   - Danke an [BirdBird](https://forum.cockos.com/member.php?u=130362) für [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514).
   - Danke an [Justin Frankel](https://www.cockos.com/) für die [REAPER DAW](https://www.reaper.fm).
