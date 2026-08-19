@@ -62,14 +62,14 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Extended Keyboard Shortcuts.
 - Extended Right Click Menu Entries.
 - Pre-Installed [ReaPack](https://reapack.com/).
-- Added additional ReaPack Repos.
+- Imported additional ReaPack Repos.
 - Pre-Installed [SWS](https://sws-extension.org/).
-- Navigate Project Timeline with Middle Click, like in Video Editors or Graphic Design Software. Or scroll in TCP Area for vertical movement or scroll outside of TCP Area for horizontal movement (zoom in).
+- Navigate Project Timeline with Middle Click, like in Video Editors or Graphic Design Software. Or Scroll in TCP Area for Vertical Movement or Scroll outside of TCP Area for Horizontal Movement (zoom in).
 - Pre-Defined Auto Track Coloring.
 - Click on Media Item Edges to Reset Trimmed Item Length.
 - Implemented Startup Sound and Render Sound Effect.
-- Changed Reapeaks File Directory to reduce clutter. 
-- Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) für Automatic File Naming.
+- Changed Reapeaks File Directory to Reduce Clutter. 
+- Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) for Automatic File Naming.
 - Pre-Defined Project Templates für *Mix + Record [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Buttons geladen werden können.
 <img width="128" height="33" alt="Screenshot_2026-08-19_21-06-19" src="https://github.com/user-attachments/assets/6a72edc8-ea77-44aa-9d3c-9dfee31dec8f" />
 
