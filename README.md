@@ -15,15 +15,15 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 ## 🎧 Notable Changes
 Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
- - Press B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
-<img width="50%" height="50%" alt="Screenshot_2026-08-19_21-01-49" src="https://github.com/user-attachments/assets/ecf6c1bb-9d74-4a96-941b-3a53c3a72f5e" />
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/ef4d4e8d-93f0-4a05-8e18-57768fe1b429" />
-
   - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516).
 <img width="50%" height="50%" alt="Screenshot_2026-07-28_22-05-23" src="https://github.com/user-attachments/assets/20fed96c-6760-4ac4-8186-431c8c9e2ebd" />
 
   - Press I for [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/e6aefde8-ddc7-4a6a-8655-02ec7ce2e842" />
+
+ - Press B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
+<img width="50%" height="50%" alt="Screenshot_2026-08-19_21-01-49" src="https://github.com/user-attachments/assets/ecf6c1bb-9d74-4a96-941b-3a53c3a72f5e" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/ef4d4e8d-93f0-4a05-8e18-57768fe1b429" />
 
   - REAPER zeigt bei einem verfügbaren Update die [REAPER Update Utility](https://forum.cockos.com/showthread.php?t=242922) beim nächsten Startup an: Man kann einfach REAPER updaten, ohne jemals den Browser öffnen zu müssen.
 <img width="403" height="300" alt="image" src="https://github.com/user-attachments/assets/af603b9f-8ae5-46b6-b218-60c379d8f8e7" />
