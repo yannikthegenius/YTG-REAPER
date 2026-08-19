@@ -82,16 +82,17 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 2. Open REAPER.
 3. Options > "Show REAPER resource path in explorer/finder..."
 4. OS File Manager will open in the correct directory.
-5. Copy all files from YTG-REAPER into that directory.
+5. Close REAPER.
+6. Copy all files from YTG-REAPER into that directory.
 
 ### II. Setup REAPER
-6. Open REAPER.
-7. Close all "Missing Files" errors.
-8. Options > Themes > Pick any Reapertips Theme.
-9. Switch to Toolbar 2 (top right button).
-10. Now, in Toolbar 2, click on second toolbar button: "ReaPack: Synchronize packages".
-11. Restart REAPER. Errors are gone.
-12. Missing icons? Right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
+7. Open REAPER.
+8. Close all "Missing Files" errors.
+9. Options > Themes > Pick any of the available "Reapertips" Themes.
+10. Switch to Toolbar 2 (top right button).
+11. Now, in Toolbar 2, click on second toolbar button: "ReaPack: Synchronize packages".
+12. Restart REAPER. Errors are gone.
+13. Missing icons? Right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
 
 ---
 
