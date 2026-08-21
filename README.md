@@ -72,13 +72,12 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 <img width="1822" height="250" alt="Screenshot_2026-08-19_22-12-35" src="https://github.com/user-attachments/assets/77bfd745-c79b-4475-8973-4948cb2f85ff" />
 
 
-- Click on Media Item Edges to Reset Trimmed Item Length.
 - Implemented Startup Sound and Render Sound Effect.
 - Changed Reapeaks File Directory to Reduce Clutter. 
 - Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) for Automatic File Naming.
 - Pre-Defined Project Templates für *Mix + Record [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Buttons geladen werden können.
 <img width="128" height="33" alt="Screenshot_2026-08-19_21-06-19" src="https://github.com/user-attachments/assets/6a72edc8-ea77-44aa-9d3c-9dfee31dec8f" />
-
+- Various other small refinements.
 
 ---
 
