@@ -112,7 +112,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
 #### 👏 Credits
 
-  - Danke an [Alejandro](https://www.reapertips.com) und [FTC](https://forum.cockos.com/member.php?u=131628) für das [Reapertips Theme](https://forum.cockos.com/showthread.php?t=281644).
+  - Danke an [Reapertips](https://www.reapertips.com) und [FTC](https://forum.cockos.com/member.php?u=131628) für das [Reapertips Theme](https://forum.cockos.com/showthread.php?t=281644).
   - Danke an [FTC](https://forum.cockos.com/member.php?u=131628) für [MX Tuner](https://forum.cockos.com/showthread.php?t=259698).
   - Danke an die Developer von [SWS](https://sws-extension.org/).
   - Danke an die Developer vom [ReaPack Package Manager](https://reapack.com/).
@@ -121,6 +121,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
   - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
   - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Project Time Counter](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua).
   - Danke an [ArthurMcArthur](https://forum.cockos.com/member.php?u=109337) für [McSequencer](https://forum.cockos.com/showthread.php?t=286577).
+  - Danke an [Reapertips](https://www.reapertips.com) für [Time Selection Colors](https://github.com/Reapertips/ReaScripts/).
   - Danke an [OLSHALOM](https://forum.cockos.com/member.php?u=134313) für [CHROMA Coloring Tool](https://forum.cockos.com/showthread.php?t=281516).
   - Danke an [BirdBird](https://forum.cockos.com/member.php?u=130362) für [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514).
   - Danke an [Justin Frankel](https://www.cockos.com/) für die [REAPER DAW](https://www.reaper.fm).
