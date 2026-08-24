@@ -81,7 +81,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Implemented Startup Sound and Render Sound Effect.
 - Changed Reapeaks File Directory to Reduce Clutter. 
 - Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) for Automatic File Naming.
-- Pre-Defined Project Templates für *Mix + Record [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Buttons geladen werden können.
+- Pre-Defined Project Templates für *Mix + Record [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Icons geladen werden können.
 <img width="128" height="33" alt="Screenshot_2026-08-19_21-06-19" src="https://github.com/user-attachments/assets/6a72edc8-ea77-44aa-9d3c-9dfee31dec8f" />
 
 - Various other small refinements.
@@ -102,8 +102,8 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 7. Open REAPER.
 8. Close all "Missing Files" errors.
 9. Options > Themes > Pick any of the available "Reapertips" Themes.
-10. Switch to Toolbar 2 (top right button).
-11. Now, in Toolbar 2, click on second toolbar button: "ReaPack: Synchronize packages".
+10. Switch to Toolbar 2 (top right icon).
+11. Now, in Toolbar 2, click on second toolbar icon: "ReaPack: Synchronize packages".
 12. Restart REAPER. Errors are gone.
 13. Missing icons? Right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
 
@@ -126,7 +126,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
   - Danke an [Justin Frankel](https://www.cockos.com/) für die [REAPER DAW](https://www.reaper.fm).
   - Excluded in Release:
     - [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) von [Reapertips](https://www.reapertips.com/): Diese sollten erworben werden.
-    - [ReaPack Packages](https://reapack.com/repos): Können jedoch mit einem Klick auf dedizierten Toolbar-Button gedownloaded werden ("Synchronize packages"). Im Scripts-Ordner dieser Repo sind nur Scripts, bei denen ich den FOSS-Status selber validieren konnte. Da FOSS-Status nicht bei allen ReaPack-Packages von mir validiert werden kann, sind nicht alle Files in dieser Repo. Ist aber eh scheißegal, da man so oder so ab und zu die Pakete zum Updaten synchronisieren sollte und dann werden eh alle Packages neu geladen.
+    - [ReaPack Packages](https://reapack.com/repos): Können jedoch mit einem Klick auf dediziertes Toolbar-Icon gedownloaded werden ("Synchronize packages"). Im Scripts-Ordner dieser Repo sind nur Scripts, bei denen ich den FOSS-Status selber validieren konnte. Da FOSS-Status nicht bei allen ReaPack-Packages von mir validiert werden kann, sind nicht alle Files in dieser Repo. Ist aber eh scheißegal, da man so oder so ab und zu die Pakete zum Updaten synchronisieren sollte und dann werden eh alle Packages neu geladen.
     - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html) von [WhiteTie](https://www.houseofwhitetie.com), da prop. 🙄
 
 
