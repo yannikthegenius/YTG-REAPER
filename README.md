@@ -57,7 +57,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
 
 - Improved Main Toolbar.
-<img width="692" height="108" alt="Screenshot_2026-08-19_20-54-19" src="https://github.com/user-attachments/assets/d375b8ae-dd3a-4b05-a36c-4df92be61557" />
+<img width="690" height="109" alt="image" src="https://github.com/user-attachments/assets/35a46b52-4f11-44bc-b631-2edf499d5a57" />
 
 - Setup Project Auto Saves.
 - Extended Keyboard Shortcuts.
@@ -83,6 +83,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) for Automatic File Naming.
 - Pre-Defined Project Templates für *Mix + Record [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Buttons geladen werden können.
 <img width="128" height="33" alt="Screenshot_2026-08-19_21-06-19" src="https://github.com/user-attachments/assets/6a72edc8-ea77-44aa-9d3c-9dfee31dec8f" />
+
 - Various other small refinements.
 
 ---
