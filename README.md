@@ -3,7 +3,7 @@
 > [!NOTE]
 Meine Configs für [REAPER](https://reaper.fm) based on [Reapertips Theme](https://forum.cockos.com/showthread.php?t=281644).
 
-<img width="1913" height="920" alt="Screenshot_2026-08-19_21-30-52" src="https://github.com/user-attachments/assets/d5a3f4fb-90e8-4f1d-bded-d212ed326a8a" />
+<img width="1919" height="931" alt="Screenshot_2026-08-24_15-06-34" src="https://github.com/user-attachments/assets/a641b77b-75eb-4bfe-a2f2-2009a7b7a8b1" />
 
 ---
 
@@ -38,14 +38,15 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Show FX Sends + Inserts by default; ähnlich wie Pro Tools.
 <img width="555" height="174" alt="Screenshot_2026-07-28_16-26-02" src="https://github.com/user-attachments/assets/14243189-2e6a-4559-bb88-114fdafca0a9" />
 
-  - Empty Track is now Blue instead of Grey to achieve a more coherent and vibrant look.
-<img width="1577" height="386" alt="image" src="https://github.com/user-attachments/assets/1fc33be6-7876-4c26-8cac-f51d09eba6a2" />
+  - New Track is now Blue instead of Grey to achieve a more coherent and vibrant look.
+<img width="693" height="296" alt="image" src="https://github.com/user-attachments/assets/b218cd59-a8fd-4ccd-ad6a-eed468bb9f9d" />
+
 
  - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte durchsuchen, direkt wieder öffnen und weiterarbeiten.
 <img width="923" height="574" alt="image" src="https://github.com/user-attachments/assets/613658d4-3fda-426b-8f4d-b6c1a7020ec9" />
 
  - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden (WAV File).
-<img width="862" height="558" alt="Screenshot_2026-08-19_21-54-00" src="https://github.com/user-attachments/assets/2351a0b8-24ef-4a23-acc6-d531f84be7fb" />
+<img width="1920" height="437" alt="image" src="https://github.com/user-attachments/assets/f43fab6e-46af-4fda-b4d4-ca95ab08e842" />
 
 
  - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
