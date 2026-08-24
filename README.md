@@ -67,8 +67,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Imported additional ReaPack Repos.
 - Pre-Installed [SWS](https://sws-extension.org/).
 - Navigate Project Timeline with Middle Click, like in Video Editors or Graphic Design Software. Or Scroll in TCP Area for Vertical Movement or Scroll outside of TCP Area for Horizontal Movement (zoom in).
-- Pre-Defined Automatic Track Coloring.
-- Pre-Defined Automatic Track Icons (Example: Naming a Track 'REC' automatically inserts a Microphone Icon and Arming a Track automatically Colors the Track Red. No need to configure anything manually).
+- Pre-Defined automatic Track Coloring and automatic Track Icons (Example: Naming a Track 'REC' automatically inserts a Microphone Icon and Arming a Track for Recording automatically Colors the Track Red. No need to configure anything manually).
 - Signify Time Selection Loop with Yellow Color.
 <img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/dca615e8-0fd3-46f9-ad3d-b0d90f899941" />
 
