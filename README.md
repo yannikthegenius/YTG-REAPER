@@ -68,7 +68,13 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Navigate Project Timeline with Middle Click, like in Video Editors or Graphic Design Software. Or Scroll in TCP Area for Vertical Movement or Scroll outside of TCP Area for Horizontal Movement (zoom in).
 - Pre-Defined Automatic Track Coloring.
 - Pre-Defined Automatic Track Icons (Example: Naming a Track 'REC' automatically inserts a Microphone Icon and Arming a Track automatically Colors the Track Red. No need to configure anything manually).
-- Ruler Turns Red while Recording to signify Active Recording.
+- Signify Time Selection Loop with Yellow Color.
+<img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/dca615e8-0fd3-46f9-ad3d-b0d90f899941" />
+
+- Signify Time Selection Recording with Red Color.
+<img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/a7f071d0-0c4b-42e7-b292-3f43b8ace571" />
+
+- Signify Active Recording with Red Ruler.
 <img width="1822" height="250" alt="Screenshot_2026-08-19_22-12-35" src="https://github.com/user-attachments/assets/77bfd745-c79b-4475-8973-4948cb2f85ff" />
 
 
