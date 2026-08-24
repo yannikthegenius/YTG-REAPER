@@ -38,7 +38,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Show FX Sends + Inserts by default; ähnlich wie Pro Tools.
 <img width="555" height="174" alt="Screenshot_2026-07-28_16-26-02" src="https://github.com/user-attachments/assets/14243189-2e6a-4559-bb88-114fdafca0a9" />
 
-  - New Track is now Blue instead of Grey to achieve a more coherent and vibrant look.
+  - New track is now blue instead of grey to achieve a more coherent and vibrant look.
 <img width="693" height="296" alt="image" src="https://github.com/user-attachments/assets/b218cd59-a8fd-4ccd-ad6a-eed468bb9f9d" />
 
 
@@ -60,27 +60,27 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Improved Main Toolbar.
 <img width="690" height="109" alt="image" src="https://github.com/user-attachments/assets/35a46b52-4f11-44bc-b631-2edf499d5a57" />
 
-- Setup Project Auto Saves.
-- Extended Keyboard Shortcuts.
-- Extended Right Click Menu Entries.
+- Setup project auto saves.
+- Extended keyboard shortcuts.
+- Extended right click menu entries.
 - Pre-Installed [ReaPack](https://reapack.com/).
-- Imported additional ReaPack Repos.
+- Imported additional ReaPack repos.
 - Pre-Installed [SWS](https://sws-extension.org/).
-- Navigate Project Timeline with Middle Click, like in Video Editors or Graphic Design Software. Or Scroll in TCP Area for Vertical Movement or Scroll outside of TCP Area for Horizontal Movement (zoom in).
-- Pre-Defined automatic Track Coloring and automatic Track Icons (Example: Naming a Track 'REC' automatically inserts a Microphone Icon and Arming a Track for Recording automatically Colors the Track Red. No need to configure anything manually).
-- Signify Time Selection Loop with Yellow Color.
+- Navigate project timeline with middle click, like in video editors or graphic design software. Or scroll in TCP area for vertical movement or scroll outside of TCP area for horizontal movement (zoom in).
+- Pre-Defined automatic track coloring and automatic track icons (Example: Naming a track 'REC' automatically inserts a microphone icon and arming a track for recording automatically colors the track red. No need to configure anything manually).
+- Signify time selection loop with yellow color.
 <img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/dca615e8-0fd3-46f9-ad3d-b0d90f899941" />
 
-- Signify Time Selection Recording with Red Color.
+- Signify time selection recording with red color.
 <img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/a7f071d0-0c4b-42e7-b292-3f43b8ace571" />
 
-- Signify Active Recording with Red Ruler.
+- Signify active recording with red ruler color.
 <img width="1822" height="250" alt="Screenshot_2026-08-19_22-12-35" src="https://github.com/user-attachments/assets/77bfd745-c79b-4475-8973-4948cb2f85ff" />
 
 
-- Implemented Startup Sound and Render Sound Effect.
-- Changed Reapeaks File Directory to Reduce Clutter. 
-- Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) for Automatic File Naming.
+- Implemented startup sound and render sound effect.
+- Changed Reapeaks file directory to reduce clutter. 
+- Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) für Automatic File Naming.
 - Pre-Defined Project Templates für *Mix + Record [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Icons geladen werden können.
 <img width="128" height="33" alt="Screenshot_2026-08-19_21-06-19" src="https://github.com/user-attachments/assets/6a72edc8-ea77-44aa-9d3c-9dfee31dec8f" />
 
