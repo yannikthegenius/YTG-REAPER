@@ -81,7 +81,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Implemented startup sound and render sound effect.
 - Changed Reapeaks file directory to reduce clutter. 
 - Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) für Automatic File Naming.
-- Pre-Defined Project Templates für *Mix + Record [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Icons geladen werden können.
+- Pre-Defined Project Templates für *Mixing [1]*, *Mastering [2]*, *Beat Making [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Icons geladen werden können.
 <img width="128" height="33" alt="Screenshot_2026-08-19_21-06-19" src="https://github.com/user-attachments/assets/6a72edc8-ea77-44aa-9d3c-9dfee31dec8f" />
 
 - Various other small refinements.
