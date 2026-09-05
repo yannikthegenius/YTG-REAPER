@@ -68,6 +68,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Pre-Installed [SWS](https://sws-extension.org/).
 - Navigate project timeline with middle click, like in video editors or graphic design software. Or scroll in TCP area for vertical movement or scroll outside of TCP area for horizontal movement (zoom in).
 - Pre-Defined automatic track coloring and automatic track icons (Example: Naming a track 'REC' automatically inserts a microphone icon and arming a track for recording automatically colors the track red. No need to configure anything manually).
+- [Smooth Playhead (Play Cursor)](https://forum.cockos.com/showthread.php?t=310863). 
 - Signify time selection loop with yellow color.
 <img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/dca615e8-0fd3-46f9-ad3d-b0d90f899941" />
 
@@ -121,12 +122,13 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
   - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Project Time Counter](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua).
   - Danke an [ArthurMcArthur](https://forum.cockos.com/member.php?u=109337) für [McSequencer](https://forum.cockos.com/showthread.php?t=286577).
   - Danke an [Reapertips](https://www.reapertips.com) für [Time Selection Colors](https://github.com/Reapertips/ReaScripts/).
+  - Danke an [DSG](https://dsgdnb.com/) für [Smooth Playhead](https://forum.cockos.com/showthread.php?t=310863).
   - Danke an [OLSHALOM](https://forum.cockos.com/member.php?u=134313) für [CHROMA Coloring Tool](https://forum.cockos.com/showthread.php?t=281516).
   - Danke an [BirdBird](https://forum.cockos.com/member.php?u=130362) für [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514).
   - Danke an [Justin Frankel](https://www.cockos.com/) für die [REAPER DAW](https://www.reaper.fm).
   - Excluded in Release:
     - [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) von [Reapertips](https://www.reapertips.com/): Diese sollten erworben werden.
-    - [ReaPack Packages](https://reapack.com/repos): Können jedoch mit einem Klick auf dediziertes Toolbar-Icon gedownloaded werden ("Synchronize packages"). Im Scripts-Ordner dieser Repo sind nur Scripts, bei denen ich den FOSS-Status selber validieren konnte. Da FOSS-Status nicht bei allen ReaPack-Packages von mir validiert werden kann, sind nicht alle Files in dieser Repo. Ist aber eh scheißegal, da man so oder so ab und zu die Pakete zum Updaten synchronisieren sollte und dann werden eh alle Packages neu geladen.
+    - [ReaPack Packages](https://reapack.com/repos): Excluded, da Lizenz nicht für alle Scripts validiert werden konnte. Alle Scripts werden jedoch mit einem Klick auf Toolbar-Icon direkt gedownloaded ("Synchronize packages").
     - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html) von [WhiteTie](https://www.houseofwhitetie.com), da prop. 🙄
 
 
