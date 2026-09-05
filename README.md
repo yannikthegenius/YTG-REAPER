@@ -95,7 +95,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 1. git clone https://github.com/yannikthegenius/YTG-REAPER.git
 2. Open REAPER.
 3. Options > "Show REAPER resource path in explorer/finder..."
-4. OS File Manager will open in the correct directory.
+4. File Manager will open in the correct directory.
 5. Close REAPER.
 6. Copy all files from YTG-REAPER into that directory.
 
@@ -103,7 +103,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 7. Open REAPER.
 8. Close all "Missing Files" errors.
 9. Options > Themes > Pick any of the available "Reapertips" Themes.
-10. Switch to Toolbar 2 (top right icon).
+10. Switch to Toolbar 2 (top right arrow icon).
 11. Now, in Toolbar 2, click on second toolbar icon: "ReaPack: Synchronize packages".
 12. Restart REAPER. Errors are gone.
 13. Missing icons? Right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
