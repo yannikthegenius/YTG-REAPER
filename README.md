@@ -78,6 +78,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 <img width="1822" height="250" alt="Screenshot_2026-08-19_22-12-35" src="https://github.com/user-attachments/assets/77bfd745-c79b-4475-8973-4948cb2f85ff" />
 
 
+- Improved MIDI Editor (Piano Roll) workflow with extended toolbar icons and key bindings.
 - Implemented startup sound and render sound effect.
 - Changed Reapeaks file directory to reduce clutter. 
 - Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) für Automatic File Naming.
