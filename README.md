@@ -43,7 +43,6 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
 
  - REAPER startet mit [ReaLauncher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte durchsuchen, direkt wieder öffnen und weiterarbeiten.
-<img width="923" height="574" alt="image" src="https://github.com/user-attachments/assets/613658d4-3fda-426b-8f4d-b6c1a7020ec9" />
 
  - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden (WAV File).
 <img width="1920" height="437" alt="image" src="https://github.com/user-attachments/assets/f43fab6e-46af-4fda-b4d4-ca95ab08e842" />
