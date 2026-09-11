@@ -45,9 +45,8 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 <img width="734" height="199" alt="Screenshot_2026-09-09_20-47-27" src="https://github.com/user-attachments/assets/de127f8c-d1b2-43b8-be91-8514bab42b5f" />
 
  - REAPER startet mit [Project Launcher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte durchsuchen, direkt wieder öffnen und weiterarbeiten.
-
 - [STEMwerk AI Stem Seperation](https://github.com/flarkflarkflark/STEMwerk-reaper) (local) [MIT].
-
+- 
  - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden - als neue WAV File, die unabhängig bearbeitet oder processed werden kann.
 <img width="1920" height="437" alt="image" src="https://github.com/user-attachments/assets/f43fab6e-46af-4fda-b4d4-ca95ab08e842" />
 
@@ -93,13 +92,14 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
 - Various other scripts and other small refinements.
 
+
 ---
 
 ## 🚀 Installation
 
 ### I. Replace Config Files
 0. Backup your REAPER config folder.
-1. git clone https://github.com/yannikthegenius/YTG-REAPER.git
+1. ``git clone https://github.com/yannikthegenius/YTG-REAPER.git``
 2. Open REAPER.
 3. Options > "Show REAPER resource path in explorer/finder..."
 4. File Manager will open in the correct directory.
