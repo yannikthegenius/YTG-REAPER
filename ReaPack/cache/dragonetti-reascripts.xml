@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="dragonetti-reascripts" commit="ea511a07cb14bcaf617f61591eb317a5147e260a">
+  <category name="Items Editing">
+    <reapack name="dragonetti_chordsymbol to midi.lua" type="script" desc="item notes chord to midi">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 if you set up the script for a mouse modifier, you can send the item "notes" as a midi event to a vsti. Thanks MusoBob and mpl\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=269816">forum</link>
+      </metadata>
+      <version name="1.0.0" author="Dragonetti" time="2022-10-10T20:34:46Z">
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/796ec32b7fcc79e2f88c0c0cb95751735709bd1c/Items%20Editing/dragonetti_chordsymbol%20to%20midi.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dragonetti_user input to length.lua" type="script" desc="User input changes the lengths of the items">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Input numbers change length of selected items -- Input "factor" divided length\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.1" author="Dragonetti" time="2022-10-10T20:35:18Z">
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/a95ccdbf6db110c12d360544f1b646409484116d/Items%20Editing/dragonetti_user%20input%20to%20length.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Items Editing/ReaComposer">
+    <reapack name="ReaComposer.lua" type="script">
+      <metadata/>
+      <version name="1.6" author="Dragonetti" time="2022-11-10T16:29:18Z">
+        <changelog><![CDATA[+ now based on ReaImGui]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/e8d59017e53da7d34b87d475c2254dfc1d5e5833/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/e8d59017e53da7d34b87d475c2254dfc1d5e5833/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.6.1" author="Dragonetti" time="2022-11-10T16:55:57Z">
+        <changelog><![CDATA[+ now based on ReaImGui]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b937ab54aa3d11125e06802c974125c600c7c32f/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b937ab54aa3d11125e06802c974125c600c7c32f/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.6.2" author="Dragonetti" time="2022-11-10T17:42:43Z">
+        <changelog><![CDATA[+ now based on ReaImGui]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/607bcfe0b9147b69c47001eefb461470be8c13bc/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/607bcfe0b9147b69c47001eefb461470be8c13bc/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.6.3" author="Dragonetti" time="2022-11-10T19:47:35Z">
+        <changelog><![CDATA[+ now based on ReaImGui]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/0fe0ad1550085c949a98bc9c8ce8c36d91c55668/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/0fe0ad1550085c949a98bc9c8ce8c36d91c55668/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.6.4" author="Dragonetti" time="2022-11-12T23:34:47Z">
+        <changelog><![CDATA[+ now based on ReaImGui]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/5e75e4f9d14b49769391cd4c49b386a596223ea1/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/5e75e4f9d14b49769391cd4c49b386a596223ea1/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.6.5" author="Dragonetti" time="2022-11-13T12:56:18Z">
+        <changelog><![CDATA[+ now based on ReaImGui problem with colors]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4daacbda47e5053112d010afc8cf0f1376d9b751/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4daacbda47e5053112d010afc8cf0f1376d9b751/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.6.6" author="Dragonetti" time="2022-11-13T13:47:40Z">
+        <changelog><![CDATA[+ now based on ReaImGui some GUI bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/43779de6f1a96306c190258c865102c1f947e0b4/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/43779de6f1a96306c190258c865102c1f947e0b4/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.6.7" author="Dragonetti" time="2022-11-14T23:54:40Z">
+        <changelog><![CDATA[+ now based on ReaImGui new groups]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/5c54190b620e67034951addafd4a82980fd697a9/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/5c54190b620e67034951addafd4a82980fd697a9/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.6.8" author="Dragonetti" time="2022-11-22T15:46:45Z">
+        <changelog><![CDATA[+ now based on ReaImGui new groups
++ new length manipulation]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/e30bd272e564a6526cc7be00a44c452df68d930f/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/e30bd272e564a6526cc7be00a44c452df68d930f/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.6.9" author="Dragonetti" time="2022-12-05T14:44:58Z">
+        <changelog><![CDATA[+ now based on ReaImGui new groups
++ new length manipulation
++ bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/536489b4ffb107ff84ff7c50cc266ec69b1905ba/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/536489b4ffb107ff84ff7c50cc266ec69b1905ba/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.7.0" author="Dragonetti" time="2022-12-05T18:06:41Z">
+        <changelog><![CDATA[+ now based on ReaImGui new groups
++ new length manipulation
++ bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/696998f9e33ad2d6571c2447b497f66a467719b6/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/696998f9e33ad2d6571c2447b497f66a467719b6/Items%20Editing/ReaComposer/functions.lua</source>
+      </version>
+      <version name="1.7.1" author="Dragonetti" time="2022-12-05T21:04:04Z">
+        <changelog><![CDATA[+ now based on ReaImGui new groups
++ new length manipulation
++ GUI fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/af5113f3dd462b0737b5aeec0163564ad51bcc53/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/af5113f3dd462b0737b5aeec0163564ad51bcc53/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/af5113f3dd462b0737b5aeec0163564ad51bcc53/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.7.2" author="Dragonetti" time="2022-12-05T22:29:01Z">
+        <changelog><![CDATA[+ more tooltips
++ bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/bb3ac334a4875c154b73fa5fa8ce6fff61177745/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/bb3ac334a4875c154b73fa5fa8ce6fff61177745/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/bb3ac334a4875c154b73fa5fa8ce6fff61177745/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.7.3" author="Dragonetti" time="2022-12-08T10:49:02Z">
+        <changelog><![CDATA[+ more tooltips
++ bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/68ed6c1ef8a5f719a0ff2de278b8d8863000e613/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/68ed6c1ef8a5f719a0ff2de278b8d8863000e613/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/68ed6c1ef8a5f719a0ff2de278b8d8863000e613/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.7.4" author="Dragonetti" time="2022-12-11T16:09:59Z">
+        <changelog><![CDATA[+ more tooltips
++ fix length function]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/771b4d0e41eef5948eff91af18ab78b6b7de5902/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/771b4d0e41eef5948eff91af18ab78b6b7de5902/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/771b4d0e41eef5948eff91af18ab78b6b7de5902/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.7.5" author="Dragonetti" time="2022-12-12T12:38:40Z">
+        <changelog><![CDATA[+ bug fixes regarding ReaImGui for some user? ]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b346f4c7711777b3abf3d26ed310164dfa7a5334/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b346f4c7711777b3abf3d26ed310164dfa7a5334/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b346f4c7711777b3abf3d26ed310164dfa7a5334/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.7.6" author="Dragonetti" time="2022-12-13T12:38:24Z">
+        <changelog><![CDATA[+ grid setting 
++ bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/f0132d7efc1272a08a265794a2c3ec9da3861af8/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/f0132d7efc1272a08a265794a2c3ec9da3861af8/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/f0132d7efc1272a08a265794a2c3ec9da3861af8/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.7.7" author="Dragonetti" time="2022-12-14T11:52:41Z">
+        <changelog><![CDATA[+ less styleVar]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/e34e60d95a00183670fe549ea03aa96866e11838/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/e34e60d95a00183670fe549ea03aa96866e11838/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/e34e60d95a00183670fe549ea03aa96866e11838/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.7.8" author="Dragonetti" time="2022-12-15T11:54:29Z">
+        <changelog><![CDATA[+ extensions]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/85c0cbad51e9fa5d9a54ba51457a5477db3864c1/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/85c0cbad51e9fa5d9a54ba51457a5477db3864c1/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/85c0cbad51e9fa5d9a54ba51457a5477db3864c1/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.7.9" author="Dragonetti" time="2023-01-08T23:00:39Z">
+        <changelog><![CDATA[+ extensions 1]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/438a09977a655631fb19cd1dcb137d87cddaf581/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/438a09977a655631fb19cd1dcb137d87cddaf581/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/438a09977a655631fb19cd1dcb137d87cddaf581/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.8.0" author="Dragonetti" time="2023-01-08T23:24:40Z">
+        <changelog><![CDATA[+ render region
++ improve crazy length]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/dd45ef90d62540e4e1839e319dd0be0b80061577/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/dd45ef90d62540e4e1839e319dd0be0b80061577/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/dd45ef90d62540e4e1839e319dd0be0b80061577/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.8.1" author="Dragonetti" time="2023-01-13T14:46:28Z">
+        <changelog><![CDATA[+ render region
++ additional metadata to render region]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b148e4526a498944d0db1d25c2a9a25ed3eef884/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b148e4526a498944d0db1d25c2a9a25ed3eef884/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b148e4526a498944d0db1d25c2a9a25ed3eef884/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.8.2" author="Dragonetti" time="2023-01-24T23:18:30Z">
+        <changelog><![CDATA[+ render region
++ additional metadata to render region fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/9de15f9d2e6ce2f0f23476eb6d37230e5422066b/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/9de15f9d2e6ce2f0f23476eb6d37230e5422066b/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/9de15f9d2e6ce2f0f23476eb6d37230e5422066b/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.8.3" author="Dragonetti" time="2023-01-25T15:26:55Z">
+        <changelog><![CDATA[+ focus to Arrangement]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/80a66f59bc292de463202049979e6661fd0e45fb/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/80a66f59bc292de463202049979e6661fd0e45fb/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/80a66f59bc292de463202049979e6661fd0e45fb/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.8.4" author="Dragonetti" time="2023-01-30T14:00:02Z">
+        <changelog><![CDATA[+ new volume(velocity) curves]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/a07b7400772b142eaa9fde44cebf3c6fb83de1db/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/a07b7400772b142eaa9fde44cebf3c6fb83de1db/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/a07b7400772b142eaa9fde44cebf3c6fb83de1db/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.8.5" author="Dragonetti" time="2023-02-02T10:00:28Z">
+        <changelog><![CDATA[+ load ChordPro files]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b2df59f0723e0f049ef39ef0cf22c82f63b5fc0c/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b2df59f0723e0f049ef39ef0cf22c82f63b5fc0c/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b2df59f0723e0f049ef39ef0cf22c82f63b5fc0c/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.8.6" author="Dragonetti" time="2023-02-03T00:09:21Z">
+        <changelog><![CDATA[+ load ChordPro files
++ load BIAB songs]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/3a6510a75b1a8ace4a949f8d0bcd0ff5586912d3/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/3a6510a75b1a8ace4a949f8d0bcd0ff5586912d3/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/3a6510a75b1a8ace4a949f8d0bcd0ff5586912d3/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.8.7" author="Dragonetti" time="2023-02-06T18:34:21Z">
+        <changelog><![CDATA[+ arpeggio inversion up and down]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b065bccca3c7d245353516be6815c508a4b9dc66/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b065bccca3c7d245353516be6815c508a4b9dc66/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b065bccca3c7d245353516be6815c508a4b9dc66/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.8.8" author="Dragonetti" time="2023-02-12T00:12:01Z">
+        <changelog><![CDATA[+ very long sequences possible (SCALE)
++ special length manipulation possible for several selected tracks]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/5c9faf4eb4206ea08432d7bb1aeb4d3b59f3ccb6/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/5c9faf4eb4206ea08432d7bb1aeb4d3b59f3ccb6/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/5c9faf4eb4206ea08432d7bb1aeb4d3b59f3ccb6/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.8.9" author="Dragonetti" time="2023-02-13T21:52:35Z">
+        <changelog><![CDATA[+ bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/ca78d67b908b58d9dc81e779af95b9398190b096/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/ca78d67b908b58d9dc81e779af95b9398190b096/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/ca78d67b908b58d9dc81e779af95b9398190b096/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.0" author="Dragonetti" time="2023-02-16T15:38:24Z">
+        <changelog><![CDATA[+ new volume sequencer]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d9a2016d3955cd2416accd2353bd6c90690fa00c/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d9a2016d3955cd2416accd2353bd6c90690fa00c/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d9a2016d3955cd2416accd2353bd6c90690fa00c/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.1" author="Dragonetti" time="2023-02-23T11:34:44Z">
+        <changelog><![CDATA[+ reverse and midi pattern ]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/a625260f2b5a52047b46aac1cd7240b56e402d8f/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/a625260f2b5a52047b46aac1cd7240b56e402d8f/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/a625260f2b5a52047b46aac1cd7240b56e402d8f/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.2" author="Dragonetti" time="2023-02-23T17:05:49Z">
+        <changelog><![CDATA[+  midi pattern names]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/7c786b4629cec968c98ba2fb0205a553736ed122/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/7c786b4629cec968c98ba2fb0205a553736ed122/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/7c786b4629cec968c98ba2fb0205a553736ed122/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.3" author="Dragonetti" time="2023-03-07T21:36:56Z">
+        <changelog><![CDATA[+ crazy length ]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/14b4f13ec500a9add6fe2c1f032b5bb8b35b28af/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/14b4f13ec500a9add6fe2c1f032b5bb8b35b28af/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/14b4f13ec500a9add6fe2c1f032b5bb8b35b28af/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.4" author="Dragonetti" time="2023-03-07T21:48:50Z">
+        <changelog><![CDATA[+ crazy length ]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/3d072134420b83e644705e74cf4a9b190043c638/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/3d072134420b83e644705e74cf4a9b190043c638/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/3d072134420b83e644705e74cf4a9b190043c638/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.7" author="Dragonetti" time="2023-03-21T17:42:49Z">
+        <changelog><![CDATA[+ split item at note]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/ff41dbb50f630af6f168840bd6f544b928d9a6b3/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/ff41dbb50f630af6f168840bd6f544b928d9a6b3/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/ff41dbb50f630af6f168840bd6f544b928d9a6b3/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.8" author="Dragonetti" time="2023-03-28T14:40:25Z">
+        <changelog><![CDATA[+ Randomizer]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/2f20b8c5d919a49c92192ef2ba97629af13d1272/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/2f20b8c5d919a49c92192ef2ba97629af13d1272/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/2f20b8c5d919a49c92192ef2ba97629af13d1272/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.9" author="Dragonetti" time="2023-04-21T11:53:50Z">
+        <changelog><![CDATA[+ Randomizer]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/e816d7cd074c225196f5bf23c839077003bfc90e/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/e816d7cd074c225196f5bf23c839077003bfc90e/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/e816d7cd074c225196f5bf23c839077003bfc90e/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.9.1" author="Dragonetti" time="2024-02-12T22:28:02Z">
+        <changelog><![CDATA[+ bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4bbe56c48454bd60f2b0d85d9ef7b163b1c9f7a7/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4bbe56c48454bd60f2b0d85d9ef7b163b1c9f7a7/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4bbe56c48454bd60f2b0d85d9ef7b163b1c9f7a7/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.9.2" author="Dragonetti" time="2024-02-13T15:12:42Z">
+        <changelog><![CDATA[+ if chords exist shuffle order within the chords]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/ae9c48d9fecd773da49ea9c032065be3da316d5a/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/ae9c48d9fecd773da49ea9c032065be3da316d5a/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/ae9c48d9fecd773da49ea9c032065be3da316d5a/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="1.9.9.3" author="Dragonetti" time="2024-02-14T12:54:05Z">
+        <changelog><![CDATA[+ chordtrack is automatically generated when a progression is selected]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/dbe89229f3d58f88e8f10d86d15e34f5d8a2ce08/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/dbe89229f3d58f88e8f10d86d15e34f5d8a2ce08/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/dbe89229f3d58f88e8f10d86d15e34f5d8a2ce08/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.0" author="Dragonetti" time="2024-07-31T17:50:55Z">
+        <changelog><![CDATA[+ bug_fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d0d14a9647dd21830559de1cd68df68e9c56b0e7/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d0d14a9647dd21830559de1cd68df68e9c56b0e7/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d0d14a9647dd21830559de1cd68df68e9c56b0e7/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.0.1" author="Dragonetti" time="2024-07-31T22:07:40Z">
+        <changelog><![CDATA[+ design fix]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/6e8863c25e7a7629a89b31d0ce14439c3acb9185/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/6e8863c25e7a7629a89b31d0ce14439c3acb9185/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/6e8863c25e7a7629a89b31d0ce14439c3acb9185/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.0.2" author="Dragonetti" time="2024-08-05T15:22:58Z">
+        <changelog><![CDATA[+ imgui fix 
++ other bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/237ce98e3b25c279416cfc0b84478ba8d73e9135/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/237ce98e3b25c279416cfc0b84478ba8d73e9135/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/237ce98e3b25c279416cfc0b84478ba8d73e9135/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.0.3" author="Dragonetti" time="2024-08-08T22:19:58Z">
+        <changelog><![CDATA[+ chordtrack text height]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8eb97f14abddf3679aab79b15e436f88ea3b301a/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8eb97f14abddf3679aab79b15e436f88ea3b301a/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8eb97f14abddf3679aab79b15e436f88ea3b301a/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.0.4" author="Dragonetti" time="2024-09-10T16:04:19Z">
+        <changelog><![CDATA[+ create midi track]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/920d1495692afaeb0023bc0b6315a8893ff61b5f/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/920d1495692afaeb0023bc0b6315a8893ff61b5f/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/920d1495692afaeb0023bc0b6315a8893ff61b5f/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.0.5" author="Dragonetti" time="2024-09-12T14:47:34Z">
+        <changelog><![CDATA[+ split items by pattern]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/6b5f23573ecfe875069ca0c94bb25bda74c80760/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/6b5f23573ecfe875069ca0c94bb25bda74c80760/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/6b5f23573ecfe875069ca0c94bb25bda74c80760/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.0.6" author="Dragonetti" time="2024-09-13T14:52:29Z">
+        <changelog><![CDATA[+ split items by pattern]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/2062900261a75675bbe7923cbd7a9b46b59f2a43/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/2062900261a75675bbe7923cbd7a9b46b59f2a43/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/2062900261a75675bbe7923cbd7a9b46b59f2a43/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.0.7" author="Dragonetti" time="2024-09-16T13:04:47Z">
+        <changelog><![CDATA[+ new micro rhythm curves]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/5ad9b42ae7ee4168affd1d1567d8149ed2fb093f/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/5ad9b42ae7ee4168affd1d1567d8149ed2fb093f/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/5ad9b42ae7ee4168affd1d1567d8149ed2fb093f/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.0.8" author="Dragonetti" time="2024-09-16T20:34:10Z">
+        <changelog><![CDATA[+ new micro rhythm curves new]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/2bf08b865604dc03091b590b523b660927d61538/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/2bf08b865604dc03091b590b523b660927d61538/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/2bf08b865604dc03091b590b523b660927d61538/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.1.0" author="Dragonetti" time="2024-09-18T13:36:12Z">
+        <changelog><![CDATA[+ new function curves with micro rhythm
++ select and mute edit
++ glue selected items group]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/91950b5d0be9516f95c2efa21447787d48936830/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/91950b5d0be9516f95c2efa21447787d48936830/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/91950b5d0be9516f95c2efa21447787d48936830/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.1.1" author="Dragonetti" time="2024-09-20T22:30:00Z">
+        <changelog><![CDATA[+ random mute function]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d56552b77ead5e6f1fbfb9e9255622fe86ccd69e/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d56552b77ead5e6f1fbfb9e9255622fe86ccd69e/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d56552b77ead5e6f1fbfb9e9255622fe86ccd69e/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.1.2" author="Dragonetti" time="2024-09-20T23:18:01Z">
+        <changelog><![CDATA[+ random mute function bug fix]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8fc42a26c5b14650e8ab7ff3fcb31b8d6b3df6c0/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8fc42a26c5b14650e8ab7ff3fcb31b8d6b3df6c0/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8fc42a26c5b14650e8ab7ff3fcb31b8d6b3df6c0/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.1.3" author="Dragonetti" time="2024-09-21T22:41:54Z">
+        <changelog><![CDATA[+ bug fix]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4addffb7657506779c359ed26802b13ff969efc3/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4addffb7657506779c359ed26802b13ff969efc3/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4addffb7657506779c359ed26802b13ff969efc3/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+      <version name="2.1.4" author="Dragonetti" time="2024-09-22T09:55:01Z">
+        <changelog><![CDATA[+ improved split function]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d274421a820aef8f82694ea463ca4fedb0246908/Items%20Editing/ReaComposer/ReaComposer.lua</source>
+        <source file="functions.lua">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d274421a820aef8f82694ea463ca4fedb0246908/Items%20Editing/ReaComposer/functions.lua</source>
+        <source file="Fonts/Symbols.ttf">https://github.com/Dragonetti1/dragonetti-reascripts/raw/d274421a820aef8f82694ea463ca4fedb0246908/Items%20Editing/ReaComposer/Fonts/Symbols.ttf</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Transport">
+    <reapack name="dragonetti_focus to arrangement then record.lua" type="script" desc="set focus to arrangement and then record">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 prevents the deletion of the track instead of the item after recording.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="Dragonetti" time="2022-10-19T12:16:41Z">
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/7084e597e7b2b3625546985d6704ae50bcc8d3c4/Transport/dragonetti_focus%20to%20arrangement%20then%20record.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Various">
+    <reapack name="dragonetti_song with random predefinitions.lua" type="script" desc="song with random predefinitions">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 try to compose a song with these random preconditions Thanks to nofish,mpl,Lokasenna,X-Raym and lb0.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="dragonetti" time="2022-10-15T14:17:10Z">
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/19f5206b4cd49bd84e64fde3163c175bda401218/Various/dragonetti_song%20with%20random%20predefinitions.lua</source>
+      </version>
+    </reapack>
+    <reapack name="touchscreen_item_edit.lua" type="script" desc=": edit item with touchscreen">
+      <version name="1.0.0" author="Dragonetti" time="2024-12-29T12:23:59Z">
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/ea511a07cb14bcaf617f61591eb317a5147e260a/Various/touchscreen_item_edit.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Various/ReaLy">
+    <reapack name="ReaLy.lua" type="script">
+      <version name="0.2.1" author="Dragonetti" time="2024-11-07T14:14:13Z">
+        <changelog><![CDATA[+ split_syllables with pyphen]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/0c3d0496123edc612adbdd98e372572cb1e00297/Various/ReaLy/ReaLy.lua</source>
+      </version>
+      <version name="0.2.2" author="Dragonetti" time="2024-11-08T23:32:43Z">
+        <changelog><![CDATA[+ split_syllables with pyphen and find synonyms]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/fe453bb9f4b133f2e5fedf1a6b5ef8fc6133fa15/Various/ReaLy/ReaLy.lua</source>
+      </version>
+      <version name="0.2.3" author="Dragonetti" time="2024-11-11T11:05:16Z">
+        <changelog><![CDATA[+ split_syllables with pyphen and find synonyms]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/122b5c5efdbb68dce9c72d7764e321ec8e4b9184/Various/ReaLy/ReaLy.lua</source>
+      </version>
+      <version name="0.2.5" author="Dragonetti" time="2024-11-11T14:37:07Z">
+        <changelog><![CDATA[+ find synonyms in extra window]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/3fb6fd3b174d93fd0ef0df755afb422cafce9151/Various/ReaLy/ReaLy.lua</source>
+      </version>
+      <version name="0.2.6" author="Dragonetti" time="2024-11-11T16:01:24Z">
+        <changelog><![CDATA[+ arial font bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/86bdd40ac39bdccc6eda3b4055256f6dd47a79fd/Various/ReaLy/ReaLy.lua</source>
+      </version>
+      <version name="0.2.7" author="Dragonetti" time="2024-11-11T16:18:21Z">
+        <changelog><![CDATA[+  bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/b8e3eb98213e074cc9918e7e5641cedc8d4f3cda/Various/ReaLy/ReaLy.lua</source>
+      </version>
+      <version name="0.2.8" author="Dragonetti" time="2024-11-11T17:07:41Z">
+        <changelog><![CDATA[+  bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/60bdcbeedf9f4568ae3aa118d3f6b8fc83f6bbb4/Various/ReaLy/ReaLy.lua</source>
+      </version>
+      <version name="0.2.9" author="Dragonetti" time="2024-11-12T21:00:46Z">
+        <changelog><![CDATA[+  bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/933c805d53a0250a1a7939863f2eb204f788016f/Various/ReaLy/ReaLy.lua</source>
+      </version>
+      <version name="0.3.1" author="Dragonetti" time="2024-11-13T14:48:20Z">
+        <changelog><![CDATA[+  bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/01803c7b2094b6bb67c08b985b694e86836d2558/Various/ReaLy/ReaLy.lua</source>
+        <source file="get_synonyms_de.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/01803c7b2094b6bb67c08b985b694e86836d2558/Various/ReaLy/get_synonyms_de.py</source>
+        <source file="get_synonyms_en.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/01803c7b2094b6bb67c08b985b694e86836d2558/Various/ReaLy/get_synonyms_en.py</source>
+        <source file="pyphen_syllable_splitter.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/01803c7b2094b6bb67c08b985b694e86836d2558/Various/ReaLy/pyphen_syllable_splitter.py</source>
+      </version>
+      <version name="0.3.2" author="Dragonetti" time="2024-11-13T15:24:25Z">
+        <changelog><![CDATA[+  bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4a8c0705b253ad6ea5a6edef698b5484e10a0518/Various/ReaLy/ReaLy.lua</source>
+        <source file="get_synonyms_de.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4a8c0705b253ad6ea5a6edef698b5484e10a0518/Various/ReaLy/get_synonyms_de.py</source>
+        <source file="get_synonyms_en.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4a8c0705b253ad6ea5a6edef698b5484e10a0518/Various/ReaLy/get_synonyms_en.py</source>
+        <source file="pyphen_syllable_splitter.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/4a8c0705b253ad6ea5a6edef698b5484e10a0518/Various/ReaLy/pyphen_syllable_splitter.py</source>
+      </version>
+      <version name="0.3.3" author="Dragonetti" time="2024-11-14T23:21:10Z">
+        <changelog><![CDATA[+  hide placeholder and translate to german]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8b3356e893df9f5e8307a463f27399d60b58ecb9/Various/ReaLy/ReaLy.lua</source>
+        <source file="get_synonyms_de.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8b3356e893df9f5e8307a463f27399d60b58ecb9/Various/ReaLy/get_synonyms_de.py</source>
+        <source file="get_synonyms_en.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8b3356e893df9f5e8307a463f27399d60b58ecb9/Various/ReaLy/get_synonyms_en.py</source>
+        <source file="pyphen_syllable_splitter.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8b3356e893df9f5e8307a463f27399d60b58ecb9/Various/ReaLy/pyphen_syllable_splitter.py</source>
+        <source file="translate_to_german.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8b3356e893df9f5e8307a463f27399d60b58ecb9/Various/ReaLy/translate_to_german.py</source>
+      </version>
+      <version name="0.3.4" author="Dragonetti" time="2024-11-15T11:09:36Z">
+        <changelog><![CDATA[+  bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8f17ce65614b2662d2cde554d695408ca0a27bb6/Various/ReaLy/ReaLy.lua</source>
+        <source file="get_synonyms_de.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8f17ce65614b2662d2cde554d695408ca0a27bb6/Various/ReaLy/get_synonyms_de.py</source>
+        <source file="get_synonyms_en.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8f17ce65614b2662d2cde554d695408ca0a27bb6/Various/ReaLy/get_synonyms_en.py</source>
+        <source file="pyphen_syllable_splitter.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8f17ce65614b2662d2cde554d695408ca0a27bb6/Various/ReaLy/pyphen_syllable_splitter.py</source>
+        <source file="translate_to_german.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/8f17ce65614b2662d2cde554d695408ca0a27bb6/Various/ReaLy/translate_to_german.py</source>
+      </version>
+      <version name="0.3.5" author="Dragonetti" time="2024-11-15T11:49:29Z">
+        <changelog><![CDATA[+  bug fixes]]></changelog>
+        <source main="main">https://github.com/Dragonetti1/dragonetti-reascripts/raw/0ba34556543f9bdde53dc3099a193464b6d10a72/Various/ReaLy/ReaLy.lua</source>
+        <source file="get_synonyms_de.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/0ba34556543f9bdde53dc3099a193464b6d10a72/Various/ReaLy/get_synonyms_de.py</source>
+        <source file="get_synonyms_en.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/0ba34556543f9bdde53dc3099a193464b6d10a72/Various/ReaLy/get_synonyms_en.py</source>
+        <source file="pyphen_syllable_splitter.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/0ba34556543f9bdde53dc3099a193464b6d10a72/Various/ReaLy/pyphen_syllable_splitter.py</source>
+        <source file="translate_to_german.py">https://github.com/Dragonetti1/dragonetti-reascripts/raw/0ba34556543f9bdde53dc3099a193464b6d10a72/Various/ReaLy/translate_to_german.py</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 A collection of scripts that were created for the ReaComposer. Many thanks to the community in the Reaper Forum.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 https://forum.cockos.com/showthread.php?t=267849\par}
+}
+]]></description>
+  </metadata>
+</index>

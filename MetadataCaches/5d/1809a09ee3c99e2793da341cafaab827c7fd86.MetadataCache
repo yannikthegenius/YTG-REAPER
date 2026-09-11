@@ -1,0 +1,50 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/Kendrick Lamar - Mr. Morale & The Big Steppers (Album)/18. Mirror"
+F "Bass 1 (D2).wav" 495124 0 1716852308 0
+D s 48000 n 1 l 0:02.576 i 32
+F "Bass 2 (D3).wav" 235320 0 1716852380 0
+D s 48000 n 2 l 0:00.612 i 32
+F "Drum Loop 1 92.500.wav" 3661896 0 1716852770 0
+D c "Recorded on 5/27/2024 in Edison." s 44100 n 2 l 0:10.378
+D i 32
+F "Drum Loop 2 92.500.wav" 3661902 0 1716852840 0
+D c "Recorded on 5/27/2024 in Edison." s 44100 n 2 l 0:10.378
+D i 32
+F FX.wav 756944 0 1716852344 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.971
+D i 32
+F "Hat Loop 1 92.500.wav" 3661896 0 1716852724 0
+D c "Recorded on 5/27/2024 in Edison." s 44100 n 2 l 0:10.378
+D i 32
+F "Hat Loop 2 92.500.wav" 3661896 0 1716852930 0
+D c "Recorded on 5/27/2024 in Edison." s 44100 n 2 l 0:10.378
+D i 32
+F Hat.wav 246008 0 1716852266 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:00.640
+D i 32
+F "Kick 1.wav" 159334 0 1716852156 0
+D c "Recorded on 5/27/2024 in Edison." s 44100 n 2 l 0:00.450
+D i 32
+F "Kick 2.wav" 221120 0 1716852172 0
+D c "Recorded on 5/27/2024 in Edison." s 44100 n 2 l 0:00.626
+D i 32
+F "Kick 3.wav" 97064 0 1716852322 0
+D c "Modified by FL Studio 21" s 48000 n 1 l 0:00.504
+D i 32
+F "Perc 1.wav" 509784 0 1716852226 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.327
+D i 32
+F "Perc 2.wav" 820440 0 1716852236 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:02.136
+D i 32
+F "Perc 3.wav" 757224 0 1716852244 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.971
+D i 32
+F "Perc 4.wav" 558960 0 1716852254 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.455
+D i 32
+F "Perc Loop 92.500.wav" 4007064 0 1716852972 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:10.434
+D i 32
+F "Perc Loop Fill 92.500.wav" 458096 0 1716853194 0
+D c "Recorded on 5/27/2024 in Edison." s 44100 n 2 l 0:01.297
+D i 32

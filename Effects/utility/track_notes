@@ -1,0 +1,157 @@
+// This effect Copyright (C) 2026 and later Cockos Incorporated
+// License: LGPL - http://www.gnu.org/licenses/lgpl.html
+
+desc: Track Notes Display (Cockos)
+//tags: utility track notes
+//author: Cockos
+
+options:no_meter
+
+@init
+
+str = 0;
+laststr = 1;
+flags = 0;
+lastflags = 0;
+has_cap = 0;
+lastw = 0;
+lasth = 0;
+lastclick = 0;
+
+@block
+
+@sample
+
+@gfx 400 400
+
+function is_newline(c)
+(
+  c == 10 || c == 13;
+);
+function is_whitespace(c)
+(
+  c == 32 || c == 9 || c == 10 || c == 13;
+);
+function charwid(c)
+(
+  w = h = 0;
+  gfx_measurechar(c, w, h);
+  w;
+);
+
+function utf8char(str, offs) instance(len ret) local(c1 c2 c3)
+(
+  len = 1;
+  (ret = str_getchar(str,offs,'cu')) >= 0x80 &&
+   ((c1 = str_getchar(str,offs+1,'cu'))&0xC0)==0x80 ? (
+    ret < 0xE0 ? (
+      ret = ((ret&0x1F)<<6) + (c1&0x3F);
+      len = 2;
+    ) : ((c2 = str_getchar(str,offs+2,'cu'))&0xC0)==0x80 ? (
+      ret < 0xF0 ? (
+        ret = ((ret&0x0F)<<12)|((c1&0x3F)<<6)|(c2&0x3f);
+        len = 3;
+      ) : ret < 0xF8 && ((c3 = str_getchar(str,offs+3,'cu'))&0xC0)==0x80 ? (
+        ret = ((ret&7)<<18)|((c1&0x3F)<<12)|((c2&0x3F)<<6)|(c3&0x3F);
+        len = 4;
+      );
+    );
+  );
+  ret;
+);
+
+function draw_str(str, start, end)
+(
+  while (start < end)
+  (
+    c = this.utf8char(str, start);
+    !is_newline(c) ? gfx_drawchar(c);
+    start = start+this.len;
+  );
+);
+
+get_track_notes(str, flags);
+strcmp(str, laststr) || flags != lastflags ||
+gfx_w != lastw || gfx_h != lasth ?
+(
+  strcpy(laststr, str);
+  lastflags = flags;
+  lastw = gfx_w;
+  lasth = gfx_h;
+
+  !strcmp(str, "") ? strcpy(str, " "); // force frame draw
+
+  gfx_clear = $xFFFFFF;
+  gfx_setfont(1, "Arial", 14);
+  gfx_set(0, 0, 0);
+
+  cw = ch = 0;
+  gfx_measurestr("0", cw, ch);
+  lh = ch;
+  xo = yo = 4;
+  gfx_x = xo;
+  gfx_y = yo;
+
+  i = 0;
+  len = strlen(str);
+
+  start = ws = 0;
+  ex = xo;
+  while (i < len)
+  (
+    c = utf8char(str, i);
+
+    draw_line = 0;
+
+    is_newline(c) ?
+    (
+      nc = i+1 < len ? str_getchar(str, i+1) : 0;
+      is_newline(nc) ? i = i+1;
+      draw_line = 1;
+    ) :
+    (flags&8) ? // word wrap
+    (
+      ex = ex+charwid(c);
+      ex >= gfx_w-xo*2 && !is_whitespace(c) ?
+      (
+        draw_line = 1;
+        ws > start ? i = ws;
+      );
+    );
+
+    draw_line ?
+    (
+      draw_str(str, start, i);
+      start = ws = i;
+      ex = xo;
+      yo = yo+lh;
+      gfx_x = xo;
+      gfx_y = yo;
+    ) : is_whitespace(c) ?
+    (
+      ws = i+utf8char.len;
+    );
+
+    i = i+utf8char.len;
+  );
+
+  draw_str(str, start, len);
+);
+
+(mouse_cap&1) ?
+(
+  has_cap = 1;
+) : has_cap ?
+(
+  has_cap = 0;
+  t = time();
+  t - lastclick < 1 ?
+  (
+    edit_track_notes();
+    lastclick = 0;
+  ) :
+  (
+    lastclick = t;
+  );
+);
+

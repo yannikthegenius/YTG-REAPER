@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index version="1" name="SneakPeak">
+  <category name="Extensions">
+    <reapack name="reaper_sneakpeak" type="extension" desc="SneakPeak: Precision Waveform Item Editor for REAPER">
+      <metadata>
+        <link rel="website">https://github.com/b451c/SneakPeak</link>
+        <link rel="screenshot">https://raw.githubusercontent.com/b451c/SneakPeak/main/docs/images/sneakpeak-hero.png</link>
+        <link rel="screenshot">https://raw.githubusercontent.com/b451c/SneakPeak/main/docs/images/standalone-editing.gif</link>
+        <link rel="screenshot">https://raw.githubusercontent.com/b451c/SneakPeak/main/docs/images/multiview.gif</link>
+        <link rel="screenshot">https://raw.githubusercontent.com/b451c/SneakPeak/main/docs/images/spectral-view.png</link>
+        <link rel="screenshot">https://raw.githubusercontent.com/b451c/SneakPeak/main/docs/images/dynamics-gr-shading.png</link>
+        <link rel="screenshot">https://raw.githubusercontent.com/b451c/SneakPeak/main/docs/images/dynamics-live-mode.png</link>
+        <link rel="donation">https://ko-fi.com/quickmd</link>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 SneakPeak - Waveform Editor for REAPER\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A native C++ extension that provides a precision waveform editor for any media item. Click an item in REAPER and get instant, detailed waveform editing.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Features\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Precision waveform with peak + RMS display and dB scale\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Precision selection and editing\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Cut, Copy, Paste, Normalize, Fade, Reverse, Gain\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Real-time spectral analysis with frequency selection\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Multi-item view: Mix, Layered per Item, Layered per Track\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Peak/RMS/VU metering with AES/EBU standard integration\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Minimap, markers, gain knob, solo button\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Standalone WAV editing with drag-and-drop\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Full audio loading for accurate waveform display\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Dockable window, persistent settings\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Zero dependencies - pure C++ extension\sa180\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Dynamics processing: compressor + gate with real-time preview\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Volume envelope editing with freehand drawing\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Requirements\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab REAPER 7.0+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab macOS (arm64/x86_64), Windows (x64), Linux (x86_64/aarch64)\sa180\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 MIT License | https://github.com/b451c/SneakPeak\par}
+}
+]]></description>
+      </metadata>
+
+      <version name="2.5.0-rc1" author="b451c" time="2026-08-30T09:35:29Z">
+        <changelog><![CDATA[RELEASE CANDIDATE (pre-release, opt-in) - v2.5.0 test round
+
+v2.4 added tools; v2.5 makes them hold up on real material - long files above all - plus a full audit of the editor and the Windows fixes you reported. Highlights:
+- Long items open instantly at any length; exports, Copy, Normalize and the Dynamics analysis stream the source at its full sample rate
+- Reverse, DC Remove, Gain on a selection and the Hard Limiter rewrite exactly the item's window of its file in place, in the background, with a one-step undo; MP3/FLAC/AAC items convert to WAV first after one question
+- Every destructive command checks before it asks and shows the reason on the control
+- Hard Limiter: live preview optional on audio over 5 minutes (PREVIEW pill); Standalone: split-band de-esser, channel solo keeps the preview playing, the spectrogram follows edits and the gain knob
+- Multi-item view: Lanes (per Track) with per-track zoom; spectral view: FFT size 512-4096, colours follow the item volume; what you had open on an item comes back when you return to it
+- Settings panel stays open and can be moved; Minimap in the View menu
+- Windows: silent Standalone playback, drag and drop, the tiny UI on scaled displays and destructive undo fixed; envelopes on items with a playrate other than 1.0 land at the right time; keys SneakPeak does not use reach REAPER again
+
+Full changelog: https://github.com/b451c/SneakPeak/blob/main/CHANGELOG.md
+Feedback -> https://forum.cockos.com/showthread.php?t=307499
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.5.0-rc1/reaper_sneakpeak-arm64.dylib</source>
+        <source platform="darwin64" file="reaper_sneakpeak-x86_64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.5.0-rc1/reaper_sneakpeak-x86_64.dylib</source>
+        <source platform="win64" file="reaper_sneakpeak-x64.dll">https://github.com/b451c/SneakPeak/releases/download/v2.5.0-rc1/reaper_sneakpeak-x64.dll</source>
+        <source platform="linux64" file="reaper_sneakpeak-x86_64.so">https://github.com/b451c/SneakPeak/releases/download/v2.5.0-rc1/reaper_sneakpeak-x86_64.so</source>
+        <source platform="linux-aarch64" file="reaper_sneakpeak-aarch64.so">https://github.com/b451c/SneakPeak/releases/download/v2.5.0-rc1/reaper_sneakpeak-aarch64.so</source>
+      </version>
+      <version name="2.4.0" author="b451c" time="2026-07-10T08:53:55Z">
+        <changelog><![CDATA[Game Audio Suite + Dynamics Suite rework + Spectral Repair
+
+New features:
+- Game Audio Suite: Loop Lab (loop region with ruler brackets and zero-cross snap, gapless loop + seam-only auditions, automatic loop-point finder with a texture fallback for stochastic ambiences, equal-power Weld, smpl loop points written on save / adopted on load, one panel with a clickable candidate list), One-Shot Factory (trim/fade/normalize exporter with live prep preview, slicing to variations by whole file / regions-markers / silence, naming pattern with counter tokens, collision-safe numbering, OPEN FOLDER; works on Standalone files and directly on timeline items), True-Peak Hard Limiter (hard dBTP ceiling with 8x-oversampled detection and an offline refinement pass, live GR preview, background Apply for long files, factory + user presets incl. Game Asset -1 dBTP; Standalone and directly on items)
+- Dynamics Suite: upward compression (DOWN/UP/BOTH leveler modes with Max Boost cap), ratio extended to Inf:1 and into over-compression, bipolar makeup (-24..+24 dB), complete noise-gate rework (ratio 1-10:1, hysteresis, exposed attack/release, floors to -90 dB, Off detent), wideband de-esser (DE-ESS tab with BP/HP detector and LISTEN lane), per-stage bypass dots, 7th factory preset (Upward Leveling), and destructive apply on Standalone files with undo
+- Spectral Repair (Standalone): heal a time x frequency selection on the spectrogram, sample-accurate click repair on a time selection
+- Edit Copy in Standalone: copy any timeline item into the standalone editor with one right-click command
+- Redo (Ctrl+Shift+Z / Ctrl+Y) in Standalone and REAPER-native passthrough
+- Curved envelopes: Alt+drag bends segment curvature with a live readout
+- Spectral view: frequency grid with Hz/Notes scale, threaded spectrogram (~10x faster on stereo)
+- Waveform style Detailed / Simple, hide-ruler option, slip content (Alt+drag), fade wheel-nudge, bindable toolbar actions, Did You Know tips
+
+Bug fixes:
+- Destructive item edits (Reverse, DC Remove, limiter, destructive gain/paste) are now undoable: Cmd/Ctrl+Z restores the original source file
+- Dynamics sliders no longer stutter on multi-minute items (full-file peak scan now cached across knob moves; reported by BogdanS); very long items (15+ min) can still feel heavy - tracked for the next release
+- Long standalone files load incrementally without freezing the UI; bounded edits snapshot only the touched range
+- Windows drag-export now completes the OS drag (drop to timeline or Explorer)
+- Standalone no longer bounces back to ITEM mode with an item still selected; crash fixed when re-selecting the same item from Standalone
+- Mode-bar tabs show take names with type markers
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.4.0/reaper_sneakpeak-arm64.dylib</source>
+        <source platform="darwin64" file="reaper_sneakpeak-x86_64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.4.0/reaper_sneakpeak-x86_64.dylib</source>
+        <source platform="win64" file="reaper_sneakpeak-x64.dll">https://github.com/b451c/SneakPeak/releases/download/v2.4.0/reaper_sneakpeak-x64.dll</source>
+        <source platform="linux64" file="reaper_sneakpeak-x86_64.so">https://github.com/b451c/SneakPeak/releases/download/v2.4.0/reaper_sneakpeak-x86_64.so</source>
+        <source platform="linux-aarch64" file="reaper_sneakpeak-aarch64.so">https://github.com/b451c/SneakPeak/releases/download/v2.4.0/reaper_sneakpeak-aarch64.so</source>
+      </version>
+
+      <version name="2.4.0-rc1" author="b451c" time="2026-07-02T18:04:26Z">
+        <changelog><![CDATA[RELEASE CANDIDATE (pre-release, opt-in) - v2.4.0 test round
+
+The biggest update so far. Full notes land with the final release; highlights:
+- Game Audio Suite: Loop Lab (loop region, gapless loop/seam auditions, automatic loop-point finder with texture fallback, equal-power Weld, smpl loop points on save, all in one panel), One-Shot Factory (trim/fade/normalize exporter with live preview, slicing to variations by regions/markers/silence, {name}_{nn} naming, OPEN FOLDER), True-Peak Hard Limiter (hard dBTP ceiling, 8x-oversampled detection, live GR band, Game Asset -1 dBTP preset)
+- Dynamics Suite rework: upward compression (DOWN/UP/BOTH), ratio to Inf:1 and beyond, complete noise-gate redo (ratio, hysteresis, attack/release, -90 dB floors), wideband de-esser with LISTEN, per-stage bypass; Dynamics now also applies destructively on Standalone files
+- Spectral Repair (Standalone): heal a time x frequency selection, sample-accurate click repair
+- Bridges: One-Shot Factory + Hard Limiter work directly on timeline items (destructive source rewrite with confirm + undo), Edit Copy in Standalone, destructive item edits now undoable (Cmd/Ctrl+Z)
+- Plus: curved envelopes, redo, spectral frequency grid (Hz/Notes), ~10x faster spectrogram, responsive long-file loading, Windows drag-export, and many fixes
+
+Feedback -> https://forum.cockos.com/showthread.php?t=307499
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.4.0-rc1/reaper_sneakpeak-arm64.dylib</source>
+        <source platform="darwin64" file="reaper_sneakpeak-x86_64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.4.0-rc1/reaper_sneakpeak-x86_64.dylib</source>
+        <source platform="win64" file="reaper_sneakpeak-x64.dll">https://github.com/b451c/SneakPeak/releases/download/v2.4.0-rc1/reaper_sneakpeak-x64.dll</source>
+        <source platform="linux64" file="reaper_sneakpeak-x86_64.so">https://github.com/b451c/SneakPeak/releases/download/v2.4.0-rc1/reaper_sneakpeak-x86_64.so</source>
+        <source platform="linux-aarch64" file="reaper_sneakpeak-aarch64.so">https://github.com/b451c/SneakPeak/releases/download/v2.4.0-rc1/reaper_sneakpeak-aarch64.so</source>
+      </version>
+
+      <version name="2.2.0" author="b451c" time="2026-06-17T09:55:47Z">
+        <changelog><![CDATA[UI Scaling Release - Global UI Scale, Settings Panel, Premium Rendering, Truthful Clipping
+
+New features:
+- Global UI scale (80-200%): the whole interface scales from a single slider, with first-run DPI auto-detection (Windows display scaling, Linux GDK scale) and automatic re-suggestion across mixed-DPI monitors on Windows
+- Settings panel (gear icon, or right-click > Settings): UI scale slider with live preview, density presets (Compact / Comfortable / Spacious), Fit to Window, plus the migrated Ruler / Meters / View preferences; the right-click menu is now a pure work menu
+- Premium-rendered gain knob, L/R meters and toasts: anti-aliased, DPI-crisp, gradient meter bars with per-mode shading (Peak / RMS / VU) and zone-colored peak-hold
+- Dynamics panel follows the global scale (its resize grip stays a per-panel fine-tune)
+- New action "SneakPeak: Toggle Master Track View" (bindable, same as the mode-bar MASTER tab)
+- Wheel-zoom center preference (mouse position or edit cursor), middle-mouse drag to pan, selection edge resize, ESC closes the Dynamics panel and D toggles it
+
+Bug fixes:
+- Skewed spectral view on Linux (Wayland / arm64): the spectrogram ignored the padded framebuffer stride, shearing the image at about half of all window widths (reporter: Lunar Ladder)
+- Garbled non-ASCII text on Windows: all text, window titles, dialogs, drag-and-drop paths and file IO now use UTF-8-aware Win32 wrappers (reporter: X-Raym)
+- Standalone mode unreachable on Windows: dropped files fell through to the REAPER timeline because the window never registered for Windows drag-and-drop (reporter: Ben Zero)
+- Launch shortcut dead when docked: SneakPeak now recognizes its own action bindings and lets them fire (reporter: Ben Zero)
+- Truthful clip display: red now means real clipping in the source samples; amber means an over-0 dBFS headroom warning in float contexts
+- Meters now fold in item fades and the take volume envelope at the latency-compensated play position
+- Channel solo keeps stereo placement (solo via take pan balance instead of mono channel modes)
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.2.0/reaper_sneakpeak-arm64.dylib</source>
+        <source platform="darwin64" file="reaper_sneakpeak-x86_64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.2.0/reaper_sneakpeak-x86_64.dylib</source>
+        <source platform="win64" file="reaper_sneakpeak-x64.dll">https://github.com/b451c/SneakPeak/releases/download/v2.2.0/reaper_sneakpeak-x64.dll</source>
+        <source platform="linux64" file="reaper_sneakpeak-x86_64.so">https://github.com/b451c/SneakPeak/releases/download/v2.2.0/reaper_sneakpeak-x86_64.so</source>
+        <source platform="linux-aarch64" file="reaper_sneakpeak-aarch64.so">https://github.com/b451c/SneakPeak/releases/download/v2.2.0/reaper_sneakpeak-aarch64.so</source>
+      </version>
+
+      <version name="2.1.1" author="b451c" time="2026-04-18T22:00:00Z">
+        <changelog><![CDATA[Linux destructive-edit refresh hotfix
+
+Bug fix:
+- Destructive edits (Reverse, Normalize, DC Remove, LUFS normalize) now take effect immediately on Linux. Previously RefreshItemSource swapped P_SOURCE + UpdateArrange but did not call UpdateItemInProject, leaving REAPER's audio cache stale until a full restart. macOS/Windows were less affected; Linux required REAPER relaunch to hear edited audio.
+
+Reporter: reaperfreaker (Debian Trixie)
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.1.1/reaper_sneakpeak-arm64.dylib</source>
+        <source platform="darwin64" file="reaper_sneakpeak-x86_64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.1.1/reaper_sneakpeak-x86_64.dylib</source>
+        <source platform="win64" file="reaper_sneakpeak-x64.dll">https://github.com/b451c/SneakPeak/releases/download/v2.1.1/reaper_sneakpeak-x64.dll</source>
+        <source platform="linux64" file="reaper_sneakpeak-x86_64.so">https://github.com/b451c/SneakPeak/releases/download/v2.1.1/reaper_sneakpeak-x86_64.so</source>
+        <source platform="linux-aarch64" file="reaper_sneakpeak-aarch64.so">https://github.com/b451c/SneakPeak/releases/download/v2.1.1/reaper_sneakpeak-aarch64.so</source>
+      </version>
+
+      <version name="2.1.0" author="b451c" time="2026-04-18T00:00:00Z">
+        <changelog><![CDATA[Bug Fixes + Workflow Features
+
+Bug fixes:
+- macOS Catalina crash on right-click context menu (use-after-free on submenus)
+- Envelope point add did not drag the new point (selected=false + stale clamp bounds + unsorted freehand insert)
+
+New features:
+- Auto-activate take volume envelope on demand (no manual REAPER setup needed)
+- View > Show RMS toggle (peak-only waveform when off)
+- View > Show Meters toggle (collapses bottom panel for more waveform area)
+- Replace Source in REAPER Timeline (standalone mode: edit a file, one click pushes it back to every project take referencing it)
+- Check for Updates via clickable version label in mode bar
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.1.0/reaper_sneakpeak-arm64.dylib</source>
+        <source platform="darwin64" file="reaper_sneakpeak-x86_64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.1.0/reaper_sneakpeak-x86_64.dylib</source>
+        <source platform="win64" file="reaper_sneakpeak-x64.dll">https://github.com/b451c/SneakPeak/releases/download/v2.1.0/reaper_sneakpeak-x64.dll</source>
+        <source platform="linux64" file="reaper_sneakpeak-x86_64.so">https://github.com/b451c/SneakPeak/releases/download/v2.1.0/reaper_sneakpeak-x86_64.so</source>
+        <source platform="linux-aarch64" file="reaper_sneakpeak-aarch64.so">https://github.com/b451c/SneakPeak/releases/download/v2.1.0/reaper_sneakpeak-aarch64.so</source>
+      </version>
+
+      <version name="2.0.0" author="b451c" time="2026-04-16T00:00:00Z">
+        <changelog><![CDATA[Multiplatform + Dynamics Engine + Envelope Editing
+
+Major release - Windows and Linux now supported!
+
+New features:
+- Multiplatform: macOS arm64/x86_64, Windows x64, Linux x86_64/aarch64
+- Dynamics engine: professional compressor + noise gate, writes volume envelope
+- 10-slider dynamics panel with real-time preview, Live mode, 6 presets
+- Volume envelope editing: add/move/delete points, freehand drawing, multi-select
+- Lookahead, Peak/RMS detection, auto makeup gain
+- GR meter, gain reduction shading, A/B bypass
+- Per-item dynamics persistence via P_EXT
+- Gain knob +/-24 dB, multi-item copy/paste
+- MULTI dropdown menu, drag export bakes fades
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.0.0/reaper_sneakpeak-arm64.dylib</source>
+        <source platform="darwin64" file="reaper_sneakpeak-x86_64.dylib">https://github.com/b451c/SneakPeak/releases/download/v2.0.0/reaper_sneakpeak-x86_64.dylib</source>
+        <source platform="win64" file="reaper_sneakpeak-x64.dll">https://github.com/b451c/SneakPeak/releases/download/v2.0.0/reaper_sneakpeak-x64.dll</source>
+        <source platform="linux64" file="reaper_sneakpeak-x86_64.so">https://github.com/b451c/SneakPeak/releases/download/v2.0.0/reaper_sneakpeak-x86_64.so</source>
+        <source platform="linux-aarch64" file="reaper_sneakpeak-aarch64.so">https://github.com/b451c/SneakPeak/releases/download/v2.0.0/reaper_sneakpeak-aarch64.so</source>
+      </version>
+
+      <version name="1.9.0" author="b451c" time="2026-04-04T00:00:00Z">
+        <changelog><![CDATA[Non-Destructive Paste, Bars/Beats Ruler, Trackpad Gestures, Ripple Delete
+
+New features:
+- Non-destructive paste: Cmd+V inserts clipboard as new item (split + ripple + insert)
+- Bars & Beats ruler: synced with REAPER tempo map, measure/beat ticks
+- Ripple Delete: Shift+Delete/Shift+E closes gap after deletion
+- Arrow key segment navigation: Option+Left/Right with playback jump
+- Arrow key gain: Up/Down for +/-1 dB adjustment
+- Trackpad horizontal scroll: two-finger swipe pans waveform
+- Pinch to zoom: trackpad magnification gesture (dampened)
+- Gain knob relative indicator: gold "rel" label in batch mode
+
+Bug fixes:
+- Scroll modifier detection (GetAsyncKeyState for SWELL compatibility)
+- SET mode only includes explicitly selected items (not range fill)
+- Track follow respects user's explicit item selection during playback
+- Fade-in/out preserved after gain+selection split operations
+- Gain double-apply eliminated (single-item to timeline transition)
+- Timeline/SET view rebuilt after gain and delete (no stale segments)
+- Space plays from cursor when outside selection
+- Cut uses ripple delete (standard waveform editor behavior)
+- Knob drag race condition fixed (skipBatchWrite set immediately)
+- Context menu fades align to selection edges
+- View duration clamped after ripple delete (no trailing silence)
+
+Performance:
+- Full-selection gain skips split (direct D_VOL, no item fragmentation)
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v1.9.0/reaper_sneakpeak-arm64.dylib</source>
+      </version>
+
+      <version name="1.8.0" author="b451c" time="2026-03-27T00:00:00Z">
+        <changelog><![CDATA[Timeline View, Dock Control, Gain Consistency, Bug Fixes
+
+New features:
+- Timeline View: after cutting an item, all fragments shown with gaps preserved
+- Dock/Undock via context menu, floating window resizable with position memory
+- Option+click snaps selection to segment boundaries (SET, timeline, multi-item)
+- Selection-aware gain works consistently across all view modes
+- Multi-item gap visualization and editing (delete, gain)
+- Drag export without Alt (drag selection outside window)
+- Split at Cursor in context menu
+
+Bug fixes (thanks saxmand!):
+- Dock scroll no longer propagates to REAPER arrangement
+- T key no longer produces macOS error beep
+- Fade sync bidirectional in real-time
+- Fade handles always visible, correct item targeting in multi-item
+- Fade-in/out block each other at meeting point
+- Volume mismatch REAPER to SET fixed
+- Item length changes properly detected and reloaded
+- Repeated gain operations don't accumulate splits
+- Delete works at item start/end edges
+- Zoom preserved after cut, gain flash eliminated
+- Selection preserved after gain, undo refreshes timeline
+
+Performance:
+- Instant gain via in-place audio buffer scaling
+- No audio reload on item position change
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v1.8.0/reaper_sneakpeak-arm64.dylib</source>
+      </version>
+
+      <version name="1.7.0" author="b451c" time="2026-03-26T00:00:00Z">
+        <changelog><![CDATA[Working Set Mode, Selection Gain, Clipping Visualization
+
+New features:
+- Working Set mode: select items, press T to lock as persistent editing set
+- Continuous waveform with gaps collapsed, auto-restores on click back
+- Selection-aware gain: splits at edges with crossfade in SET mode
+- Clipping visualization: peaks above 0dB draw in red
+- Group Set Items: group edited items for timeline manipulation
+- Ripple edit in SET mode: delete pulls items together
+- Bidirectional cursor sync with REAPER timeline
+- Ruler time format toggle (relative / absolute)
+- REAPER action: "SneakPeak: Toggle Track View"
+
+Improvements:
+- Drag export requires Alt/Option (prevents accidental drags)
+- Full codebase refactor: 82% reduction in main file, 8 focused modules
+- PreventUIRefresh on all undo blocks
+
+Fixes:
+- Memory leak in RefreshItemSource (P_SOURCE)
+- Selection edges clamp to waveform area
+- Selection sync at item boundaries
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v1.7.0/reaper_sneakpeak-arm64.dylib</source>
+      </version>
+
+      <version name="1.6.0" author="b451c" time="2026-03-25T00:00:00Z">
+        <changelog><![CDATA[Fade Handles & Smart Save Workflow
+
+New features:
+- Continuous fade curvature: vertical drag smoothly controls curve shape (matches REAPER)
+- Save As (Ctrl+Shift+S): save standalone files to custom location
+- Standalone waveform shows fade changes in real-time
+
+Improvements:
+- Smart Save (Ctrl+S): confirms overwrite on WAV, auto-creates _edit.wav for MP3/FLAC
+- Drag to timeline: clean files use original (no copy), dirty files auto-save first
+- Exported files saved to project folder (not /tmp)
+- Fade handle hit zone doubled (16px), curvature range matches REAPER
+
+Fixes:
+- Fade-in direction matches REAPER timeline (was inverted)
+- Drag export files no longer lost on restart
+- GitHub issue #1: "Weird fade handle behavior"
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v1.6.0/reaper_sneakpeak-arm64.dylib</source>
+      </version>
+
+      <version name="1.5.0" author="b451c" time="2026-03-12T00:00:00Z">
+        <changelog><![CDATA[Master Meter Mode & Meter Improvements
+
+New features:
+- Master meter mode: MASTER tab in mode bar shows rolling peak waveform from master track output
+- Red clipping indicator when master signal exceeds 0dB
+- dB scale in master waveform view
+- Master Output meter source: right-click meters to read from master while viewing items
+- S shortcut for split at cursor
+
+Fixes:
+- Meter accuracy: take D_VOL now included in level calculation
+- Multi-item volume changes auto-detected and reloaded
+- Latency-compensated meter sync
+- SWELL menu checkmarks no longer grayed out on macOS
+- Docker close crash on macOS
+
+Improvements:
+- GDI caching for meters (0 allocations per frame)
+- Mode-dependent ballistics for master meter (Peak/VU/RMS)
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v1.5.0/reaper_sneakpeak-arm64.dylib</source>
+      </version>
+
+      <version name="1.4.0" author="b451c" time="2026-03-11T00:00:00Z">
+        <changelog><![CDATA[Feature release: Multi-item views and professional metering
+
+New features:
+- Meter mode selection: Peak (PPM), RMS (AES/EBU), VU — right-click meters to switch
+- Multi-item Mix mode: sum all items into single waveform on absolute timeline
+- Multi-item Layered mode (per Item): 8-color palette with transparency
+- Multi-item Layered mode (per Track): items colored by parent track
+- Crossfade join indicators at item transition midpoints
+- Batch gain control across multiple items
+
+Improvements:
+- RMS integration window: 300ms per AES/EBU standard (was 50ms)
+- Optimized layered drawing for 20+ items across 10+ tracks
+- Zero warnings in Release build
+
+Fixes:
+- Undo menu state in REAPER mode
+- Compiler warnings in Release build
+]]></changelog>
+        <source platform="darwin-arm64" file="reaper_sneakpeak-arm64.dylib">https://github.com/b451c/SneakPeak/releases/download/v1.4.0/reaper_sneakpeak-arm64.dylib</source>
+      </version>
+    </reapack>
+  </category>
+</index>

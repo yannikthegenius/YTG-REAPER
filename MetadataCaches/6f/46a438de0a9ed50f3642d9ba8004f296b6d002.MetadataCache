@@ -1,0 +1,36 @@
+C10018 "/mnt/Data/OUT$IDERZ/SONGS/Projects/2025/09-25/Liebe in mein Grab aka Schon damals/MASTER/Media"
+F "#11_Liebe in mein Grab_30-09-25.wav" 35952754 0 1759252920 0
+D y 2025-09-30 p 90.000000 s 48000 n 2
+D l 2:04.833 i 24
+F "#13_Liebe in mein Grab_15-10-25.wav" 35952754 0 1760486176 0
+D y 2025-10-15 p 140.000000 s 48000 n 2
+D l 2:04.833 i 24
+F "#14_Liebe in mein Grab_15-10-25.wav" 35952754 0 1760530056 0
+D y 2025-10-15 p 140.000000 s 48000 n 2
+D l 2:04.833 i 24
+F "#15_Liebe in mein Grab_15-10-25.wav" 35952754 0 1760530386 0
+D y 2025-10-15 p 140.000000 s 48000 n 2
+D l 2:04.833 i 24
+F "#15_Liebe in mein Grab_15-10-25_universal.wav" 22020640 0 1760530648 0
+D s 44100 n 2 l 2:04.833 i 16
+F "#16_Liebe in mein Grab_20-12-25.wav" 35956184 0 1766249827 0
+D t "Liebe in mein Grab aka Schon damals" y 2025-12-20 p 140.000000 s 48000
+D n 2 l 2:04.833 i 24
+F "#17_Liebe in mein Grab_24-12-25.wav" 35956184 0 1766535200 0
+D t "Liebe in mein Grab aka Schon damals" y 2025-12-24 p 140.000000 s 48000
+D n 2 l 2:04.833 i 24
+F "#M2_Liebe in mein Grab_14-10-25.wav" 35952754 0 1760394922 0
+D y 2025-10-14 p 90.000000 s 48000 n 2
+D l 2:04.833 i 24
+F "01. 6 Dogs - Kingdom.mp3" 7284610 0 1717319205 0
+D t Kingdom a "6 Dogs" b "6 Dogs" y 2017
+D s 44100 n 2 l 3:01.277 i 320k
+D m 01/13 j "mime:image/jpeg offset:2794 length:27005"
+F "01. A$AP Rocky - Holy Ghost (ft. Joe Fox).mp3" 7682475 0 1717319207 0
+D t "Holy Ghost" a "A$AP Rocky (ft. Joe Fox)" b At.Long.Last.A$AP y 2015
+D g Hip-Hop s 44100 n 2 l 3:11.200
+D i 320k m 01/18 j "mime:image/jpg offset:5179 length:24412"
+F "09. $NOT - MEGAN.mp3" 3296851 0 1717320481 0
+D t MEGAN a $NOT b "- TRAGEDY +" y 2020
+D g Rap s 44100 n 2 l 2:34.659
+D i 128k m 09/12 j "mime:image/png offset:4611 length:815953"

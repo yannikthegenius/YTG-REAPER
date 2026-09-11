@@ -1,0 +1,13 @@
+C10018 "/home/yannik/Desktop/Denk mal aka Luftballons/BOUNCE"
+F "#1_Denk mal_D28-M10-Y2025_90-BPM_48k-24b.wav" 36353330 0 1761686950 0
+D t Luftballons a "OT$Z Cozy" y 2025-10-28 g Rap
+D p 90.000000 s 48000 n 2 l 2:06.212
+D i 24
+F "#2_Denk mal_D28-M10-Y2025_90-BPM_48k-24b.wav" 36353316 0 1761687164 0
+D t "Denk mal" a "OT$Z Cozy" y 2025-10-28 g Rap
+D p 90.000000 s 48000 n 2 l 2:06.212
+D i 24
+F "#3_Denk mal_D28-M10-Y2025_90-BPM_48k-24b.wav" 36353316 0 1761688180 0
+D t "Denk mal" a "OT$Z Cozy" y 2025-10-28 g Rap
+D p 90.000000 s 48000 n 2 l 2:06.212
+D i 24

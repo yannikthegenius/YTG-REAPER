@@ -1,0 +1,41 @@
+C10018 "/media/Data/OUT$IDERZ/RESSOURCES/BEAT RESSOURCES/Drums/808 Mafia Sounds/808 Mafia Sound's"
+F "Blow Horn.wav" 104122 0 1298853234 0
+D s 22050 n 1 l 0:02.357 i 16
+F "Crunk bell 2 - Tublar bell.wav" 313692 0 1298853234 0
+D s 44100 n 2 l 0:01.776 i 16
+F cymbol.wav 1341152 0 1298853234 0
+D y 2009-09-20 s 44100 n 1 r 1:00:00.000
+D l 0:10.105 i 24
+F Hollarin(1).wav 2276396 0 1298853234 0
+D s 44100 n 2 l 0:12.904 i 16
+F Hollarin(2).mp3 167918 0 1298853234 0
+D y 2003 g Blues s 44100 n 2
+D l 0:10.398 i 128k
+F "LEX Chant.wav" 92988 0 1298853234 0
+D s 44100 n 2 l 0:00.527 i 16
+F "LEX Secret Chant.wav" 114688 0 1298853234 0
+D s 44100 n 2 l 0:00.413 i 24
+F "LEX Secret Stomp.wav" 36586 0 1298853234 0
+D s 11025 n 1 l 0:01.657 i 16
+F LexLugerVox.wav 93638 0 1298853234 0
+D s 44100 n 2 l 0:00.265 i 32
+F "Supa Chant.wav" 147456 0 1298853234 0
+D s 44100 n 2 l 0:00.527 i 24
+F "Supa Chant2.wav" 643072 0 1298853234 0
+D s 44100 n 2 l 0:02.400 i 24
+F "Teare's Vox Woh.wav" 15774 0 1298853234 0
+D s 44100 n 1 l 0:00.178 i 16
+F "Teare's Vox.wav" 27520 0 1298853234 0
+D s 44100 n 2 l 0:00.156 i 16
+F Vox1.wav 88152 0 1298853234 0
+D s 44100 n 2 l 0:00.249 i 32
+F Vox2.wav 241176 0 1298853234 0
+D s 44100 n 2 l 0:00.683 i 32
+F "Waka Blow Horn.wav" 104122 0 1298853234 0
+D s 22050 n 1 l 0:02.357 i 16
+F "Waka Flocka Bark.mp3" 38693 0 1298853234 0
+D s 48000 n 2 l 0:00.865 i 263k
+F "What Vocal.wav" 65484 0 1298853234 0
+D s 44100 n 2 l 0:00.371 i 16
+F what.wav 26890 0 1298853234 0
+D s 44100 n 1 l 0:00.304 i 16

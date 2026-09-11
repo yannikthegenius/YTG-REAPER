@@ -1,0 +1,21 @@
+C10018 "/home/yannik/Desktop/Praktische Abschlussaufgabe/Praktische Abschlussaufgabe - Band Editing/Media"
+F Bass_Guitar.wav 2917484 0 1666265454 0
+D s 48000 n 1 l 0:20.259 i 24
+F Cajon_BD.wav 2759342 0 1666265442 0
+D s 48000 n 1 l 0:19.161 i 24
+F Cajon_Hihat.wav 2760162 0 1666265442 0
+D y 2022-10-20 d Cubase s 48000 n 1
+D r 0:24.935 l 0:19.161 i 24
+F Cajon_OH.wav 5519424 0 1666265442 0
+D y 2022-10-20 d Cubase s 48000 n 2
+D r 0:24.935 l 0:19.161 i 24
+F Cajon_Room.wav 5519424 0 1666265442 0
+D y 2022-10-20 d Cubase s 48000 n 2
+D r 0:24.935 l 0:19.161 i 24
+F Cajon_SN.wav 2759342 0 1666265442 0
+D s 48000 n 1 l 0:19.161 i 24
+F Guitar_1.wav 2742336 0 1666265652 0
+D y 2022-10-20 d Cubase s 48000 n 1
+D r 0:24.935 l 0:19.037 i 24
+F Guitar_2.wav 2917484 0 1666265466 0
+D s 48000 n 1 l 0:20.259 i 24

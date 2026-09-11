@@ -1,0 +1,885 @@
+C10018 "/media/Data/OUT$IDERZ/RESSOURCES/BEAT RESSOURCES/Drums/Boom Bap Essentials/HiHats"
+F "! Perc_Tamb03.aiff" 87976 0 1475141682 0
+D t "Soulful Hip Hop" a www.primeloops.com d www.primeloops.com p 194.6447
+D s 44100 n 2 l 0:00.308 i 24
+F "(Griimz) Old NY Hi Hat 3.wav" 45346 0 1515169762 0
+D s 44100 n 2 l 0:00.128 i 32
+F 07_Hats_04_SP.wav 66808 0 1453668224 0
+D s 44100 n 2 l 0:00.378 i 16
+F 07_Hats_08_SP.wav 15988 0 1453668224 0
+D s 44100 n 2 l 0:00.090 i 16
+F "10 004.wav" 80232 0 1367715082 0
+D s 44100 n 2 l 0:00.454 i 16
+F "11 BBL HIHAT.wav" 132344 0 1359586800 0
+D s 44100 n 1 l 0:01.000 i 24
+F "19 BBL HIHAT.wav" 132344 0 1359586800 0
+D s 44100 n 1 l 0:01.000 i 24
+F "2Hit 8 (1).wav" 6290 0 1533502452 0
+D s 44100 n 1 l 0:00.071 i 16
+F "2Hit 8 (2).wav" 13110 0 1533502450 0
+D s 44100 n 1 l 0:00.148 i 16
+F "30 BBL HIHAT.wav" 132344 0 1359586800 0
+D s 44100 n 1 l 0:01.000 i 24
+F 808-HiHats02.wav 5880 0 1004904512 0
+D s 44100 n 1 l 0:00.066 i 16
+F 808-HiHats18.wav 18816 0 1225388736 0
+D s 44100 n 2 l 0:00.083 i 16
+F "[ACD] - JDilla Live Hats (1).wav" 1273174 0 1452953578 0
+D s 44100 n 2 l 0:07.216 i 16
+F "[ACD] - MMG Hat.wav" 95134 0 1452953580 0
+D s 44100 n 2 l 0:00.538 i 16
+F AFS_HAT.wav 41212 0 1453668217 0
+D s 44100 n 2 l 0:00.233 i 16
+F Aki_H4.wav 19522 0 1533502450 0
+D s 44100 n 1 l 0:00.221 i 16
+F ALKHAT2.wav 29168 0 1453668216 0
+D s 44100 n 2 l 0:00.165 i 16
+F "araabMUZIK HATS! (13).wav" 15314 0 1532127792 0
+D t "Example Sound Group" c "This is a short demonstration of what Internet Audio Mix can do.  It uses embedded sounds and Sound Groups.  It also has pan and volume maps.  Register your copy today!" s 44100 n 2
+D l 0:00.085 i 16
+F "araabMUZIK HATS! (21).wav" 31900 0 1170193178 0
+D t "T_HH_CL_2A      " y 0000-01-01 s 44100 n 2
+D l 0:00.180 i 16
+F B83-HAT.wav 28212 0 1402397636 0
+D s 44100 n 1 l 0:00.213 i 24
+F BattleCatHat3.wav 209126 0 1533502362 0
+D s 48000 n 2 l 0:01.082 i 16
+F BAZ_HAT.wav 32740 0 1453668213 0
+D s 44100 n 2 l 0:00.185 i 16
+F BBP2Hats_05.wav 108152 0 1376830656 0
+D y 2013-08-17 s 44100 n 1 r 1:00:06.903
+D l 0:01.153 i 16
+F BBP2Hats_18.wav 28246 0 1376830654 0
+D y 2013-08-17 s 44100 n 1 r 1:01:17.962
+D l 0:00.247 i 16
+F Bld_H2.wav 26600 0 1533502434 0
+D s 44100 n 1 l 0:00.301 i 16
+F Bld_H3.wav 30096 0 1533502430 0
+D s 44100 n 1 l 0:00.341 i 16
+F "Boom-Bap Hat CL 51.wav" 32252 0 1453668212 0
+D s 44100 n 2 l 0:00.182 i 16
+F "Boom-Bap Hat CL 52.wav" 26336 0 1453668212 0
+D s 44100 n 2 l 0:00.149 i 16
+F "Boom-Bap Hat CL 57.wav" 46604 0 1453668212 0
+D s 44100 n 2 l 0:00.264 i 16
+F "Boom-Bap Hat CL 61.wav" 26872 0 1453668211 0
+D s 44100 n 2 l 0:00.152 i 16
+F "Boom-Bap Hat CL 64.wav" 45616 0 1453668211 0
+D s 44100 n 2 l 0:00.258 i 16
+F "Boom-Bap Hat CL 67.wav" 29116 0 1453668211 0
+D s 44100 n 2 l 0:00.164 i 16
+F "Boom-Bap Hat CL 71.wav" 53316 0 1453668211 0
+D s 44100 n 2 l 0:00.302 i 16
+F "Boom-Bap Hat CL 75.wav" 29632 0 1453668211 0
+D s 44100 n 2 l 0:00.167 i 16
+F "Boom-Bap Hat CL 76.wav" 23592 0 1453668211 0
+D s 44100 n 2 l 0:00.133 i 16
+F "Boom-Bap Hat CL 90.wav" 28308 0 1453668209 0
+D s 44100 n 2 l 0:00.160 i 16
+F "Boom-Bap Hat CL 96.wav" 54816 0 1453668209 0
+D s 44100 n 2 l 0:00.310 i 16
+F Breakingz_hat.wav 44132 0 1453668202 0
+D s 44100 n 2 l 0:00.250 i 16
+F Cev_H1.wav 13934 0 1185955254 0
+D s 44100 n 1 l 0:00.157 i 16
+F CHAN-HAT.wav 33468 0 1402396720 0
+D s 44100 n 1 l 0:00.252 i 24
+F Chh-Amb-2.wav 68084 0 1431354192 0
+D s 44100 n 2 l 0:00.386 i 16
+F Chh-Egt-2.wav 127564 0 1431354192 0
+D s 44100 n 2 l 0:00.723 i 16
+F Chh-Msk-1.wav 60480 0 1431354192 0
+D s 44100 n 2 l 0:00.343 i 16
+F Chh-Vbe-3.wav 37260 0 1431354192 0
+D s 44100 n 2 l 0:00.211 i 16
+F CLGY-HAT.wav 33396 0 1402398198 0
+D s 44100 n 1 l 0:00.252 i 24
+F Cln_H1.wav 10390 0 1185956272 0
+D s 44100 n 1 l 0:00.117 i 16
+F "ClosedHH 41st 1.wav" 39560 0 1459489414 0
+D s 44100 n 2 l 0:00.215 i 16
+F "ClosedHH 41st 2.wav" 91192 0 1459489414 0
+D s 44100 n 2 l 0:00.508 i 16
+F "ClosedHH 48hrs 1.wav" 15230 0 1459489414 0
+D s 44100 n 2 l 0:00.078 i 16
+F "ClosedHH 6feet 1.wav" 17086 0 1459489414 0
+D s 44100 n 2 l 0:00.088 i 16
+F "ClosedHH AnimalThug 1.wav" 21416 0 1459489414 0
+D s 44100 n 2 l 0:00.113 i 16
+F "ClosedHH AnimalThug 2.wav" 14780 0 1459489414 0
+D s 44100 n 2 l 0:00.075 i 16
+F "ClosedHH Cornerstore 2.wav" 42222 0 1459489414 0
+D s 44100 n 2 l 0:00.231 i 16
+F "ClosedHH Crossfire 1.wav" 12194 0 1459489414 0
+D s 44100 n 2 l 0:00.060 i 16
+F "ClosedHH Gram 1.wav" 15544 0 1459489414 0
+D s 44100 n 2 l 0:00.079 i 16
+F "ClosedHH Gram 2.wav" 29184 0 1459489414 0
+D s 44100 n 2 l 0:00.157 i 16
+F "ClosedHH HCore 2.WAV" 37074 0 1459489414 0
+D s 44100 n 2 l 0:00.202 i 16
+F "ClosedHH Hellcat 1.wav" 21570 0 1459489414 0
+D s 44100 n 2 l 0:00.114 i 16
+F "ClosedHH Pain 1.wav" 11112 0 1459489414 0
+D s 44100 n 2 l 0:00.054 i 16
+F "ClosedHH Plate 2.wav" 32830 0 1459489414 0
+D s 44100 n 2 l 0:00.177 i 16
+F "ClosedHH Sikness 1.wav" 41642 0 1459489414 0
+D s 44100 n 2 l 0:00.227 i 16
+F "ClosedHH Thereel 1.wav" 36034 0 1459489414 0
+D s 44100 n 2 l 0:00.196 i 16
+F "ClosedHH Wildstyle 1.wav" 14694 0 1459489414 0
+D s 44100 n 2 l 0:00.075 i 16
+F D_HHMED.WAV 39898 0 924544800 0
+D t "D-HHMED         " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.450 i 16
+F dbhh11.wav 13306 0 1335477600 0
+D s 44100 n 1 l 0:00.150 i 16
+F dbhh4.wav 35040 0 1335477600 0
+D s 44100 n 1 l 0:00.397 i 16
+F dbhh5.wav 16780 0 1335477600 0
+D s 44100 n 1 l 0:00.190 i 16
+F dbhh9.wav 50676 0 1335477600 0
+D s 44100 n 2 l 0:00.287 i 16
+F dillahat5.wav 54882 0 1533502400 0
+D s 44100 n 2 l 0:00.303 i 16
+F DJPR_CH_022.wav 12778 0 1197924456 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.098 i 16
+F DJPR_CH_026.wav 15354 0 1197924458 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.128 i 16
+F DJPR_CH_030.wav 12778 0 1197924462 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.098 i 16
+F DJPR_CH_067.wav 20086 0 1197925510 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.181 i 16
+F DJPR_CH_091.wav 20954 0 1197925682 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.191 i 16
+F DJPR_CH_102.wav 15662 0 1197925920 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.131 i 16
+F DJPR_CH_103.wav 16362 0 1197925920 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.139 i 16
+F DJPR_CH_106.wav 14542 0 1197925922 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.118 i 16
+F DJPR_TMB_003.wav 45782 0 1197852468 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.473 i 16
+F DJPR_TMB_004.wav 32780 0 1197852470 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.325 i 16
+F DJPR_TMB_005.wav 28854 0 1197852470 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.281 i 16
+F DJPR_TMB_006.wav 25294 0 1197852470 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.240 i 16
+F DJPR_TMB_007.wav 27674 0 1197852470 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.267 i 16
+F DJPR_TMB_009.wav 18914 0 1197852472 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.168 i 16
+F DJPR_TMB_010.wav 18330 0 1197852472 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.161 i 16
+F DJPR_TMB_011.wav 16992 0 1197852474 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.146 i 16
+F DJPR_TMB_012.wav 15350 0 1197852476 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.128 i 16
+F DJPR_TMB_013.wav 14992 0 1197852476 0
+D t "DJ Premier Drums" a "DJ Premier" y "15/12/2007 12:19:30 ìì" g "Hip Hop"
+D c "=-= H I P  H O P  W O R K S H O P =-=                 Your Drum Dealer!      visit:  http://www.hiphopworkshop.net  http://hiphopworkshop.tradebit.com  http://stores.ebay.com/Hip-Hop-Workshop  www.myspace.com/hiphopshop36    hiphopshop36@gmail.com  " d "Drum samples that match the drums of DJ Premier" s 44100 n 1
+D l 0:00.124 i 16
+F Dol_H1.wav 79172 0 1533502384 0
+D s 44100 n 2 l 0:00.449 i 16
+F DPHAT08.wav 26514 0 1148461774 0
+D y 2005-03-19 s 44100 n 1 l 0:00.299
+D i 16
+F DPHAT45.wav 18248 0 1148461782 0
+D y 2005-03-19 s 44100 n 1 l 0:00.205
+D i 16
+F DPHAT67.wav 26904 0 1148461674 0
+D y 2005-03-18 s 44100 n 1 l 0:00.298
+D i 16
+F DreCCH5.wav 18886 0 1140085940 0
+D y 2006-02-16 d DreCCH5 s 44100 n 1
+D r 0:00.258 l 0:00.201 i 16
+F Dry_H.wav 55788 0 1533502394 0
+D s 44100 n 2 l 0:00.316 i 16
+F Fallout_Hat.wav 22432 0 1468531078 0
+D a www.primeloops.com g Electronic/Dance c www.primeloops.com s 44100
+D n 2 l 0:00.096 i 16
+F "FoFiTH Hat (1).wav" 250602 0 1452953656 0
+D y 2011-12-23 s 44100 n 2 r 0:14.545
+D l 0:01.412 i 16
+F "FoFiTH Hat (3).wav" 183786 0 1452953656 0
+D y 2012-03-31 s 44100 n 2 r 1:13.333
+D l 0:01.033 i 16
+F "FoFiTH Hat (4).wav" 275662 0 1452953657 0
+D y 2012-03-31 s 44100 n 2 r 1:13.333
+D l 0:01.554 i 16
+F "FoFiTH Hat (5).wav" 107346 0 1452953657 0
+D y 2012-02-22 s 44100 n 2 r 1:25.600
+D l 0:00.600 i 16
+F "FoFiTH Hat (6).wav" 177906 0 1452953657 0
+D y 2012-02-22 s 44100 n 2 r 1:26.400
+D l 0:01.000 i 16
+F "H - RV.wav" 189672 0 1228583476 0
+D s 44100 n 2 l 0:00.537 i 32
+F "Hat (1).wav" 15912 0 1453668176 0
+D s 44100 n 2 l 0:00.089 i 16
+F "Hat (10).wav" 47508 0 1453668175 0
+D s 44100 n 2 l 0:00.269 i 16
+F "Hat (11).wav" 58972 0 1453668175 0
+D s 44100 n 2 l 0:00.333 i 16
+F "Hat (27).wav" 171620 0 1453668174 0
+D s 44100 n 2 l 0:00.972 i 16
+F "Hat (33).wav" 67620 0 1453668174 0
+D s 44100 n 2 l 0:00.382 i 16
+F "Hat (37).wav" 30924 0 1453668174 0
+D s 44100 n 2 l 0:00.174 i 16
+F "Hat (38).wav" 56544 0 1453668174 0
+D s 44100 n 2 l 0:00.320 i 16
+F "Hat (47).wav" 66736 0 1453668173 0
+D s 44100 n 2 l 0:00.377 i 16
+F "Hat (48).wav" 64760 0 1453668173 0
+D s 44100 n 2 l 0:00.366 i 16
+F "Hat (49).wav" 58048 0 1453668173 0
+D s 44100 n 2 l 0:00.328 i 16
+F "Hat (51).wav" 56616 0 1453668173 0
+D s 44100 n 2 l 0:00.320 i 16
+F "Hat (7).wav" 37704 0 1453668175 0
+D s 44100 n 2 l 0:00.213 i 16
+F "Hat (72).wav" 35896 0 1453668172 0
+D s 44100 n 2 l 0:00.203 i 16
+F "Hat (73).wav" 30308 0 1453668172 0
+D s 44100 n 2 l 0:00.171 i 16
+F "Hat (74).wav" 65276 0 1453668172 0
+D s 44100 n 2 l 0:00.369 i 16
+F "Hat (75).wav" 50736 0 1453668172 0
+D s 44100 n 2 l 0:00.287 i 16
+F "Hat (77).wav" 25856 0 1453668172 0
+D s 44100 n 2 l 0:00.146 i 16
+F "Hat (78).wav" 84984 0 1453668172 0
+D s 44100 n 2 l 0:00.481 i 16
+F "Hat (8).wav" 51772 0 1453668175 0
+D s 44100 n 2 l 0:00.293 i 16
+F "Hat (9).wav" 20384 0 1453668175 0
+D s 44100 n 2 l 0:00.115 i 16
+F "hat 01.wav" 113444 0 1494606868 0
+D s 44100 n 2 l 0:00.643 i 16
+F "hat 02.wav" 113444 0 1494606952 0
+D s 44100 n 2 l 0:00.643 i 16
+F "hat 03.wav" 113444 0 1494606988 0
+D s 44100 n 2 l 0:00.643 i 16
+F "hat 06.wav" 113444 0 1494607248 0
+D s 44100 n 2 l 0:00.643 i 16
+F "hat 07.wav" 113444 0 1494607280 0
+D s 44100 n 2 l 0:00.643 i 16
+F "hat 2.wav" 7490 0 1438613998 0
+D s 44100 n 1 l 0:00.068 i 16
+F "HAT 4 LOOSE.wav" 131620 0 1397154184 0
+D y 2010-07-15 s 44100 n 2 r 5:49.313
+D l 0:00.740 i 16
+F "HAT 5 ROOM.wav" 138316 0 1397154184 0
+D y 2010-07-15 s 44100 n 2 r 5:46.831
+D l 0:00.777 i 16
+F "hat 5.wav" 77284 0 1381223588 0
+D y 2013-10-08 s 44100 n 2 r 6:30.820
+D l 0:00.288 i 24
+F "HAT CLOSED 2.wav" 101584 0 1397154188 0
+D y 2013-01-24 s 44100 n 2 r 2:59.369
+D l 0:00.380 i 24
+F "hat stinky.wav" 60802 0 1372116970 0
+D t "hat stinky" s 44100 n 1 l 0:00.689
+D i 16
+F "hat tommy.wav" 8458 0 1372116970 0
+D t "hat tommy" s 44100 n 1 l 0:00.095
+D i 16
+F Hat_04.wav 328534 0 1482938472 0
+D s 44100 n 2 l 0:01.862 i 16
+F Hat_2.wav 137588 0 1391400434 0
+D s 44100 n 2 l 0:00.779 i 16
+F HAT_3.wav 1014548 0 1399730982 0
+D y 2014 s 96000 n 2 l 0:01.761
+D i 24
+F Hat_80sFunk.wav 118040 0 1475141398 0
+D a www.primeloops.com g Electronic/Dance c www.primeloops.com s 44100
+D n 2 l 0:00.424 i 24
+F Hat_9.wav 793946 0 1413373034 0
+D s 44100 n 2 l 0:03.000 i 24
+F Hat_Alpha.wav 304194 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:01.115 i 24
+F Hat_Bell.wav 125648 0 1475141398 0
+D a www.primeloops.com g Electronic/Dance c www.primeloops.com s 44100
+D n 2 l 0:00.452 i 24
+F Hat_Brutal.wav 160560 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:00.581 i 24
+F Hat_Call.wav 172080 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:00.624 i 24
+F "hat_closed (1).WAV" 109380 0 1526315994 0
+D s 44100 n 2 l 0:00.309 i 32
+F "hat_closed (11).wav" 36790 0 1344277800 0
+D t www.annodominination.com a AD2 b "Anno Domini Drum Collection 2" c www.annodominination.com
+D s 48000 n 2 l 0:00.120 i 24
+F "hat_closed (12).WAV" 117780 0 1526152833 0
+D s 44100 n 2 l 0:00.333 i 32
+F "hat_closed (13).WAV" 56788 0 1281969832 0
+D s 44100 n 2 l 0:00.322 i 16
+F "hat_closed (22).WAV" 64944 0 1281970070 0
+D s 44100 n 2 l 0:00.368 i 16
+F "hat_closed (27).wav" 82870 0 1344277806 0
+D t www.annodominination.com a AD2 b "Anno Domini Drum Collection 2" c www.annodominination.com
+D s 48000 n 2 l 0:00.280 i 24
+F "hat_closed (28).WAV" 50536 0 1281970226 0
+D s 44100 n 2 l 0:00.286 i 16
+F "hat_closed (37).wav" 105910 0 1344277810 0
+D t www.annodominination.com a AD2 b "Anno Domini Drum Collection 2" c www.annodominination.com
+D s 48000 n 2 l 0:00.360 i 24
+F "hat_closed (38).WAV" 60140 0 1281970558 0
+D s 44100 n 2 l 0:00.341 i 16
+F "hat_closed (39).WAV" 25280 0 1526315758 0
+D c "Modified by FL Studio 12" s 44100 n 2 l 0:00.142
+D i 16
+F "hat_closed (4).WAV" 59500 0 1527516263 0
+D s 44100 n 2 l 0:00.336 i 16
+F "hat_closed (40).WAV" 56424 0 1281972934 0
+D s 44100 n 2 l 0:00.320 i 16
+F "hat_closed (42).wav" 198070 0 1344277812 0
+D t www.annodominination.com a AD2 b "Anno Domini Drum Collection 2" c www.annodominination.com
+D s 48000 n 2 l 0:00.680 i 24
+F "hat_closed (44).wav" 82870 0 1344277814 0
+D t www.annodominination.com a AD2 b "Anno Domini Drum Collection 2" c www.annodominination.com
+D s 48000 n 2 l 0:00.280 i 24
+F "hat_closed (46).wav" 82870 0 1344277814 0
+D t www.annodominination.com a AD2 b "Anno Domini Drum Collection 2" c www.annodominination.com
+D s 48000 n 2 l 0:00.280 i 24
+F "hat_closed (5).WAV" 29540 0 1526315725 0
+D c "Modified by FL Studio 12" s 44100 n 2 l 0:00.166
+D i 16
+F "hat_closed (6).WAV" 45428 0 1281973142 0
+D s 44100 n 2 l 0:00.257 i 16
+F "hat_closed (7).WAV" 50384 0 1281973172 0
+D s 44100 n 2 l 0:00.285 i 16
+F Hat_Creamy.wav 74204 0 1475141398 0
+D a www.primeloops.com g Electronic/Dance c www.primeloops.com s 44100
+D n 2 l 0:00.261 i 24
+F Hat_Crisp.wav 169338 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:00.613 i 24
+F Hat_Cymb.wav 369744 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:01.359 i 24
+F Hat_DebacleKit.wav 67046 0 1475141398 0
+D a www.primeloops.com g Electronic/Dance c www.primeloops.com s 44100
+D n 2 l 0:00.234 i 24
+F Hat_DrumMachine.wav 51848 0 1475141398 0
+D a www.primeloops.com g Electronic/Dance c www.primeloops.com s 44100
+D n 2 l 0:00.177 i 24
+F Hat_Eco.wav 222024 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:00.810 i 24
+F Hat_Fare.wav 191034 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:00.694 i 24
+F Hat_Metal.wav 147858 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:00.534 i 24
+F Hat_Open_07.wav 154498 0 1482938580 0
+D s 44100 n 2 l 0:00.875 i 16
+F Hat_Peel.wav 368010 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:01.353 i 24
+F Hat_Sail.wav 227580 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:00.830 i 24
+F Hat_Skool.wav 312120 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:01.145 i 24
+F Hat_Soft.wav 344340 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:01.265 i 24
+F Hat_SP.wav 73904 0 1475141398 0
+D a www.primeloops.com g Electronic/Dance c www.primeloops.com s 44100
+D n 2 l 0:00.260 i 24
+F Hat_Yum.wav 344106 0 1475141398 0
+D t www.primeloops.com a www.primeloops.com g Electronic/Dance c www.primeloops.com
+D s 44100 n 2 l 0:01.264 i 24
+F HATpdfl.wav 43476 0 1110032948 0
+D y 2005-03-05 s 44100 n 2 r 0:18.678
+D l 0:00.240 i 16
+F "Havoc HiHat 14.wav" 25826 0 1399731634 0
+D y 2010-10-08 d Hat s 44100 n 1
+D r 0:06.011 l 0:00.177 i 24
+F "Havoc HiHat 20.wav" 29358 0 1399731634 0
+D s 44100 n 1 l 0:00.318 i 16
+F "Havoc HiHat 21.wav" 28342 0 1399731634 0
+D s 44100 n 2 l 0:00.153 i 16
+F "Havoc HiHat 4.wav" 102514 0 1399731634 0
+D y 2010-10-10 d Hat s 44100 n 1
+D r 0:07.580 l 0:00.757 i 24
+F "Havoc HiHat 5.wav" 26676 0 1399731634 0
+D y 2010-10-10 d Hat s 44100 n 1
+D r 0:13.175 l 0:00.183 i 24
+F "Hh (18).wav" 45104 0 1529223273 0
+D s 44100 n 2 l 0:00.127 i 32
+F "HH - Maio (Footy Foot).wav" 116340 0 1390827948 0
+D y 2014-01-27 s 44100 n 1 r 0:05.670
+D l 0:00.834 i 24
+F Hh14.wav 18094 0 1533502446 0
+D s 44100 n 1 l 0:00.204 i 16
+F Hh5.wav 29810 0 1533502430 0
+D s 44100 n 1 l 0:00.337 i 16
+F HH_EYE.wav 57268 0 1311583286 0
+D y 2011-07-25 s 44100 n 1 r 0:01.293
+D l 0:00.633 i 16
+F HH_FEA.wav 32880 0 1369913474 0
+D y 2013-05-30 s 44100 n 1 r 0:00.413
+D l 0:00.356 i 16
+F HH_Mr_X.wav 26652 0 1308211784 0
+D b WADRA2 y 2011-03-2 s 44100 n 1
+D l 0:00.174 i 24
+F HH_MYGOAL.wav 28500 0 1311583382 0
+D y 2011-07-25 s 44100 n 1 r 0:01.536
+D l 0:00.307 i 16
+F HH_THEKING.wav 14134 0 1311583032 0
+D y 2011-07-25 s 44100 n 1 r 0:01.542
+D l 0:00.144 i 16
+F HHCL.WAV 31078 0 924544800 0
+D t "HHCL            " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.350 i 16
+F HHEHT47.WAV 29444 0 1278622750 0
+D s 44100 n 2 l 0:00.167 i 16
+F HHM_HEV.WAV 39898 0 924544800 0
+D t "HHM_HEV         " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.450 i 16
+F "Hi Hat (1).wav" 246992 0 1505575530 0
+D t "Hi Hat" a BurghRecords b "Boom Bap Pack" y 2017
+D c www.edinburghrecords.com s 96000 n 2 l 0:00.428
+D i 24
+F "Hi Hat (13).wav" 285800 0 1505575530 0
+D t "Hi Hat" a BurghRecords b "Boom Bap Pack" y 2017
+D c www.edinburghrecords.com s 96000 n 2 l 0:00.496
+D i 24
+F "Hi Hat (2).wav" 246992 0 1505575530 0
+D t "Hi Hat" a BurghRecords b "Boom Bap Pack" y 2017
+D c www.edinburghrecords.com s 96000 n 2 l 0:00.428
+D i 24
+F "Hi Hat (3).wav" 246992 0 1505575530 0
+D t "Hi Hat" a BurghRecords b "Boom Bap Pack" y 2017
+D c www.edinburghrecords.com s 96000 n 2 l 0:00.428
+D i 24
+F "Hi Hat (4).wav" 246992 0 1505575530 0
+D t "Hi Hat" a BurghRecords b "Boom Bap Pack" y 2017
+D c www.edinburghrecords.com s 96000 n 2 l 0:00.428
+D i 24
+F "Hi Hat (5).wav" 246992 0 1505575530 0
+D t "Hi Hat" a BurghRecords b "Boom Bap Pack" y 2017
+D c www.edinburghrecords.com s 96000 n 2 l 0:00.428
+D i 24
+F "Hi Hat (7).wav" 285800 0 1505575530 0
+D t "Hi Hat" a BurghRecords b "Boom Bap Pack" y 2017
+D c www.edinburghrecords.com s 96000 n 2 l 0:00.496
+D i 24
+F "HI HAT 1.wav" 50852 0 1414081126 0
+D s 44100 n 2 l 0:00.288 i 16
+F "Hi Hat 2 - 7.wav" 707480 0 1413965928 0
+D s 44100 n 2 l 0:04.010 i 16
+F "Hi Hat 2 iamm.wav" 707480 0 1413965928 0
+D s 44100 n 2 l 0:04.010 i 16
+F "Hi Hat 2.wav" 707480 0 1413965926 0
+D s 44100 n 2 l 0:04.010 i 16
+F "Hi Hat 4 iamm.wav" 707480 0 1413965928 0
+D s 44100 n 2 l 0:04.010 i 16
+F "Hi Hat 5 iamm.wav" 707480 0 1413965928 0
+D s 44100 n 2 l 0:04.010 i 16
+F "HI HAT CUFF.wav" 131192 0 1453668171 0
+D s 44100 n 2 l 0:00.743 i 16
+F "HI HAT III.wav" 78428 0 1453668171 0
+D s 44100 n 2 l 0:00.444 i 16
+F "HI HAT RAW.wav" 120544 0 1453668170 0
+D s 44100 n 2 l 0:00.683 i 16
+F "Hi-Hat cut.wav" 101188 0 1476727633 0
+D s 44100 n 2 l 0:00.286 i 32
+F "Hi-Hat HAVOC.wav" 22764 0 1476729166 0
+D c "Modified by FL Studio 12" s 44100 n 2 l 0:00.128
+D i 16
+F "Hi-Hat Punch.wav" 30080 0 1528920842 0
+D s 44100 n 2 l 0:00.170 i 16
+F "Hi-Hat sampled 2.wav" 125532 0 1476727194 0
+D s 44100 n 2 l 0:00.355 i 32
+F "Hi-Hat threat.wav" 55596 0 1476728278 0
+D s 44100 n 2 l 0:00.157 i 32
+F "HiHat (Dry).wav" 24436 0 1434510602 0
+D s 44100 n 2 l 0:00.069 i 32
+F "HiHat (K.Dot).wav" 52888 0 1435094652 0
+D c "Modified by FL Studio 12" s 44100 n 2 l 0:00.299
+D i 16
+F "HiHat Closed 006 Tight End.wav" 60670 0 1339676336 0
+D s 44100 n 2 l 0:00.171 i 32
+F HiHat15.wav 19788 0 1109080726 0
+D s 44100 n 2 l 0:00.112 i 16
+F HIHAT_BACK_IN_BIZNESS.wav 29688 0 1453668167 0
+D s 44100 n 2 l 0:00.168 i 16
+F HIHAT_BOUT_TIME.wav 21344 0 1453668166 0
+D s 44100 n 2 l 0:00.120 i 16
+F HIHAT_BROKEN.wav 48824 0 1341578484 0
+D y 2012-07-06 s 44100 n 2 r 0:01.521
+D l 0:00.270 i 16
+F HIHAT_CHARLES.wav 219204 0 1453668166 0
+D s 44100 n 2 l 0:01.242 i 16
+F hihat_croup_040.wav 64716 0 1116965520 0
+D s 44100 n 2 l 0:00.367 i 16
+F hihat_croup_043b.wav 136228 0 1116965460 0
+D s 44100 n 2 l 0:00.772 i 16
+F hihat_croup_051b.wav 144772 0 1116963960 0
+D s 44100 n 2 l 0:00.820 i 16
+F hihat_croup_070b.wav 57416 0 1141277340 0
+D s 44100 n 2 l 0:00.325 i 16
+F HIHAT_DANCE_WIT_ME.wav 50852 0 1453668166 0
+D s 44100 n 2 l 0:00.288 i 16
+F HIHAT_DEAD_ASS.wav 18568 0 1453668166 0
+D s 44100 n 2 l 0:00.105 i 16
+F HIHAT_FPROG.wav 264464 0 1453668165 0
+D s 44100 n 2 l 0:01.499 i 16
+F HIHAT_GRITS.wav 165588 0 1453668165 0
+D s 44100 n 2 l 0:00.938 i 16
+F HIHAT_GRITS_N_BACON.wav 29120 0 1453668165 0
+D s 44100 n 2 l 0:00.164 i 16
+F HIHAT_GROWTH.wav 125364 0 1341582026 0
+D y 2012-07-06 s 44100 n 2 r 0:01.833
+D l 0:00.704 i 16
+F HIHAT_INSANITY.wav 224528 0 1453668165 0
+D s 44100 n 2 l 0:01.272 i 16
+F HIHAT_NOCHO.wav 216336 0 1453668164 0
+D s 44100 n 2 l 0:01.226 i 16
+F HIHAT_RESTCL.wav 114804 0 1341584424 0
+D y 2012-07-06 s 44100 n 2 r 0:06.631
+D l 0:00.644 i 16
+F hihat_sabian_14_pro_04_002.wav 78092 0 981326716 0
+D s 44100 n 1 l 0:00.885 i 16
+F hihat_sabian_14_pro_04_004.wav 35420 0 981326724 0
+D s 44100 n 1 l 0:00.401 i 16
+F HihatLoop5FL(09)+.wav 18572 0 1391800394 0
+D s 44100 n 1 l 0:00.164 i 16
+F HIP_Hat.wav 4822 0 1436950928 0
+F HIP_Hat_2.wav 5050 0 1436950928 0
+F HIP_Hat_3.wav 4836 0 1436950928 0
+F HIP_Hat_4.wav 3898 0 1436950928 0
+F HIP_Hat_5.wav 5236 0 1436950928 0
+F HIP_Hat_6.wav 4828 0 1436950928 0
+F HIP_Hat_7.wav 5756 0 1436950928 0
+F I_hhc.WAV 185984 0 1181558518 0
+D s 44100 n 2 l 0:01.054 i 16
+F JayDeeHat29.wav 29148 0 1199815960 0
+D s 48000 n 2 l 0:00.151 i 16
+F JayDeeHiHat18.wav 30798 0 1533502428 0
+D s 48000 n 2 l 0:00.153 i 16
+F JayDeeHiHat2.wav 46710 0 1533502408 0
+D s 48000 n 2 l 0:00.236 i 16
+F jfdds_hat.wav 29168 0 1453668159 0
+D s 44100 n 2 l 0:00.165 i 16
+F JGB_HiHat_Closed01.wav 352844 0 1353449362 0
+D s 44100 n 2 l 0:02.000 i 16
+F JGB_HiHat_Closed03.wav 352844 0 1353449362 0
+D s 44100 n 2 l 0:02.000 i 16
+F JGB_HiHat_Closed09.wav 26920 0 1473293963 0
+D y 2005-03-16 s 44100 n 1 l 0:00.298
+D i 16
+F JGB_HiHat_Closed22.wav 27032 0 1473293968 0
+D y 2005-03-26 s 44100 n 1 l 0:00.300
+D i 16
+F "kanye hats_24-04.wav" 16546 0 1133807442 0
+D s 44100 n 1 l 0:00.141 i 16
+F KS-fhh11.wav 83360 0 1404655716 0
+D s 44100 n 2 l 0:00.472 i 16
+F KS-fhh23.wav 53736 0 1404655716 0
+D s 44100 n 2 l 0:00.304 i 16
+F KS-fhh3.wav 23424 0 1404655716 0
+D s 44100 n 2 l 0:00.133 i 16
+F KS-fhh30.wav 53708 0 1404655716 0
+D s 44100 n 2 l 0:00.304 i 16
+F "KWEST Hat.wav" 71736 0 1537550995 0
+D t "05 Completion (Kicks)" c "Modified by FL Studio 10" s 44100 n 2
+D l 0:00.405 i 16
+F "Live Hat 1.wav" 73962 0 1447048012 0
+D p 143.445733 s 44100 n 2 l 0:00.418
+D i 16
+F Live_closed_hat.wav 44316 0 1453668133 0
+D s 44100 n 2 l 0:00.251 i 16
+F Lm_H1.wav 50852 0 1533502406 0
+D s 44100 n 2 l 0:00.288 i 16
+F "LoFi HiHat.wav" 96014 0 1528918318 0
+D c "Recorded on 6/1/2017 in Edison." s 44100 n 2 l 0:00.543
+D i 16
+F MA_HAT.wav 19392 0 1453668130 0
+D s 44100 n 2 l 0:00.109 i 16
+F "Medicated Hat 8.wav" 114040 0 1453668122 0
+D s 44100 n 2 l 0:00.646 i 16
+F "Medicated Hat 9.wav" 39472 0 1453668122 0
+D s 44100 n 2 l 0:00.223 i 16
+F METAJ_HAT.wav 30856 0 1453668111 0
+D s 44100 n 2 l 0:00.174 i 16
+F "Metal Scully 1.wav" 17882 0 1459489418 0
+D s 44100 n 2 l 0:00.093 i 16
+F mono_hat2.wav 49046 0 1370454074 0
+D s 44100 n 1 l 0:00.556 i 16
+F "moreHi Hat (102).wav" 58036 0 1533502392 0
+D s 44100 n 2 l 0:00.329 i 16
+F "moreHi Hat (105).wav" 14094 0 1533502450 0
+D s 44100 n 1 l 0:00.159 i 16
+F "moreHi Hat (112).wav" 17116 0 1533502446 0
+D s 44100 n 1 l 0:00.194 i 16
+F "moreHi Hat (119).wav" 53556 0 1533502402 0
+D s 44100 n 1 l 0:00.607 i 16
+F "moreHi Hat (135).wav" 55788 0 1533502394 0
+D s 44100 n 2 l 0:00.316 i 16
+F "moreHi Hat (142).wav" 51972 0 1533502404 0
+D s 44100 n 2 l 0:00.294 i 16
+F "moreHi Hat (182).wav" 123900 0 1533502376 0
+D s 44100 n 2 l 0:00.702 i 16
+F "moreHi Hat (191).wav" 194976 0 1533502366 0
+D s 44100 n 2 l 0:01.105 i 16
+F "moreHi Hat (192).wav" 42748 0 1533502412 0
+D s 44100 n 2 l 0:00.242 i 16
+F "Muggs Hat02.wav" 24944 0 1533502434 0
+D y 2007-01-23 s 44100 n 1 l 0:00.267
+D i 16
+F "Muggs Hat03.wav" 15504 0 1533502446 0
+D y 2007-01-23 s 44100 n 1 l 0:00.160
+D i 16
+F "Muggs Hat04.wav" 13744 0 1533502446 0
+D y 2007-01-23 s 44100 n 1 l 0:00.140
+D i 16
+F "Muggs Hat07.wav" 23198 0 1533502440 0
+D y 2007-01-24 s 44100 n 1 l 0:00.247
+D i 16
+F "Muggs Hat08.wav" 22288 0 1533502438 0
+D y 2007-01-24 s 44100 n 1 l 0:00.237
+D i 16
+F "necro underground hat.wav" 19916 0 1536949886 0
+D s 44100 n 1 l 0:00.224 i 16
+F "NIL HiHat.wav" 72252 0 1536611374 0
+D s 44100 n 2 l 0:00.204 i 32
+F Ns_H.wav 115116 0 1533502380 0
+D s 44100 n 2 l 0:00.652 i 16
+F "NYSOM2 Hat.wav" 40068 0 1535304440 0
+D s 44100 n 2 l 0:00.226 i 16
+F Ok_H.wav 56432 0 1533502392 0
+D s 44100 n 2 l 0:00.320 i 16
+F "Oochie Wally hat.wav" 110340 0 1537374588 0
+D s 44100 n 2 l 0:00.312 i 32
+F "Open Hi Hat.wav" 707480 0 1413965924 0
+D s 44100 n 2 l 0:04.010 i 16
+F OWE-HAT.wav 30342 0 1402402928 0
+D s 44100 n 1 l 0:00.229 i 24
+F "Paul hat.wav" 47758 0 1436825852 0
+D s 44100 n 2 l 0:00.180 i 24
+F pcp_hihat09.wav 136584 0 1453668107 0
+D s 44100 n 2 l 0:00.774 i 16
+F "Percs & Hits (11).wav" 7196 0 1160823700 0
+D t untitled y 0000-01-01 s 44100 n 2
+D l 0:00.040 i 16
+F "Percs & Hits (12).wav" 7196 0 1160823700 0
+D t untitled y 0000-01-01 s 44100 n 2
+D l 0:00.040 i 16
+F "Percs & Hits (13).wav" 38978 0 1216979886 0
+D t untitled s 44100 n 2 l 0:00.220
+D i 16
+F "Percs & Hits (14).wav" 7196 0 1160823700 0
+D t untitled y 0000-01-01 s 44100 n 2
+D l 0:00.040 i 16
+F "Percs & Hits (15).wav" 17108 0 1108981854 0
+D s 44100 n 1 l 0:00.193 i 16
+F "Percs & Hits (4).wav" 7412 0 1216983318 0
+D s 44100 n 1 l 0:00.056 i 24
+F "Percs & Hits (7).wav" 11668 0 1216165538 0
+D y 2008-07-11 s 44100 n 1 r 1:03:27.857
+D l 0:00.119 i 16
+F "PeteRockHiHat4 1.wav" 29930 0 1533502430 0
+D s 44100 n 2 l 0:00.162 i 16
+F PhatBap!_Hat-02.wav 83244 0 1447986928 0
+D s 44100 n 2 l 0:00.236 i 32
+F "Premier HH (14).WAV" 9748 0 1092913756 0
+D t "CYMKIT21        " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.108 i 16
+F "Premier HH (18).WAV" 12634 0 1092913756 0
+D t "CYMKIT30        " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.141 i 16
+F "Premier HH (6).WAV" 48926 0 1529609626 0
+D s 44100 n 2 l 0:00.138 i 32
+F "Premier HH.wav" 11274 0 1529609649 0
+D s 44100 n 1 l 0:00.062 i 32
+F "Premier Perc (24).WAV" 19808 0 1092901798 0
+D t "CAXIXI__        " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.222 i 16
+F "Premier Perc (41).WAV" 20026 0 1092913768 0
+D t "N1P5            " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.225 i 16
+F "Premier Sound (12).WAV" 176608 0 1092913790 0
+D t "sound034        " b "AKAI MPC2000XL" s 44100 n 2
+D l 0:01.000 i 16
+F "PSY hat01.wav" 88244 0 1488982516 0
+D s 44100 n 2 l 0:00.500 i 16
+F "PSY hat04.wav" 88244 0 1488982606 0
+D s 44100 n 2 l 0:00.500 i 16
+F "PSY hat08.wav" 86060 0 1488982694 0
+D s 44100 n 2 l 0:00.488 i 16
+F "PSY open hat02.wav" 86060 0 1488982950 0
+D s 44100 n 2 l 0:00.488 i 16
+F "Ride iamm.wav" 707480 0 1413965924 0
+D s 44100 n 2 l 0:04.010 i 16
+F Rte_H.wav 44326 0 1533502410 0
+D s 44100 n 1 l 0:00.502 i 16
+F RU_HAT.wav 34036 0 1453668084 0
+D s 44100 n 2 l 0:00.192 i 16
+F RUE_HAT.wav 39848 0 1453668084 0
+D s 44100 n 2 l 0:00.225 i 16
+F "RX7 HH CL.wav" 46278 0 1533502408 0
+D t "RX7 HH CL" s 44100 n 2 l 0:00.261
+D i 16
+F "sharks hihat.wav" 49512 0 1453668074 0
+D s 44100 n 2 l 0:00.280 i 16
+F "shook ones pt 2 hihat.wav" 30620 0 1531850992 0
+D s 44100 n 2 l 0:00.086 i 32
+F Sik_H.wav 19238 0 1118787374 0
+D s 44100 n 1 l 0:00.218 i 16
+F "Slide Hat.wav" 47636 0 1472409204 0
+D s 44100 n 2 l 0:00.270 i 16
+F SP1200-C-Hat-04.wav 171990 0 1404491212 0
+D s 44100 n 2 l 0:00.644 i 24
+F SP1200-C-Hat-12.wav 227838 0 1405949300 0
+D s 44100 n 2 l 0:00.855 i 24
+F Stac_Hihat_1.wav 140332 0 981313604 0
+D s 44100 n 2 l 0:00.795 i 16
+F SYN_HH.WAV 22336 0 924544800 0
+D t "SYN_HH          " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.251 i 16
+F T_HH_CL_2B.WAV 28090 0 924544800 0
+D t "T_HH_CL_2B      " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.316 i 16
+F "Tamb Hammer.wav" 38576 0 1459489418 0
+D s 44100 n 2 l 0:00.210 i 16
+F "TC Live HiHat 01.wav" 148712 0 1406046252 0
+D s 48000 n 2 l 0:00.774 i 16
+F "TC Live HiHat 03.wav" 118092 0 1406046258 0
+D s 48000 n 2 l 0:00.615 i 16
+F "TC2 Live Hihat12.wav" 110840 0 1280563268 0
+D s 48000 n 2 l 0:00.577 i 16
+F "TC2 Live Hihat8.wav" 116720 0 1280563348 0
+D s 48000 n 2 l 0:00.608 i 16
+F teu_hat.wav 31504 0 1453668045 0
+D s 44100 n 2 l 0:00.178 i 16
+F "TYEU Hat 1.wav" 63140 0 1537302992 0
+D s 44100 n 2 l 0:00.357 i 16
+F "TYEU Hat 2.wav" 48148 0 1537302961 0
+D s 44100 n 2 l 0:00.136 i 32
+F Ur_hat.wav 52468 0 1453668042 0
+D s 44100 n 2 l 0:00.297 i 16
+F "victory double hat.wav" 28306 0 1537215775 0
+D s 44100 n 1 l 0:00.319 i 16
+F Vrb_H1.wav 62040 0 1185955340 0
+D s 44100 n 2 l 0:00.351 i 16
+F Vrb_H2.wav 58036 0 1185955312 0
+D s 44100 n 2 l 0:00.329 i 16
+F "WAY HAT.wav" 161448 0 1394179704 0
+D y 2014-01-09 s 44100 n 2 r 1:00:02.929
+D l 0:00.601 i 24
+F "weeg_hats_ (4).wav" 777280 0 1389057924 0
+D s 44100 n 2 l 0:04.406 i 16
+F "West Coast Hat.wav" 33104 0 1390872872 0
+D s 44100 n 1 l 0:00.375 i 16
+F Wsh_H1.wav 14094 0 1533502450 0
+D s 44100 n 1 l 0:00.159 i 16
+F "Wu-RZA-Hat 15.WAV" 11424 0 1495840142 0
+D s 44100 n 1 l 0:00.128 i 16
+F "Wu-RZA-Hat 16.WAV" 14290 0 1495840142 0
+D s 44100 n 1 l 0:00.161 i 16
+F "Wu-RZA-Hat 17.WAV" 29004 0 1495840142 0
+D s 44100 n 1 l 0:00.328 i 16
+F "Wu-RZA-Hat 24.wav" 21160 0 1495840142 0
+D s 44100 n 1 l 0:00.239 i 16
+F "Wu_1p (123).wav" 14314 0 1495840145 0
+D s 44100 n 1 l 0:00.162 i 16
+F "Wu_1p (140).wav" 13562 0 1495840146 0
+D s 44100 n 1 l 0:00.153 i 16
+F "Wu_1p (166).wav" 11586 0 1495840147 0
+D s 44100 n 1 l 0:00.131 i 16
+F "Wu_1p (172).wav" 26580 0 1495840147 0
+D s 44100 n 1 l 0:00.301 i 16
+F "Wu_1p (173).wav" 13670 0 1495840147 0
+D s 44100 n 1 l 0:00.154 i 16
+F "Wu_1p (175).wav" 27672 0 1495840147 0
+D s 44100 n 1 l 0:00.313 i 16
+F "Wu_1p (210).wav" 12402 0 1495840148 0
+D s 44100 n 1 l 0:00.140 i 16
+F "Wu_1p (225).wav" 6622 0 1495840149 0
+D s 44100 n 1 l 0:00.075 i 16
+F "Wu_1p (241).wav" 6658 0 1495840150 0
+D s 44100 n 1 l 0:00.075 i 16
+F "Wu_1p (248).wav" 16044 0 1495840150 0
+D s 44100 n 1 l 0:00.181 i 16
+F "Wu_1p (286).wav" 11214 0 1495840152 0
+D s 44100 n 1 l 0:00.127 i 16
+F "Wu_1p (34).wav" 18754 0 1495840153 0
+D s 44100 n 1 l 0:00.212 i 16
+F "Wu_1p (40).wav" 16884 0 1495840153 0
+D s 44100 n 1 l 0:00.191 i 16
+F "Wu_1p (44).wav" 10050 0 1495840153 0
+D s 44100 n 1 l 0:00.113 i 16
+F "Wu_1p (63).wav" 7270 0 1533502452 0
+D s 44100 n 1 l 0:00.082 i 16
+F "Wu_1p (64).wav" 18852 0 1495840154 0
+D s 44100 n 1 l 0:00.213 i 16
+F "Wu_1p (81).wav" 29924 0 1495840154 0
+D s 44100 n 1 l 0:00.339 i 16
+F WU_HH_005.wav 8764 0 1495840155 0
+D s 44100 n 1 l 0:00.099 i 16
+F WU_HH_034.wav 18258 0 1495840156 0
+D s 44100 n 1 l 0:00.207 i 16
+F WU_HH_062.wav 9664 0 1495840156 0
+D s 44100 n 1 l 0:00.109 i 16
+F WU_HH_068.wav 17840 0 1495840156 0
+D s 44100 n 1 l 0:00.202 i 16
+F WU_HH_084.wav 10906 0 1495840157 0
+D s 44100 n 1 l 0:00.123 i 16
+F WU_HH_118.wav 6658 0 1495840157 0
+D s 44100 n 1 l 0:00.075 i 16
+F WU_HH_122.wav 16044 0 1495840157 0
+D s 44100 n 1 l 0:00.181 i 16
+F WU_HH_155.wav 16884 0 1495840158 0
+D s 44100 n 1 l 0:00.191 i 16
+F WU_HH_170.wav 18852 0 1495840158 0
+D s 44100 n 1 l 0:00.213 i 16
+F YOU-HAT.wav 24924 0 1402402954 0
+D s 44100 n 1 l 0:00.188 i 24
+F yuo_chh.wav 50992 0 1453668227 0
+D s 44100 n 2 l 0:00.288 i 16

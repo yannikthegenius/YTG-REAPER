@@ -1,0 +1,9 @@
+C10018 "/home/yannik/Desktop/HOFA Campus/Level 3/3. Mixing III/Übungen/Uebung Delay/Übung Delay/Synth+Delay"
+F "Synth + Delay 1.wav" 2381480 0 1636095660 0
+D s 44100 n 2 l 0:09.000 i 24
+F "Synth + Delay 2.wav" 1587680 0 1636095660 1
+D s 44100 n 2 l 0:06.000 i 24
+F "Synth + Delay 3.wav" 1587680 0 1636095660 0
+D s 44100 n 2 l 0:06.000 i 24
+F Synth.wav 1587680 0 1636095660 0
+D s 44100 n 2 l 0:06.000 i 24

@@ -1,0 +1,21 @@
+C10018 "/home/yannik/Desktop/Rote Rosen/Media"
+F "#1_14-12-21_18. Rote Rosen.mp3" 6968425 0 1638611844 0
+D s 44100 n 2 l 2:54.159 i 320k
+F "Rosen_BEAT 134 BPM.wav" 50424724 0 1690741624 0
+D t "rosen 04-11-21_3 (BEAT)" s 48000 n 2 l 2:55.083
+D i 24
+F "Rosen_BG VOX LR 1.wav" 50424734 0 1690741624 0
+D t "rosen 04-11-21_3 (BG VOX LR 1)" s 48000 n 2 l 2:55.083
+D i 24
+F "Rosen_BG VOX LR 2.wav" 50424734 0 1690741624 0
+D t "rosen 04-11-21_3 (BG VOX LR 2)" s 48000 n 2 l 2:55.083
+D i 24
+F Rosen_BG VOX.wav 50424728 0 1690741624 0
+D t "rosen 04-11-21_3 (BG VOX)" s 48000 n 2 l 2:55.083
+D i 24
+F Rosen_HOOK.wav 50424724 0 1690741624 0
+D t "rosen 04-11-21_3 (HOOK)" s 48000 n 2 l 2:55.083
+D i 24
+F Rosen_VERSES.wav 50424726 0 1690741624 0
+D t "rosen 04-11-21_3 (VERSES)" s 48000 n 2 l 2:55.083
+D i 24

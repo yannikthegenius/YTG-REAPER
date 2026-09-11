@@ -1,0 +1,99 @@
+C10018 "/mnt/Data/OUT$IDERZ/RESOURCES/BEAT RESOURCES/Drums/Boom Bap Essentials/Percussion"
+F 17.wav 549034 0 1482942398 0
+D s 44100 n 2 l 0:03.111 i 16
+F 33.wav 95434 0 1482947518 0
+D s 44100 n 2 l 0:00.540 i 16
+F 808-Maracas1.wav 3988 0 1004904540 0
+D s 44100 n 1 l 0:00.044 i 16
+F 808-Stick1.wav 1948 0 1004904638 0
+D s 44100 n 1 l 0:00.020 i 16
+F 808-Stick2.wav 1018 0 1004904638 0
+D s 44100 n 1 l 0:00.010 i 16
+F 808-Tom2.wav 31250 0 1020622168 0
+D s 44100 n 1 l 0:00.353 i 16
+F "[ACD] - Lex&SouthsideTrap Rim.wav" 25352 0 1452953572 0
+D c "Modified by FL Studio 10" s 44100 n 2 l 0:00.141
+D i 16
+F "[ACD] - YoungChop Triangle.wav" 137148 0 1452953585 0
+D c "Modified by FL Studio 10" s 44100 n 2 l 0:00.775
+D i 16
+F "AfrDrm (1).wav" 39034 0 1494530713 0
+D t AfrDrm a BurghRecords b "Drums R Us Vol 4" y 2017
+D c www.edinburghrecords.com s 44100 n 1 l 0:00.275
+D i 24
+F "AfrDrm (2).wav" 49304 0 1529223582 0
+D t AfrDrm c www.edinburghrecords.com s 44100 n 1
+D l 0:00.278 i 32
+F "AfrDrm (3).wav" 48500 0 1529223601 0
+D t AfrDrm c www.edinburghrecords.com s 44100 n 1
+D l 0:00.273 i 32
+F "AfrDrm (4).wav" 38962 0 1494530714 0
+D t AfrDrm a BurghRecords b "Drums R Us Vol 4" y 2017
+D c www.edinburghrecords.com s 44100 n 1 l 0:00.275
+D i 24
+F "araabMUZIK! PERC (6).wav" 42360 0 1147272228 0
+D s 44100 n 2 l 0:00.239 i 16
+F "araabMUZIK! PERC (7).wav" 121112 0 1147272220 0
+D s 44100 n 2 l 0:00.686 i 16
+F BattleCatCleanRim.wav 24186 0 1533502438 0
+D s 48000 n 2 l 0:00.118 i 16
+F BattleCatCleanRim2.wav 18728 0 1533502442 0
+D s 48000 n 2 l 0:00.090 i 16
+F BattleCatPercHit.wav 209082 0 1533502364 0
+D s 48000 n 2 l 0:01.081 i 16
+F BattleCatRim.wav 209058 0 1533502364 0
+D s 48000 n 2 l 0:01.081 i 16
+F "Bell Gram.wav" 1412560 0 1459489416 0
+D s 44100 n 2 l 0:07.999 i 16
+F "BIG PERC (32).wav" 32062 0 1452953607 0
+D t untitled y 0000-01-01 s 44100 n 2
+D l 0:00.180 i 16
+F "BIG PERC (37).wav" 271488 0 1452953608 0
+D s 44100 n 2 l 0:01.537 i 16
+F Blip_01.wav 47818 0 1533502408 0
+D s 44100 n 2 l 0:00.180 i 24
+F Blip_02.wav 58402 0 1533502390 0
+D s 44100 n 2 l 0:00.220 i 24
+F "Block (1).wav" 26862 0 1494530714 0
+D t Block a BurghRecords b "Drums R Us Vol 4" y 2017
+D c www.edinburghrecords.com s 44100 n 1 l 0:00.186
+D i 24
+F "Block (2).wav" 27792 0 1494530714 0
+D t Block a BurghRecords b "Drums R Us Vol 4" y 2017
+D c www.edinburghrecords.com s 44100 n 1 l 0:00.193
+D i 24
+F "Blox 6feet 1.WAV" 133894 0 1459489416 0
+D s 44100 n 1 l 0:01.500 i 16
+F "Blox 6feet 2.WAV" 84060 0 1459489416 0
+D s 44100 n 1 l 0:00.934 i 16
+F "Chime Revolver.WAV" 226998 0 1459489416 0
+D s 44100 n 1 l 0:02.555 i 16
+F "Chimes Buck50 1.WAV" 86048 0 1459489416 0
+D s 44100 n 1 l 0:00.957 i 16
+F "Chimes Buck50 2.WAV" 162368 0 1459489416 0
+D s 44100 n 1 l 0:01.822 i 16
+F "Chimes Buck50 3.WAV" 62440 0 1459489416 0
+D s 44100 n 1 l 0:00.689 i 16
+F "Cong (1).wav" 26616 0 1494530714 0
+D t Cong a BurghRecords b "Drums R Us Vol 4" y 2017
+D c www.edinburghrecords.com s 44100 n 1 l 0:00.184
+D i 24
+F "Cong (17).wav" 67558 0 1529223663 0
+D t Cong c www.edinburghrecords.com s 44100 n 1
+D l 0:00.381 i 32
+F "Conga 48hrs 1.wav" 25432 0 1459489416 0
+D s 44100 n 2 l 0:00.135 i 16
+F dbcr10.wav 385036 0 1335477600 0
+D s 44100 n 2 l 0:02.182 i 16
+F dbcr15.wav 603876 0 1335477600 0
+D s 44100 n 2 l 0:03.423 i 16
+F dbcr2.wav 264376 0 1335477600 0
+D s 44100 n 2 l 0:01.498 i 16
+F dbr2.wav 19624 0 1335477600 0
+D s 44100 n 2 l 0:00.110 i 16
+F dbr3.wav 13144 0 1335477600 0
+D s 44100 n 2 l 0:00.074 i 16
+F dbr5.wav 17092 0 1335477600 0
+D s 44100 n 2 l 0:00.096 i 16
+F dbsh1.wav 28172 0 1335477600 0
+D s 44100 n 2 l 0:00.159 i 16

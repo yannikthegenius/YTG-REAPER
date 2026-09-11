@@ -1,0 +1,12 @@
+C10018 "/home/yannik/Desktop/MASTER_Wär ich morgen Reich/Media"
+F "#10_Wär ich morgen reich_25-08-25_universal-plus-1,1.wav" 30218720 0 1756121829 0
+D s 44100 n 2 l 2:51.307 i 16
+F "#9_Wär ich morgen reich_25-08-25.wav" 49337368 0 1756121774 0
+D y 2025-08-25 p 130.000000 s 48000 n 2
+D r 0:14.769 l 2:51.307 i 24
+F "reaper_stems_#9_Wär ich morgen reich_25-08-011.wav" 66550896 0 1756122453 0
+D y 2025-08-25 s 48000 n 2 l 2:53.307
+D i 32
+F "reaper_stems_#9_Wär ich morgen reich_25-08-25.wav" 66166896 0 1756122106 0
+D y 2025-08-25 s 48000 n 2 l 2:52.307
+D i 32

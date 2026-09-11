@@ -1,0 +1,37 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/Nirvana - Drain You (Rock Band)"
+F "Bass 1 (A2).wav" 160844 0 1715014064 0
+D s 44100 n 1 l 0:00.909 i 32
+F "Bass 2 (G2).wav" 172348 0 1715014084 0
+D s 44100 n 1 l 0:00.975 i 32
+F "Bass 3 (F#2).wav" 654380 0 1715014108 0
+D s 44100 n 1 l 0:03.707 i 32
+F "Cymbal Roll.wav" 1427432 0 1715014270 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:04.045
+D i 32
+F Cymbal.wav 677832 0 1715014262 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:01.921
+D i 32
+F "Kick Roll.wav" 210040 0 1715013990 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:01.189
+D i 32
+F Kick+Cymbal.wav 1405308 0 1715014018 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:07.965
+D i 32
+F Kick.wav 39464 0 1715013974 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.222
+D i 32
+F "Snare 1.wav" 1291656 0 1715013908 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:03.660
+D i 32
+F "Snare 2.wav" 238504 0 1715013946 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.675
+D i 32
+F "Snare 3.wav" 159704 0 1715013964 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.452
+D i 32
+F "Snare 4.wav" 80480 0 1715014032 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.455
+D i 32
+F "Snare Roll.wav" 2695664 0 1715014042 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:07.640
+D i 32
