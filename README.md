@@ -98,6 +98,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 ## 🚀 Installation
 
 ### I. Replace Config Files
+0. Backup your REAPER config folder.
 1. git clone https://github.com/yannikthegenius/YTG-REAPER.git
 2. Open REAPER.
 3. Options > "Show REAPER resource path in explorer/finder..."
