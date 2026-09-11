@@ -45,8 +45,6 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 <img width="734" height="199" alt="Screenshot_2026-09-09_20-47-27" src="https://github.com/user-attachments/assets/de127f8c-d1b2-43b8-be91-8514bab42b5f" />
 
  - REAPER startet mit [Project Launcher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte durchsuchen, direkt wieder öffnen und weiterarbeiten.
-<img width="1459" height="774" alt="Screenshot_2026-09-11_19-25-13" src="https://github.com/user-attachments/assets/e01079cc-2e66-4ad6-98fc-936581dd1f3e" />
-
 
 - [STEMwerk AI Stem Seperation](https://github.com/flarkflarkflark/STEMwerk-reaper) (local) [MIT].
 
@@ -76,7 +74,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Pre-Installed [SWS](https://sws-extension.org/).
 - Navigate project timeline with middle click, like in video editors or graphic design software. Or scroll in TCP area for vertical movement and outside of TCP area for horizontal movement (zoom in).
 - Pre-Defined automatic track coloring and automatic track icons (Example: Naming a track 'REC' automatically inserts a microphone icon and arming a track for recording automatically colors the track red. No need to configure anything manually).
-<!-- - [Smooth Playhead (Play Cursor)](https://forum.cockos.com/showthread.php?t=310863). -->
+  <!-- - [Smooth Playhead (Play Cursor)](https://forum.cockos.com/showthread.php?t=310863). -->
 - [Signify time selection loop](https://github.com/Reapertips/ReaScripts/) with yellow color.
 <img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/dca615e8-0fd3-46f9-ad3d-b0d90f899941" />
 
@@ -130,7 +128,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
   - Danke an [ArthurMcArthur](https://forum.cockos.com/member.php?u=109337) für [McSequencer](https://forum.cockos.com/showthread.php?t=286577).
   - Danke an [Reapertips](https://www.reapertips.com) für [Time Selection Colors](https://github.com/Reapertips/ReaScripts/).
   - Danke an [Reapertips](https://www.reapertips.com) für [Project Launcher](https://github.com/Reapertips/ReaScripts/).
-  <!-- - Danke an [DSG](https://dsgdnb.com/) für [Smooth Playhead](https://forum.cockos.com/showthread.php?t=310863). -->
+    <!-- - Danke an [DSG](https://dsgdnb.com/) für [Smooth Playhead](https://forum.cockos.com/showthread.php?t=310863). -->
   - Danke an [FlarkAUDIO](https://github.com/flarkflarkflark) für [STEMwerk](https://github.com/flarkflarkflark/STEMwerk-reaper).
   - Danke an [OLSHALOM](https://forum.cockos.com/member.php?u=134313) für [CHROMA Coloring Tool](https://forum.cockos.com/showthread.php?t=281516).
   - Danke an [BirdBird](https://forum.cockos.com/member.php?u=130362) für [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514).
