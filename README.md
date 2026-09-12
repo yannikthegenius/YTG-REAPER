@@ -112,7 +112,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 9. Options > Themes > Pick any of the available "Reapertips" Themes.
 10. Extensions > ReaPack > "Synchronize Packages".
 11. Restart REAPER. Errors are gone.
-12. Missing icons? Right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
+12. Missing icons? Check [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) by [Reapertips](https://www.reapertips.com). Or right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
 
 ---
 
