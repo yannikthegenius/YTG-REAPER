@@ -109,10 +109,9 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 7. Open REAPER.
 8. Close all "Missing Files" errors.
 9. Options > Themes > Pick any of the available "Reapertips" Themes.
-10. Switch to Toolbar 2 (top right ➡️ icon).
-11. Now, in toolbar 2, click on second toolbar icon: "ReaPack: Synchronize packages".
-12. Restart REAPER. Errors are gone.
-13. Missing icons? Right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
+10. Extensions > ReaPack > "Synchronize Packages".
+11. Restart REAPER. Errors are gone.
+12. Missing icons? Right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
 
 ---
 
