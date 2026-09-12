@@ -134,7 +134,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
   - Danke an [Justin Frankel](https://www.cockos.com/) für die [REAPER DAW](https://www.reaper.fm).
   - Excluded files in this repo:
     - [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) von [Reapertips](https://www.reapertips.com/); diese sollten erworben werden.
-    - [ReaPack Packages](https://reapack.com/repos), da Lizenz nicht für alle Scripts validiert werden konnte. Alle Scripts können jedoch mit einem Klick auf Toolbar-Icon direkt gedownloaded werden ("Synchronize packages").
+    - [ReaPack Packages](https://reapack.com/repos), da Lizenz nicht für alle Scripts validiert werden konnte. Alle Scripts können jedoch mit einem Klick direkt gedownloaded werden ("Synchronize packages").
     - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html) von [WhiteTie](https://www.houseofwhitetie.com), da prop. 🙄
 
 
