@@ -45,6 +45,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 <img width="734" height="199" alt="Screenshot_2026-09-09_20-47-27" src="https://github.com/user-attachments/assets/de127f8c-d1b2-43b8-be91-8514bab42b5f" />
 
 - REAPER startet mit [Project Launcher](https://github.com/Reapertips/ReaScripts/): Man kann seine vorherigen Projekte durchsuchen, direkt wieder öffnen und weiterarbeiten.
+
 - [STEMwerk AI Stem Seperation](https://github.com/flarkflarkflark/STEMwerk-reaper) (local) [MIT].
 
 - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden - als neue WAV File, die unabhängig bearbeitet oder processed werden kann.
@@ -60,9 +61,9 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Improved Main Toolbar.
 <img width="716" height="106" alt="Screenshot_2026-09-11_18-33-14" src="https://github.com/user-attachments/assets/44d8002b-0e06-45ad-bfd0-c450a30ccd3a" />
 
-
 - Setup project auto saves.
 - Extended keyboard shortcuts.
+
 - Extended right click menu entries.
 <img width="689" height="342" alt="Screenshot_2026-09-09_20-52-36" src="https://github.com/user-attachments/assets/5d8a7b96-7380-48bf-aa4c-16eeefee5094" />
 <img width="709" height="343" alt="image" src="https://github.com/user-attachments/assets/553d5f86-8a70-4525-a467-9a6d6d64b72b" />
