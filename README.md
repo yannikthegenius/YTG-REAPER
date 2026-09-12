@@ -41,16 +41,16 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Show FX Sends + Inserts by default; ähnlich wie Pro Tools.
 <img width="555" height="174" alt="Screenshot_2026-07-28_16-26-02" src="https://github.com/user-attachments/assets/14243189-2e6a-4559-bb88-114fdafca0a9" />
 
-  - New track is now blue instead of grey to achieve a more coherent and vibrant look.
+- New track is now blue instead of grey to achieve a more coherent and vibrant look.
 <img width="734" height="199" alt="Screenshot_2026-09-09_20-47-27" src="https://github.com/user-attachments/assets/de127f8c-d1b2-43b8-be91-8514bab42b5f" />
 
- - REAPER startet mit [Project Launcher](https://forum.cockos.com/showthread.php?t=208697): Man kann seine vorherigen Projekte durchsuchen, direkt wieder öffnen und weiterarbeiten.
- - [STEMwerk AI Stem Seperation](https://github.com/flarkflarkflark/STEMwerk-reaper) (local) [MIT].
+- REAPER startet mit [Project Launcher](https://github.com/Reapertips/ReaScripts/): Man kann seine vorherigen Projekte durchsuchen, direkt wieder öffnen und weiterarbeiten.
+- [STEMwerk AI Stem Seperation](https://github.com/flarkflarkflark/STEMwerk-reaper) (local) [MIT].
 
- - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden - als neue WAV File, die unabhängig bearbeitet oder processed werden kann.
+- [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden - als neue WAV File, die unabhängig bearbeitet oder processed werden kann.
 <img width="1920" height="437" alt="image" src="https://github.com/user-attachments/assets/f43fab6e-46af-4fda-b4d4-ca95ab08e842" />
 
- - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
+- [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
 <img width="785" height="298" alt="image" src="https://github.com/user-attachments/assets/11e4b2ae-9177-43a7-99ad-a1b74c6b5649" />
 
 - Zwei sinnvolle Toolbars mit nützlichen Funktionen: Sinnvoll angeordnet, sodass es die Usability von REAPER verbessert und die Funktionalität erweitert. Alle Icons haben einen Hover Text mit Erläuterung der Funktion. 
