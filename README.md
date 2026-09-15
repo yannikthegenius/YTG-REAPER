@@ -112,7 +112,8 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 9. Options > Themes > Pick any of the available "Reapertips" Themes.
 10. Extensions > ReaPack > "Synchronize Packages".
 11. Restart REAPER. Errors are gone.
-12. Missing icons? Check [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) by [Reapertips](https://www.reapertips.com). Or right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
+12. Press CTRL+P to open REAPER Preferences > General > Paths > Define your paths.
+13. Missing icons? Check [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) by [Reapertips](https://www.reapertips.com). Or right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
 
 ---
 
@@ -142,10 +143,10 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 ---
 
 #### ℹ️ Information
+- Due to toolbar icons not being vector files, this config is intended to be used for 24" Monitors at 100% Display Scaling.
 - I am aware that there are absolute paths. I don't know how it would be possible to adapt this into user specific relative paths.
 - The intention behind this repo is to give a proof of concept of what is possible in the REAPER DAW.
-- In my opinion, giving users a better out of the box experience, like a focus on more visual toolbar buttons or implementing the most popular .lua scripts as native features, would increase the user experience by a lot.
-- As well as finally giving the ReaPlugs a visual overhaul and implementing some rudimentary stock sounds or libraries. If Cockos would do that, REAPER could finally advance.
+- In my opinion, giving users a better out of the box experience, like a focus on more visual toolbar buttons or implementing the most popular .lua scripts as native features, would increase the user experience by a lot. As well as finally giving the ReaPlugs a visual overhaul and implementing some rudimentary stock sounds or libraries. If Cockos would do that, REAPER could finally advance.
 
 
 
