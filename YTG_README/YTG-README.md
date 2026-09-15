@@ -146,7 +146,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Due to toolbar icons not being vector files, this config is intended to be used for 24" monitors at 100% display scaling.
 - I am aware that there are absolute paths. I don't know how it would be possible to automatically adapt this into user specific relative paths.
 - The intention behind this repo is to give a proof of concept of what is possible in the REAPER DAW.
-- In my opinion, giving users a better out of the box experience, like a focus on more visual toolbar buttons or implementing the most popular .lua scripts as native features, would increase the user experience by a lot. As well as finally giving the ReaPlugs a visual overhaul and implementing some rudimentary stock sounds or libraries. If Cockos would do that, REAPER could finally advance.
+- In my opinion, giving users a better out of the box experience, like a focus on more visual toolbar buttons or implementing the most popular .lua scripts as native features, would increase the user experience by a lot. As well as finally giving the ReaPlugs a visual overhaul and including some rudimentary stock sounds or libraries. If Cockos would do that, REAPER could finally advance.
 
 
 
