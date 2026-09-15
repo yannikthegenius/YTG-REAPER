@@ -81,7 +81,8 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 <img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/a7f071d0-0c4b-42e7-b292-3f43b8ace571" />
 
 - Signify active recording with red ruler color.
-<img width="1752" height="297" alt="Screenshot_2026-09-09_00-50-54" src="https://github.com/user-attachments/assets/43c63995-4070-47d9-82df-f9e9f0b3ffa9" />
+<img width="1783" height="282" alt="Screenshot_2026-09-15_15-23-56" src="https://github.com/user-attachments/assets/dcf478f2-d23b-4f1f-9308-b23c802baa7b" />
+
 
 - Improved MIDI Editor (Piano Roll) workflow with extended toolbar icons and key bindings.
 - Implemented startup sound and render sound effect.
