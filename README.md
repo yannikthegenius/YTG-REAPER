@@ -3,7 +3,7 @@
 > [!NOTE]
 Meine Configs für [REAPER](https://reaper.fm) based on [Reapertips Theme](https://forum.cockos.com/showthread.php?t=281644).
 
-<img width="1913" height="917" alt="Screenshot_2026-09-09_21-25-32" src="https://github.com/user-attachments/assets/4397da8a-0bbe-4de8-9e7b-721d3625ad29" />
+<img width="1915" height="930" alt="Screenshot_2026-09-15_15-16-42" src="https://github.com/user-attachments/assets/88ff81a5-b123-4caf-87e4-997bbffe144c" />
 
 
 ---
