@@ -54,9 +54,9 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
 <img width="785" height="298" alt="image" src="https://github.com/user-attachments/assets/11e4b2ae-9177-43a7-99ad-a1b74c6b5649" />
 
-- Zwei sinnvolle Toolbars mit nützlichen Funktionen: Sinnvoll angeordnet, sodass es die Usability von REAPER verbessert und die Funktionalität erweitert. Alle Icons haben einen Hover Text mit Erläuterung der Funktion. 
-<img width="1687" height="36" alt="Screenshot_2026-09-09_20-39-17" src="https://github.com/user-attachments/assets/1ab88c76-0daa-40ab-9c31-4ffccd33f750" />
-<img width="1687" height="36" alt="Screenshot_2026-09-09_20-40-08" src="https://github.com/user-attachments/assets/2daccb1e-162d-452d-abca-a027b15efac8" />
+- Mehrere innvolle Toolbars mit nützlichen Funktionen: Sinnvoll angeordnet, sodass es die Usability von REAPER verbessert und die Funktionalität erweitert. Alle Icons haben einen Hover Text mit Erläuterung der Funktion. 
+<img width="1920" height="86" alt="Kooha-2026-10-09-20-45-22" src="https://github.com/user-attachments/assets/3b5c23a9-ec66-42d4-a4d9-7372c6ae021c" />
+
 
 - Improved Main Toolbar.
 <img width="722" height="111" alt="Screenshot_2026-10-09_20-13-39" src="https://github.com/user-attachments/assets/651f0236-2235-4d9b-b178-c706deb39e79" />
