@@ -74,14 +74,9 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Navigate project timeline with middle click, like in video editors or graphic design software. Or scroll in TCP area for vertical movement and outside of TCP area for horizontal movement (zoom in).
 - Pre-Defined automatic track coloring and automatic track icons (Example: Naming a track 'REC' automatically inserts a microphone icon and arming a track for recording automatically colors the track red. No need to configure anything manually).
   <!-- - [Smooth Playhead (Play Cursor)](https://forum.cockos.com/showthread.php?t=310863). -->
-- [Signify time selection loop](https://github.com/Reapertips/ReaScripts/) with yellow color.
-<img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/dca615e8-0fd3-46f9-ad3d-b0d90f899941" />
-
-- [Signify time selection recording](https://github.com/Reapertips/ReaScripts/) with red color.
-<img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/a7f071d0-0c4b-42e7-b292-3f43b8ace571" />
-
-- Signify active recording with red ruler color.
-<img width="1783" height="282" alt="Screenshot_2026-09-15_15-23-56" src="https://github.com/user-attachments/assets/dcf478f2-d23b-4f1f-9308-b23c802baa7b" />
+- [Signify time selection loop](https://github.com/Reapertips/ReaScripts/) with yellow color, [time selection recording](https://github.com/Reapertips/ReaScripts/) with red color and
+<img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/a7f071d0-0c4b-42e7-b292-3f43b8ace571" /> active recording with red ruler color.
+<img width="1824" height="811" alt="Screenshot_2026-10-09_21-39-14" src="https://github.com/user-attachments/assets/0fd187df-7c63-4408-af96-aeb9d09634f3" />
 
 
 - Improved MIDI Editor (Piano Roll) workflow with extended toolbar icons and key bindings.
