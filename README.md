@@ -24,7 +24,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 <img width="1150" height="722" alt="Screenshot_2026-09-11_19-30-31" src="https://github.com/user-attachments/assets/09662a6f-dbd4-401d-8982-dfd122d5cbad" />
 
 
- - Press B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
+ - Press CTRL+SHIFT+B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
 <img width="1812" height="816" alt="Screenshot_2026-09-11_19-33-12" src="https://github.com/user-attachments/assets/58220bc0-5697-4210-b331-4bdb886bc521" />
 
 
@@ -115,6 +115,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 11. Restart REAPER. Errors are gone.
 12. Press CTRL+P to open REAPER Preferences > General > Paths > Define your paths.
 13. Missing icons? Check [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) by [Reapertips](https://www.reapertips.com). Or right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
+14. Missing plug-ins? Modify the project templates or install the FOSS plug-ins.
 
 ---
 
