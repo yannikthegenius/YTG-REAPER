@@ -59,7 +59,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 <img width="1687" height="36" alt="Screenshot_2026-09-09_20-40-08" src="https://github.com/user-attachments/assets/2daccb1e-162d-452d-abca-a027b15efac8" />
 
 - Improved Main Toolbar.
-<img width="716" height="106" alt="Screenshot_2026-09-11_18-33-14" src="https://github.com/user-attachments/assets/44d8002b-0e06-45ad-bfd0-c450a30ccd3a" />
+<img width="722" height="111" alt="Screenshot_2026-10-09_20-13-39" src="https://github.com/user-attachments/assets/651f0236-2235-4d9b-b178-c706deb39e79" />
 
 - Setup project auto saves.
 - Extended keyboard shortcuts.
