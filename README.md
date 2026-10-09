@@ -17,11 +17,7 @@ Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifi
 Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
   - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516).
-<img width="1116" height="607" alt="Screenshot_2026-09-11_19-29-38" src="https://github.com/user-attachments/assets/93b67132-dc3a-47ce-93fb-4f68592a9099" />
-
-
   - Press I for [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
-<img width="1150" height="722" alt="Screenshot_2026-09-11_19-30-31" src="https://github.com/user-attachments/assets/09662a6f-dbd4-401d-8982-dfd122d5cbad" />
 
 
  - Press CTRL+SHIFT+B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
