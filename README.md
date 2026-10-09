@@ -46,7 +46,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
 - REAPER startet mit [Project Launcher](https://github.com/Reapertips/ReaScripts/): Man kann seine vorherigen Projekte durchsuchen, direkt wieder öffnen und weiterarbeiten.
 
-- [STEMwerk AI Stem Seperation](https://github.com/flarkflarkflark/STEMwerk-reaper) (local) [MIT].
+- [STEMwerk AI Stem Seperation](https://github.com/flarkflarkflark/STEMwerk-reaper) (local AI).
 
 - [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden - als neue WAV File, die unabhängig bearbeitet oder processed werden kann.
 <img width="1920" height="437" alt="image" src="https://github.com/user-attachments/assets/f43fab6e-46af-4fda-b4d4-ca95ab08e842" />
