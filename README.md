@@ -18,6 +18,8 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
   - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516).
   - Press I for [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
+https://github.com/user-attachments/assets/5c5e5399-a306-448e-88c5-24e9a61252e4
+
 
 
  - Press CTRL+SHIFT+B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
