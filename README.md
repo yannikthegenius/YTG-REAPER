@@ -85,7 +85,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 
 
 - Improved MIDI Editor (Piano Roll) workflow with extended toolbar icons and key bindings.
-<img width="906" height="382" alt="Screenshot_2026-10-09_21-21-19" src="https://github.com/user-attachments/assets/d83b67d1-7fca-40f7-9e51-9343e92132e1" />
+<img width="906" height="382" alt="image" src="https://github.com/user-attachments/assets/a16d769c-c292-4220-b256-ed1a664b8de6" />
 
 
 - Implemented startup sound and render sound effect.
