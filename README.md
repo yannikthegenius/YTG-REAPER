@@ -74,9 +74,8 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - Navigate project timeline with middle click, like in video editors or graphic design software. Or scroll in TCP area for vertical movement and outside of TCP area for horizontal movement (zoom in).
 - Pre-Defined automatic track coloring and automatic track icons (Example: Naming a track 'REC' automatically inserts a microphone icon and arming a track for recording automatically colors the track red. No need to configure anything manually).
   <!-- - [Smooth Playhead (Play Cursor)](https://forum.cockos.com/showthread.php?t=310863). -->
-- [Signify time selection loop](https://github.com/Reapertips/ReaScripts/) with yellow color, [time selection recording](https://github.com/Reapertips/ReaScripts/) with red color and
-<img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/a7f071d0-0c4b-42e7-b292-3f43b8ace571" /> active recording with red ruler color.
-<img width="1824" height="811" alt="Screenshot_2026-10-09_21-39-14" src="https://github.com/user-attachments/assets/0fd187df-7c63-4408-af96-aeb9d09634f3" />
+- [Signify time selection loop](https://github.com/Reapertips/ReaScripts/) with yellow color, [time selection recording](https://github.com/Reapertips/ReaScripts/) with red color and active recording with red ruler color.
+<img width="1824" height="811" alt="Screenshot_2026-10-09_21-39-14" src="https://github.com/user-attachments/assets/bd1f059f-695a-48b6-80a0-481693192d4d" />
 
 
 - Improved MIDI Editor (Piano Roll) workflow with extended toolbar icons and key bindings.
