@@ -54,7 +54,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
 - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
 <img width="785" height="298" alt="image" src="https://github.com/user-attachments/assets/11e4b2ae-9177-43a7-99ad-a1b74c6b5649" />
 
-- Mehrere innvolle Toolbars mit nützlichen Funktionen: Sinnvoll angeordnet, sodass es die Usability von REAPER verbessert und die Funktionalität erweitert. Alle Icons haben einen Hover Text mit Erläuterung der Funktion. 
+- Mehrere sinnvolle Toolbars mit nützlichen Funktionen: Sinnvoll angeordnet, sodass es die Usability von REAPER verbessert und die Funktionalität erweitert. Alle Icons haben einen Hover Text mit Erläuterung der Funktion. 
 <img width="1920" height="86" alt="Kooha-2026-10-09-20-45-22" src="https://github.com/user-attachments/assets/3b5c23a9-ec66-42d4-a4d9-7372c6ae021c" />
 
 
