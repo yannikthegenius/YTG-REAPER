@@ -122,7 +122,7 @@ Viele nützliche REAPER-Scripts für eine bessere User Experience:
   - Danke an [FTC](https://forum.cockos.com/member.php?u=131628) für [MX Tuner](https://forum.cockos.com/showthread.php?t=259698).
   - Danke an die Developer von [SWS](https://sws-extension.org/).
   - Danke an die Developer vom [ReaPack Package Manager](https://reapack.com/).
-  - Danke an [White Tie](https://www.houseofwhitetie.com) für [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html).
+  - Danke an [White Tie](https://www.houseofwhitetie.com) für [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html). Mach den Script FOSS, du Stinker.
   - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
   - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Project Time Counter](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua).
   - Danke an [ArthurMcArthur](https://forum.cockos.com/member.php?u=109337) für [McSequencer](https://forum.cockos.com/showthread.php?t=286577).
