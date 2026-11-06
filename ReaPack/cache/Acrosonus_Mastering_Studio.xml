@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0" name="Acrosonus_Mastering_Studio">
+
+  <!-- Catégorie Utility -->
+  <category name="Utility">
+    <reapack name="VoxAlign.lua" type="script" desc="VoxAlign = Vocalign">
+      <version name="1.0" author="Acrosonus Mastering Studio" time="2025-06-08T00:00:00Z">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/VOXALIGN/refs/heads/main/Script/VOXALIGN_V1.lua</source>
+        <changelog><![CDATA[Version initiale.]]></changelog>
+      </version>
+      <version name="2.0" author="Acrosonus Mastering Studio" time="2026-10-03T00:00:00Z">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/VOXALIGN/refs/heads/main/Script/VoxAlign_V2.lua</source>
+        <changelog><![CDATA[Major Update VoxAlign 2.]]></changelog>
+      </version>
+    <version name="2.1" author="Acrosonus Mastering Studio" time="2026-10-03T00:00:00Z">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/VOXALIGN/refs/heads/main/Script/VOXALIGN_V2.1.lua</source>
+        <changelog><![CDATA[Major Update VoxAlign 2.]]></changelog>
+      </version>
+    </reapack>
+
+    <reapack name="VocalVolumeMacro.lua" type="script" desc="VocalVolumeMacro = Melodyne volume macro">
+      <version name="1.5" author="Acrosonus Mastering Studio" time="2025-06-08T00:00:00Z">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/VocalVolumeMacro/refs/heads/main/Script/VocalVolumeMacro_V1.5.lua</source>
+      </version>
+    </reapack>
+  </category>
+
+  <!-- Catégorie MIDI -->
+  <category name="MIDI">
+    <reapack name="MIDISTRUCTVARIATIONS.lua" type="script" desc="MIDISTRUCTVARIATIONS = creat 12 midi variations from 1 MIDI">
+      <version name="2.0" author="Acrosonus Mastering Studio" time="2025-06-08T00:00:00Z">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/MIDISTRUCTVARIATIONS/refs/heads/main/Script/midistruct_Variations_v2.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="MIDISTRUCT.lua" type="script" desc="MIDISTRUCT = Algo composer MIDI">
+      <version name="2.4" author="Acrosonus Mastering Studio" time="2025-06-08T00:00:00Z">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/MIDISTRUCT/refs/heads/main/Script/MIDISTRUCT_v2_4.lua</source>
+      </version>
+    </reapack>
+  </category>
+
+</index>

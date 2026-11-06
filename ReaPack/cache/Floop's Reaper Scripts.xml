@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Floop's Reaper Scripts" commit="8e5f0a3baf4286c5f91007498b41ee7b245f6bac">
+  <category name="effects/floop-chrominator">
+    <reapack name="floop-chrominator.jsfx" type="effect" desc="Floop Chrominator (Stereo Analog Saturator)">
+      <version name="1.1.0" author="Floop-s" time="2026-01-12T13:21:00Z">
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/f6a71f83b4aecc9cb2c5defb80c67c85dcff896c/effects/floop-chrominator/floop-chrominator.jsfx</source>
+      </version>
+      <version name="2.0.0" author="Floop-s" time="2026-05-17T12:24:20Z">
+        <changelog><![CDATA[+ DSP Rewrite: Zero-Delay Feedback (ZDF) filters and math-accurate saturation models
++ Anti-Aliasing: High-performance 12th-order Polyphase IIR Oversampling (2x/4x)
++ Analog Drift (TMT): Added subtle L/R variance for organic stereo imaging
++ GUI Overhaul: Modern dark theme, colored value arcs, and cleaner layout
++ Performance: Optimized CPU usage with Fast-Math block evaluation
+# Fix: Mix default is now 100%
+# Fix: Perfect Unity Gain at 0 Drive (no volume drops)]]></changelog>
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/cf42ea727ee883fda043e06c35976ce0f8a6a134/effects/floop-chrominator/floop-chrominator.jsfx</source>
+      </version>
+      <version name="2.1.0" author="Floop-s" time="2026-07-29T05:50:15Z">
+        <changelog><![CDATA[+ Restored V1 saturation tone with new wavefolding protection
++ Fixed DC thump/pop when engaging Punish
++ Improved Auto-Gain response under heavy clipping
+- Removed obsolete HQ button]]></changelog>
+        <source>https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/effects/floop-chrominator/floop-chrominator.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="effects/floop-master-control">
+    <reapack name="floop-master-control.jsfx" type="effect" desc="Floop Master Control">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Integrated master monitoring and analysis tool for REAPER.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Includes:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab True Peak metering with target limits\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab LUFS integrated and short-term metering\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Spectrum analysis\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Phase correlation view\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Useful for metering and monitoring during mastering. Keywords: LUFS, spectrum, phase, true peak, monitoring.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="floop-s" time="2026-01-12T06:47:17Z">
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/f0453fa17b73b4a3025b7ceb5ec4e976b1ff43bb/effects/floop-master-control/floop-master-control.jsfx</source>
+      </version>
+      <version name="1.1.0" author="Floop-s" time="2026-02-01T11:25:30Z">
+        <changelog><![CDATA[Optimized MPC Layout, Smart Scaling, UI Cleanup]]></changelog>
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/f67a8728ff9c95e0d4832b158a268a6ff6915c51/effects/floop-master-control/floop-master-control.jsfx</source>
+      </version>
+      <version name="1.2.0" author="Floop-s" time="2026-03-01T17:15:54Z">
+        <changelog><![CDATA[Fix: 'Solo Side' now correctly mutes Mid (L=Side, R=-Side).
+New: Continuous Spectrum Smoothing slider (Right-Click for 1/3, 1/12, 1/24 presets).
+Tweak: Increased 'Slow' spectrum averaging time to ~5000ms.]]></changelog>
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/0a5a426824b366aaf3f3a3fbf344410628e71a81/effects/floop-master-control/floop-master-control.jsfx</source>
+      </version>
+      <version name="1.3.0" author="Floop-s" time="2026-05-17T12:24:20Z">
+        <changelog><![CDATA[Performance: Removed redundant LUFS arrays and implemented True Peak ring buffer for lower CPU usage.
+DSP: Corrected Goniometer L/R orientation and improved Phase correlation math for noise immunity.
+UX: Extended LUFS meter down to -72 LUFS and stabilized low-frequency Phase readings.
+GFX: Re-engineered Goniometer rendering for true lossless visualization of every transient.]]></changelog>
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/cf42ea727ee883fda043e06c35976ce0f8a6a134/effects/floop-master-control/floop-master-control.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="effects/floop-master-control-mod">
+    <reapack name="floop-master-control-mod.jsfx" type="effect" desc="Floop Master Control (Modular)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Modular master monitoring and analysis tool for REAPER.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Slot-based workflow (up to 9 slots per instance).\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Includes:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab True Peak and LUFS metering (Short-Term and Integrated)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Spectrum analyzer (Mid/Side, temporal averaging, smoothing, hold/freeze)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Phase correlation (bar) and multi-band phase\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Stereo goniometer\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Oscilloscope\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Spectrogram\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Monitor control (Dim, Solo Mid/Side, Low/Mid/High focus)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab VU meter\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Keywords: LUFS, true peak, spectrum, spectrogram, phase, stereo, monitor, mastering.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="Floop-s" time="2026-05-17T13:29:32Z">
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/4083130d57c0f9f18c3c1348a7e57642e8fd9b2e/effects/floop-master-control-mod/floop-master-control-mod.jsfx</source>
+        <source file="modules/mod_correlometer.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/4083130d57c0f9f18c3c1348a7e57642e8fd9b2e/effects/floop-master-control-mod/modules/mod_correlometer.jsfx-inc</source>
+        <source file="modules/mod_meter.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/4083130d57c0f9f18c3c1348a7e57642e8fd9b2e/effects/floop-master-control-mod/modules/mod_meter.jsfx-inc</source>
+        <source file="modules/mod_monitor.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/4083130d57c0f9f18c3c1348a7e57642e8fd9b2e/effects/floop-master-control-mod/modules/mod_monitor.jsfx-inc</source>
+        <source file="modules/mod_oscilloscope.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/4083130d57c0f9f18c3c1348a7e57642e8fd9b2e/effects/floop-master-control-mod/modules/mod_oscilloscope.jsfx-inc</source>
+        <source file="modules/mod_phase.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/4083130d57c0f9f18c3c1348a7e57642e8fd9b2e/effects/floop-master-control-mod/modules/mod_phase.jsfx-inc</source>
+        <source file="modules/mod_spectrogram.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/4083130d57c0f9f18c3c1348a7e57642e8fd9b2e/effects/floop-master-control-mod/modules/mod_spectrogram.jsfx-inc</source>
+        <source file="modules/mod_spectrum.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/4083130d57c0f9f18c3c1348a7e57642e8fd9b2e/effects/floop-master-control-mod/modules/mod_spectrum.jsfx-inc</source>
+        <source file="modules/mod_stereo.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/4083130d57c0f9f18c3c1348a7e57642e8fd9b2e/effects/floop-master-control-mod/modules/mod_stereo.jsfx-inc</source>
+        <source file="modules/mod_vumeter.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/4083130d57c0f9f18c3c1348a7e57642e8fd9b2e/effects/floop-master-control-mod/modules/mod_vumeter.jsfx-inc</source>
+      </version>
+      <version name="1.1.0" author="Floop-s" time="2026-07-02T04:49:42Z">
+        <changelog><![CDATA[+ Monitor: Support arbitrary multi-band selections (e.g., Low+High) via additive LR4 routing.
++ Fix: Add 1-pole lowpass smoothing to monitor gain to prevent audio clicks when toggling DIM.]]></changelog>
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/effects/floop-master-control-mod/floop-master-control-mod.jsfx</source>
+        <source file="modules/mod_correlometer.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/effects/floop-master-control-mod/modules/mod_correlometer.jsfx-inc</source>
+        <source file="modules/mod_meter.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/effects/floop-master-control-mod/modules/mod_meter.jsfx-inc</source>
+        <source file="modules/mod_monitor.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/effects/floop-master-control-mod/modules/mod_monitor.jsfx-inc</source>
+        <source file="modules/mod_oscilloscope.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/effects/floop-master-control-mod/modules/mod_oscilloscope.jsfx-inc</source>
+        <source file="modules/mod_phase.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/effects/floop-master-control-mod/modules/mod_phase.jsfx-inc</source>
+        <source file="modules/mod_spectrogram.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/effects/floop-master-control-mod/modules/mod_spectrogram.jsfx-inc</source>
+        <source file="modules/mod_spectrum.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/effects/floop-master-control-mod/modules/mod_spectrum.jsfx-inc</source>
+        <source file="modules/mod_stereo.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/effects/floop-master-control-mod/modules/mod_stereo.jsfx-inc</source>
+        <source file="modules/mod_vumeter.jsfx-inc">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/effects/floop-master-control-mod/modules/mod_vumeter.jsfx-inc</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="effects/floop-multiband-transient-shaper">
+    <reapack name="floop-multiband-transient-shaper.jsfx" type="effect" desc="Floop Multiband Transient Shaper">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 3-Band Transient Shaper with Transparent Crossovers and up to 8x Oversampling. Features per-band Attack/Sustain, LUFS Auto-Gain, Lookahead Limiter, and Delta Monitoring.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="Floop-s" time="2026-02-15T17:18:44Z">
+        <changelog><![CDATA[- Initial Release v1.0.0]]></changelog>
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/6d24fe5693b76b464825519c0199eba48585c8da/effects/floop-multiband-transient-shaper/floop-multiband-transient-shaper.jsfx</source>
+      </version>
+      <version name="1.1.0" author="Floop-s" time="2026-07-29T05:50:15Z">
+        <changelog><![CDATA[- Changed Attack/Sustain knob mapping to cubic for finer resolution
+- Fixed phase cancellation notch in LR2 Crossover via Allpass compensation
+- Improved Oversampling transition bands to preserve high-end response
+- Corrected K-Weighting HP filter to ITU-R BS.1770 standard (38Hz)
+- Fixed Wet/Dry mix gain staging and State Reset logic]]></changelog>
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/effects/floop-multiband-transient-shaper/floop-multiband-transient-shaper.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="effects/floop-vert-ish">
+    <reapack name="vert-ish-vca-compressor.jsfx" type="effect" desc="Verti-ish VCA Compressor">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 VCA-style compressor with a "Verti-ish" character.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Features:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab L/R independent thresholds\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Ratio, attack, release, and makeup gain\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Knee control\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Stereo and dual-mono modes\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Sidechain filters and harmonic saturation\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Suitable for mix bus, mastering, and drum processing. Keywords: compressor, VCA, dynamics, stereo, saturation.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="Floop-s" time="2026-01-12T13:21:00Z">
+        <source type="effect">https://github.com/floop-s/floops-reaper-scripts/raw/f6a71f83b4aecc9cb2c5defb80c67c85dcff896c/effects/floop-vert-ish/vert-ish-vca-compressor.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floop-bill-the-pain-clock">
+    <reapack name="floop-bill-the-pain-clock.lua" type="script" desc="Floop Bill The Pain Clock">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Background time-tracking utility for REAPER designed for billing and project management.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Tracks time per-project seamlessly with a background daemon, even when the UI is closed. Splits work into distinct phases (Setup, Tracking, Editing, etc.) and chronological sessions. Features idle-detection (auto-pause), transport override, and detailed CSV exports.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Requires:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab ReaImGui (ReaTeam Extensions repository)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab js_ReaScriptAPI (for CSV export dialog)\sa180\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="Floop-s" time="2026-07-02T04:49:42Z">
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/scripts/floop-bill-the-pain-clock/floop-bill-the-pain-clock.lua</source>
+        <source file="floop-bill-the-pain-clock-daemon.lua">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/scripts/floop-bill-the-pain-clock/floop-bill-the-pain-clock-daemon.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floop-ess-hunter">
+    <reapack name="floop-ess-hunter.lua" type="script" desc="Floop Ess Hunter: tame hiss and sibilance with envelopes.">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Floop Ess Hunter Taming hiss.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Detects and attenuates sibilance in vocal items by writing Volume envelope points. Features a fast zero-allocation HPF engine, adaptive thresholds, and ZCR.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Requires:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab ReaImGui (ReaTeam Extensions repository), v0.10.2 or newer\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 For full documentation and changelog, please refer to the README file. Keywords: vocal, de-esser, envelope, processing, analysis\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.1.0" author="Floop-s" time="2026-01-12T06:47:17Z">
+        <changelog><![CDATA[v1.1.0
+- Added support for split clips and items not starting at 0.
+- Introduced interactive handles for manual segment adjustment.
+- Added per-segment volume control via vertical drag.
+- Fixed waveform display alignment for offset items.
+- "Analyze and Apply" now correctly handles item offsets and playrates.
+- "Close" button in title bar now matches standard close behavior.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/f0453fa17b73b4a3025b7ceb5ec4e976b1ff43bb/scripts/floop-ess-hunter/floop-ess-hunter.lua</source>
+      </version>
+      <version name="1.1.1" author="Floop-s" time="2026-02-15T17:18:44Z">
+        <changelog><![CDATA[- Improved envelope visibility and stability when applying from preview.
+- Added segment gain handles with live update when Live Edit is enabled.
+- Hardened analysis and preview via median clamp on extreme sibilant material.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/6d24fe5693b76b464825519c0199eba48585c8da/scripts/floop-ess-hunter/floop-ess-hunter.lua</source>
+      </version>
+      <version name="1.1.2" author="Floop-s" time="2026-02-20T06:38:48Z">
+        <changelog><![CDATA[- Fixed cumulative volume reduction when sibilant segments overlap.
+- Fixed incorrect envelope point values by respecting track envelope scaling mode (Fader/Amplitude).]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/b7f4b93c1f1d3b3611a52136d3a4650721d36316/scripts/floop-ess-hunter/floop-ess-hunter.lua</source>
+      </version>
+      <version name="1.2.0" author="Floop-s" time="2026-07-02T04:49:42Z">
+        <changelog><![CDATA[- UI/UX: Custom toggles, simplified layout, and async analysis (no UI freeze).
+- Added Context-Aware Right-Click Reset for sliders.
+- Optimized Live Edit for real-time volume adjustments.
+- DSP: Switched to zero-allocation Butterworth HPF engine.
+- Fix: Corrected start_offs envelope alignment and edge segment dropping.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/scripts/floop-ess-hunter/floop-ess-hunter.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floop-groove-a-thor">
+    <reapack name="floop-groove-a-thor.lua" type="script" desc="Floop Groove-A-Thor">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 Floop Groove-A-Thor\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Groove Extraction and Injection tool for REAPER.}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Extract the rhythmic feel (timing and velocity) from any Audio or MIDI source and apply it to any target item (Audio or MIDI) with precision.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Key Features:}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Groove Extraction from Audio (transients) or MIDI\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Groove Injection with adjustable Timing, Velocity, and Grid Attraction\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Phase Coherent Mode for multi-track drum phase preservation\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Advanced Visualizer with LOCKED (Groove) and LIVE (Selection) modes\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Procedural Groove Generator (Swing, Push/Pull, Velocity Curve)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Groove Library with Bank management\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Non-destructive workflow with Undo support\sa180\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="Floop-s" time="2026-03-14T08:18:44Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/87cb0b45600d794e81f22579ab12439d11052409/scripts/floop-groove-a-thor/floop-groove-a-thor.lua</source>
+      </version>
+      <version name="1.0.1" author="Floop-s" time="2026-03-15T09:45:39Z">
+        <changelog><![CDATA[+ Bugfix: Fixed audio loop start/end marker shifting when applying groove, ensuring loop boundary stability.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/c57bc4141e6e5c408608c54a2fe6e7aa30a74277/scripts/floop-groove-a-thor/floop-groove-a-thor.lua</source>
+      </version>
+      <version name="1.1.0" author="Floop-s" time="2026-05-17T12:24:20Z">
+        <changelog><![CDATA[+ Generator: Added Push/Pull offset and hierarchical Velocity Curve.
++ Injector: Added Phase Coherent Mode for multi-track drum phase preservation.
++ Extraction: Added 15ms post-transient RMS lookahead for accurate audio velocity.
++ Extraction: Added Sanity Check warning for Base Grid mismatch.
++ Visualizer: Extraction preview fully syncs with real-time UI threshold/sensitivity.
++ Bugfix: Fixed audio loop boundaries shifting when applying groove.
++ Bugfix: Added Bank deletion via context menu.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/cf42ea727ee883fda043e06c35976ce0f8a6a134/scripts/floop-groove-a-thor/floop-groove-a-thor.lua</source>
+      </version>
+      <version name="1.2.0" author="Floop-s" time="2026-07-02T04:49:42Z">
+        <changelog><![CDATA[+ Bugfix: Excluded muted notes from MIDI extraction.
++ Bugfix: Fixed MIDI note overlap truncation causing audio clicks.
++ Bugfix: Redesigned audio stretch marker clamp loop to prevent marker crossing.
++ Improved: Extracted grid type (straight/triplet) is now used as secondary priority in matching.
++ Improved: Fixed memory leak in GrooveCache by adding background GC for orphaned Takes.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/95857bdb80be675f4fbe905f183f62fc61b99ffd/scripts/floop-groove-a-thor/floop-groove-a-thor.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floop-hunter-framework">
+    <reapack name="floop-hunter-framework.lua" type="script" desc="Floop Hunter Framework">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 Floop Hunter Framework\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Artifact detection and gain-reduction helper for REAPER (Ess / Plosive / Breath). Requires ReaImGui.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This script is a workflow accelerator, designed to find candidates quickly and provide you with an interactive editor to rapidly confirm, delete, or adjust the automation. It is a starting point to save you hours of manual clicking, but your ears remain the final judge.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="Floop-s" time="2026-04-02T13:13:43Z">
+        <source main="main" file="Floop Hunter Framework/floop-hunter-framework.lua">https://github.com/floop-s/floops-reaper-scripts/raw/c83e269330092eb3a01d19dacd92a9b63cf20155/scripts/floop-hunter-framework/floop-hunter-framework.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_cache.lua">https://github.com/floop-s/floops-reaper-scripts/raw/c83e269330092eb3a01d19dacd92a9b63cf20155/scripts/floop-hunter-framework/modules/floop_cache.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_dsp.lua">https://github.com/floop-s/floops-reaper-scripts/raw/c83e269330092eb3a01d19dacd92a9b63cf20155/scripts/floop-hunter-framework/modules/floop_dsp.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_engine.lua">https://github.com/floop-s/floops-reaper-scripts/raw/c83e269330092eb3a01d19dacd92a9b63cf20155/scripts/floop-hunter-framework/modules/floop_engine.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_imgui.lua">https://github.com/floop-s/floops-reaper-scripts/raw/c83e269330092eb3a01d19dacd92a9b63cf20155/scripts/floop-hunter-framework/modules/floop_imgui.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_logger.lua">https://github.com/floop-s/floops-reaper-scripts/raw/c83e269330092eb3a01d19dacd92a9b63cf20155/scripts/floop-hunter-framework/modules/floop_logger.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_ui.lua">https://github.com/floop-s/floops-reaper-scripts/raw/c83e269330092eb3a01d19dacd92a9b63cf20155/scripts/floop-hunter-framework/modules/floop_ui.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_breath.lua">https://github.com/floop-s/floops-reaper-scripts/raw/c83e269330092eb3a01d19dacd92a9b63cf20155/scripts/floop-hunter-framework/modules/hunters/hunter_breath.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_ess.lua">https://github.com/floop-s/floops-reaper-scripts/raw/c83e269330092eb3a01d19dacd92a9b63cf20155/scripts/floop-hunter-framework/modules/hunters/hunter_ess.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_plosive.lua">https://github.com/floop-s/floops-reaper-scripts/raw/c83e269330092eb3a01d19dacd92a9b63cf20155/scripts/floop-hunter-framework/modules/hunters/hunter_plosive.lua</source>
+      </version>
+      <version name="1.1.0" author="Floop-s" time="2026-06-19T03:51:04Z">
+        <changelog><![CDATA[+ Complete rewrite of Plosive Hunter and Breath Hunter DSP logic.
++ Redefined Ess Hunter logic.
++ Introduced Acoustic Profiles (Female, Male, Spoken, Rap) & Macro-Sliders.
++ Upgraded JSFX and routing to completely decouple Plosives (HPF) from Ess/Breaths (Gain).
++ Added Custom User Presets system.
++ Major UI/UX layout optimizations.]]></changelog>
+        <source main="main" file="Floop Hunter Framework/floop-hunter-framework.lua">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-hunter-framework/floop-hunter-framework.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_cache.lua">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-hunter-framework/modules/floop_cache.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_dsp.lua">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-hunter-framework/modules/floop_dsp.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_engine.lua">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-hunter-framework/modules/floop_engine.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_imgui.lua">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-hunter-framework/modules/floop_imgui.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_logger.lua">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-hunter-framework/modules/floop_logger.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_ui.lua">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-hunter-framework/modules/floop_ui.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_breath.lua">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-hunter-framework/modules/hunters/hunter_breath.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_ess.lua">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-hunter-framework/modules/hunters/hunter_ess.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_plosive.lua">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-hunter-framework/modules/hunters/hunter_plosive.lua</source>
+      </version>
+      <version name="1.2.0" author="Floop-s" time="2026-07-19T18:48:53Z">
+        <changelog><![CDATA[+ Non-Destructive State Management: P_EXT memory allows multiple Hunters on the same item without destructive overwrites.
++ Continuous Filter Processing: JSFX HPF is always-on, eliminating zipper noise/phase clicks.
++ Geometric Envelope Anchoring: strictly anchored envelope boundaries to prevent legacy-point sloping.]]></changelog>
+        <source main="main" file="Floop Hunter Framework/floop-hunter-framework.lua">https://github.com/floop-s/floops-reaper-scripts/raw/81de72036380ec5fc6e04028a303d958796fb558/scripts/floop-hunter-framework/floop-hunter-framework.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_cache.lua">https://github.com/floop-s/floops-reaper-scripts/raw/81de72036380ec5fc6e04028a303d958796fb558/scripts/floop-hunter-framework/modules/floop_cache.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_dsp.lua">https://github.com/floop-s/floops-reaper-scripts/raw/81de72036380ec5fc6e04028a303d958796fb558/scripts/floop-hunter-framework/modules/floop_dsp.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_engine.lua">https://github.com/floop-s/floops-reaper-scripts/raw/81de72036380ec5fc6e04028a303d958796fb558/scripts/floop-hunter-framework/modules/floop_engine.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_imgui.lua">https://github.com/floop-s/floops-reaper-scripts/raw/81de72036380ec5fc6e04028a303d958796fb558/scripts/floop-hunter-framework/modules/floop_imgui.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_logger.lua">https://github.com/floop-s/floops-reaper-scripts/raw/81de72036380ec5fc6e04028a303d958796fb558/scripts/floop-hunter-framework/modules/floop_logger.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_ui.lua">https://github.com/floop-s/floops-reaper-scripts/raw/81de72036380ec5fc6e04028a303d958796fb558/scripts/floop-hunter-framework/modules/floop_ui.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_breath.lua">https://github.com/floop-s/floops-reaper-scripts/raw/81de72036380ec5fc6e04028a303d958796fb558/scripts/floop-hunter-framework/modules/hunters/hunter_breath.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_ess.lua">https://github.com/floop-s/floops-reaper-scripts/raw/81de72036380ec5fc6e04028a303d958796fb558/scripts/floop-hunter-framework/modules/hunters/hunter_ess.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_plosive.lua">https://github.com/floop-s/floops-reaper-scripts/raw/81de72036380ec5fc6e04028a303d958796fb558/scripts/floop-hunter-framework/modules/hunters/hunter_plosive.lua</source>
+      </version>
+      <version name="1.2.1" author="Floop-s" time="2026-07-29T05:50:15Z">
+        <changelog><![CDATA[+ Fixed a critical bug where Live Edit would destructively wipe out other active Hunters' envelopes. Live Edit now properly utilizes the Unified Reduction engine.]]></changelog>
+        <source main="main" file="Floop Hunter Framework/floop-hunter-framework.lua">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/scripts/floop-hunter-framework/floop-hunter-framework.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_cache.lua">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/scripts/floop-hunter-framework/modules/floop_cache.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_dsp.lua">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/scripts/floop-hunter-framework/modules/floop_dsp.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_engine.lua">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/scripts/floop-hunter-framework/modules/floop_engine.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_imgui.lua">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/scripts/floop-hunter-framework/modules/floop_imgui.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_logger.lua">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/scripts/floop-hunter-framework/modules/floop_logger.lua</source>
+        <source file="Floop Hunter Framework/modules/floop_ui.lua">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/scripts/floop-hunter-framework/modules/floop_ui.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_breath.lua">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/scripts/floop-hunter-framework/modules/hunters/hunter_breath.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_ess.lua">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/scripts/floop-hunter-framework/modules/hunters/hunter_ess.lua</source>
+        <source file="Floop Hunter Framework/modules/hunters/hunter_plosive.lua">https://github.com/floop-s/floops-reaper-scripts/raw/8e5f0a3baf4286c5f91007498b41ee7b245f6bac/scripts/floop-hunter-framework/modules/hunters/hunter_plosive.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floop-key-bpm-sniffer">
+    <reapack name="floop-key-bpm-sniffer.lua" type="script" desc="Floop Key &amp; BPM Sniffer">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Advanced audio analysis tool for Reaper. Detects the musical Key and tempo (BPM) of selected audio items using Spectral Flux and Chromagram algorithms. Features a dynamic UI that adapts to any Reaper theme.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="Floop-s" time="2026-05-17T12:24:20Z">
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/cf42ea727ee883fda043e06c35976ce0f8a6a134/scripts/floop-key-bpm-sniffer/floop-key-bpm-sniffer.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floop-scratchpad">
+    <reapack name="floop-scratchpad.lua" type="script" desc="Floop Scratchpad: per-track notes system">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Per-track notes system for REAPER.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Allows writing, viewing, and managing notes for each track. Notes are automatically saved and recalled when switching tracks.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 V2.0: Massive update! No more background startup script needed. You can safely remove the old Floop Startup script from your SWS Startup actions if you had it configured.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Requires:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab ReaImGui (ReaTeam Extensions repository), v0.10.2 or newer\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Dynamically generates a companion JSFX (FloopNoteReader) to display notes in the Track Control Panel.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Keywords: notes, track, text, workflow.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.2.3" author="Floop-s" time="2026-01-12T06:47:17Z">
+        <changelog><![CDATA[+ Fixed: Notes lost when saving a previously unsaved project.
++ Fixed: JSFX reader disappearing on font scale changes.
++ Fixed: Race condition when switching project tabs.
++ Improved: Numeric display for Font Scale slider.
++ Internal: Improved project path detection.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/f0453fa17b73b4a3025b7ceb5ec4e976b1ff43bb/scripts/floop-scratchpad/floop-scratchpad.lua</source>
+        <source main="main" file="floop-startup-refresh.lua">https://github.com/floop-s/floops-reaper-scripts/raw/f0453fa17b73b4a3025b7ceb5ec4e976b1ff43bb/scripts/floop-scratchpad/floop-startup-refresh.lua</source>
+      </version>
+      <version name="1.2.4" author="Floop-s" time="2026-02-17T18:42:57Z">
+        <changelog><![CDATA[+ Added: Numeric JSFX font size input next to the Font Scale slider (14–40 px).
++ Improved: Increased JSFX font size range and clamping for large projects and high-DPI layouts.
++ Fixed: JSFX reader now updates immediately when confirming font size changes from numeric input.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/f654ec84ac03c749df31b808f616876351c577a4/scripts/floop-scratchpad/floop-scratchpad.lua</source>
+        <source main="main" file="floop-startup-refresh.lua">https://github.com/floop-s/floops-reaper-scripts/raw/f654ec84ac03c749df31b808f616876351c577a4/scripts/floop-scratchpad/floop-startup-refresh.lua</source>
+      </version>
+      <version name="1.3.0" author="Floop-s" time="2026-04-10T18:17:55Z">
+        <changelog><![CDATA[+ Added: Global Memory (gmem) architecture for JSFX readers, vastly improving performance.
++ Fixed: Resolved a bug where all JSFX instances shared the same text.
++ Fixed: Background startup script now automatically restores notes on project load.
++ Note: Notes written in unsaved projects cannot currently be migrated. Please save your project before adding notes.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/f90b387474c27174205a9447cd77ca6ca80fec3d/scripts/floop-scratchpad/floop-scratchpad.lua</source>
+        <source main="main" file="floop-startup-refresh.lua">https://github.com/floop-s/floops-reaper-scripts/raw/f90b387474c27174205a9447cd77ca6ca80fec3d/scripts/floop-scratchpad/floop-startup-refresh.lua</source>
+      </version>
+      <version name="2.0.0" author="Floop-s" time="2026-04-12T09:16:10Z">
+        <changelog><![CDATA[+ V2.0: Massive update! No more background startup script needed.
++ Added JSFX Background Color Picker.
++ Added 'Migrate V1' button to safely import legacy .txt notes.
++ Added dynamic UI Theme that matches REAPER's interface.
++ Added Ctrl+S / Cmd+S keyboard shortcut for instant saving.
++ Native text word-wrapping for JSFX and DPI/Retina support.
++ Full rewrite using ProjExtState (no external files needed).]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/514e10eb5a9e6247f017836474d8390547aa327a/scripts/floop-scratchpad/floop-scratchpad.lua</source>
+      </version>
+      <version name="2.0.1" author="Floop-s" time="2026-04-12T17:28:04Z">
+        <changelog><![CDATA[+ V2.0.1: Massive update! No more background startup script needed.
++ Added JSFX Background Color Picker.
++ Added 'Migrate V1' button to safely import legacy .txt notes.
++ Added dynamic UI Theme that matches REAPER's interface.
++ Added Ctrl+S / Cmd+S keyboard shortcut for instant saving.
++ Native text word-wrapping for JSFX and DPI/Retina support.
++ Full rewrite using ProjExtState (no external files needed).
++ Hotfix: UI layout adjustment for the Help modal text wrapping.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/47b2e6a877415add7332d46a16828baa9a54624e/scripts/floop-scratchpad/floop-scratchpad.lua</source>
+      </version>
+      <version name="2.1.0" author="Floop-s" time="2026-05-20T06:27:57Z">
+        <changelog><![CDATA[+ V2.1.0
++ Added workflow shortcuts to speed up saving/closing.
++ JSFX: Text luminance adapts (light/dark) based on background color.
++ Color Picker: Added saved color palette (5 slots).]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/33ea87ceb8c979a247100bc49490f3b85cd0e23b/scripts/floop-scratchpad/floop-scratchpad.lua</source>
+      </version>
+      <version name="2.1.1" author="Floop-s" time="2026-06-19T03:51:04Z">
+        <changelog><![CDATA[+ V2.1.1
++ Remembers last used text size when switching to tracks without saved state.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/b375dae77b5a306f11a24320a796bf819a28569d/scripts/floop-scratchpad/floop-scratchpad.lua</source>
+      </version>
+      <version name="2.1.2" author="Floop-s" time="2026-07-10T03:56:56Z">
+        <changelog><![CDATA[+ V2.1.2
++ Improved dynamic theme engine: fixes light theme bug on modern defaults and drastically reduces CPU usage.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/c5b45af47bb162495bd131fe2f9a4822e2b37cf3/scripts/floop-scratchpad/floop-scratchpad.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floop-search">
+    <reapack name="floop-search.lua" type="script" desc="Floop Search: fast track navigation and search tool">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Fast track navigation and search tool for REAPER.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Provides a floating search bar for quickly locating, selecting, and previewing tracks.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Requires:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab ReaImGui (ReaTeam Extensions repository), v0.10.2 or newer Keywords: search, navigation, track, workflow.\sa180\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="Floop-s" time="2026-01-12T06:47:17Z">
+        <changelog><![CDATA[Initial release.
+Track search, selection, and previewing.
+Animated floating UI with debounced search.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/f0453fa17b73b4a3025b7ceb5ec4e976b1ff43bb/scripts/floop-search/floop-search.lua</source>
+      </version>
+      <version name="1.1.0" author="Floop-s" time="2026-05-22T05:20:06Z">
+        <changelog><![CDATA[v1.1.0 (2026-05-22)
++ Added support for comma operator to search multiple groups (e.g. 'kick, snare').
++ Added SHIFT+ENTER shortcut to select all search results at once.
++ Added full Undo support for track selection.
++ Added 'Lazy Snapshot' for massive performance improvements on large projects.
++ Script now ignores hidden tracks.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/e5de2cfa5708dcc7bec464db1849077ac0992510/scripts/floop-search/floop-search.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floop-sheet-reader">
+    <reapack name="floop-sheet-reader.lua" type="script" desc="Floop Sheet Reader: load and view PDF and image files.">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Windows-only script.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 Sheet Reader v2.0\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \u169 ? 2025 2026 Floop-s\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Load and view PDF and image files directly inside Reaper. Uses Poppler for PDF-to-image conversion. First, the script checks if "pdftoppm" is installed. If not, it prompts the user\line to install Poppler automatically. Poppler is downloaded from the official release\line page and extracted to the Reaper resource folder:\line https://github.com/oschwartz10612/poppler-windows/releases/download/v26.02.0-0/Release-26.02.0-0.zip Once installed, the script converts PDF pages into images and displays them in the GUI.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Requires: reapack.com/repos/cfillion/reaimgui/ReaImGui_{\i .ext >= 0.10.2 reapack.com/repos/reapack/sws/SWS_}.ext keywords: sheet, pdf, image, viewer, score, music\par}
+}
+]]></description>
+      </metadata>
+      <version name="2.1.0" author="Floop-s" time="2026-01-12T06:47:17Z">
+        <changelog><![CDATA[v2.1
+- Added About/Credits section with Poppler attribution.
+- Restored Clear Cache button.
+- Fixed tooltip contrast.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/f0453fa17b73b4a3025b7ceb5ec4e976b1ff43bb/scripts/floop-sheet-reader/floop-sheet-reader.lua</source>
+      </version>
+      <version name="2.2.0" author="Floop-s" time="2026-04-06T18:00:57Z">
+        <changelog><![CDATA[- Completely resolved UI freezing during Poppler installation (asynchronous VBS/PowerShell pipeline).
+- Re-written image caching system to fix memory leaks and "invalid texture" errors.
+- "Select PDF/Image" now correctly remembers the last accessed directory.
+- Scoped global functions to local for script safety and performance.
+- Polished About/Credits modal.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/2b418bb07d1a4370e07d4686df3c7a04dcbae304/scripts/floop-sheet-reader/floop-sheet-reader.lua</source>
+      </version>
+      <version name="2.2.1" author="Floop-s" time="2026-07-02T05:18:03Z">
+        <changelog><![CDATA[- Update Poppler Windows binary download link and SHA256 verification hash.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/9ad1515b3b0dd8b9701301665f7aa69de7555476/scripts/floop-sheet-reader/floop-sheet-reader.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floop-studio-trainer">
+    <reapack name="floop-studio-trainer.lua" type="script" desc="Floop Studio Trainer: practice your instrument inside Reaper.">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Floop Studio Trainer\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.1" author="Floop-s" time="2026-01-12T06:47:17Z">
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/f0453fa17b73b4a3025b7ceb5ec4e976b1ff43bb/scripts/floop-studio-trainer/floop-studio-trainer.lua</source>
+      </version>
+      <version name="1.2" author="Floop-s" time="2026-02-05T17:36:00Z">
+        <changelog><![CDATA[v1.2 (2026-02-05)
+- Fix: Solved crash with fractional Project BPM values.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/5a25846b48cb21764d45ef7b54e2c9d187bfb195/scripts/floop-studio-trainer/floop-studio-trainer.lua</source>
+      </version>
+      <version name="1.3" author="Floop-s" time="2026-06-02T13:24:45Z">
+        <changelog><![CDATA[v1.3 (2026-06-02)
+- New: Advanced Training Mode (cycles, BPM range, end behavior)
+- UI: ReaImGui redesign + metronome icon + in-app Help window
+- Docs: Added quick guide (count-in + custom metronome click note)
+- Fix: More robust loop restart + safer undo handling]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/ab3800f293163a80fa37d5d71c60357d56667d4d/scripts/floop-studio-trainer/floop-studio-trainer.lua</source>
+        <source file="IMG/metro-nome.png">https://github.com/floop-s/floops-reaper-scripts/raw/ab3800f293163a80fa37d5d71c60357d56667d4d/scripts/floop-studio-trainer/IMG/metro-nome.png</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floop-useless-time-based-effects-calculator">
+    <reapack name="floop-useless-time-based-effects-calculator.lua" type="script" desc="Floop Useless Time-Based Effects Calculator: time-based FX helper.">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 A utility script for REAPER to calculate time-based effect parameters.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Calculates compressor release times, reverb decay/predelay, and delay times based on the project BPM or custom values.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Features:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Real-time updates.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Supports standard, dotted, and triplet notes.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Reverb multipliers for Hall, Plate, and Room.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Requires:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab ReaImGui (ReaTeam Extensions repository), v0.10.2 or newer\sa180\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.1.0" author="Floop-s" time="2026-01-12T06:47:17Z">
+        <changelog><![CDATA[v1.1 (2025-01-09)
+  + Live calculation (removed Calculate buttons).
+  + Added unit toggle (ms / seconds).
+  + Improved UI layout and theme.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/f0453fa17b73b4a3025b7ceb5ec4e976b1ff43bb/scripts/floop-useless-time-based-effects-calculator/floop-useless-time-based-effects-calculator.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="scripts/floopa-station">
+    <reapack name="floopa-station.lua" type="script" desc="Floopa Station: five-track live looping station.">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Five-track live looping station for REAPER.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Designed for live performance with automated track setup, smart auto-looping, and hands-free control.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Requires:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab ReaImGui (ReaTeam Extensions repository), v0.10.2 or newer\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab SWS Extension (ReaTeam Extensions repository) Keywords: looper, live performance, recording, workflow.\sa180\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.1.0" author="Floop-s" time="2026-01-12T06:47:17Z">
+        <changelog><![CDATA[v1.1
+- Idempotent 5-track creation.
+- Precise loop alignment with independent thresholds.
+- Robust setup/revert with full settings restore.
+- GUID-based MIDI control track management.
+- Docking support enabled.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/f0453fa17b73b4a3025b7ceb5ec4e976b1ff43bb/scripts/floopa-station/floopa-station.lua</source>
+        <source file="modules/midi-map.lua">https://github.com/floop-s/floops-reaper-scripts/raw/f0453fa17b73b4a3025b7ceb5ec4e976b1ff43bb/scripts/floopa-station/modules/midi-map.lua</source>
+      </version>
+      <version name="1.1.1" author="Floop-s" time="2026-01-18T13:40:32Z">
+        <changelog><![CDATA[v1.1.1
+- Auto-Loop length and recording position fixed (timeline-agnostic behavior).]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/efa4ea774f61ec1124e15d016044870a9c53b5e6/scripts/floopa-station/floopa-station.lua</source>
+        <source file="modules/midi-map.lua">https://github.com/floop-s/floops-reaper-scripts/raw/efa4ea774f61ec1124e15d016044870a9c53b5e6/scripts/floopa-station/modules/midi-map.lua</source>
+      </version>
+      <version name="1.1.2" author="Floop-s" time="2026-04-06T18:00:57Z">
+        <changelog><![CDATA[- Added "Clean" function: removes empty MIDI/Audio items (< -50dB) and prunes unused lanes on Floopa tracks.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/2b418bb07d1a4370e07d4686df3c7a04dcbae304/scripts/floopa-station/floopa-station.lua</source>
+        <source file="modules/midi-map.lua">https://github.com/floop-s/floops-reaper-scripts/raw/2b418bb07d1a4370e07d4686df3c7a04dcbae304/scripts/floopa-station/modules/midi-map.lua</source>
+      </version>
+      <version name="1.1.3" author="Floop-s" time="2026-07-19T18:48:32Z">
+        <changelog><![CDATA[- Fixed MCP track color synchronization bug.]]></changelog>
+        <source main="main">https://github.com/floop-s/floops-reaper-scripts/raw/acca37ac0545ff868702b406ba920b2a54afe30c/scripts/floopa-station/floopa-station.lua</source>
+        <source file="modules/midi-map.lua">https://github.com/floop-s/floops-reaper-scripts/raw/acca37ac0545ff868702b406ba920b2a54afe30c/scripts/floopa-station/modules/midi-map.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 Floop's REAPER Scripts\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Free, open-source Lua scripts and JSFX plugins for REAPER}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Modular master metering \u183 ? vocal cleanup (de-esser, de-plosive, breath remover) \u183 ? groove extraction \u183 ? live looping \u183 ? track notes \u183 ? saturation \u183 ? compression \u183 ? transient shaping\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\field{\*\fldinst{HYPERLINK "https://floratarantino.com/floop-reaper-scripts"}}{\fldrslt{\ul
+{\cf1 [image: https://img.shields.io/badge/Website-floop--reaper--scripts-0a7cff?style=for-the-badge&logo=googlechrome&logoColor=white]\cf0}
+}}}
+ {\field{\*\fldinst{HYPERLINK "#installation"}}{\fldrslt{\ul
+{\cf1 [image: https://img.shields.io/badge/Install-ReaPack-7b42bc?style=for-the-badge]\cf0}
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\field{\*\fldinst{HYPERLINK "https://github.com/floop-s/floops-reaper-scripts/stargazers"}}{\fldrslt{\ul
+{\cf1 [image: https://img.shields.io/github/stars/floop-s/floops-reaper-scripts?style=flat-square&logo=github]\cf0}
+}}}
+ {\field{\*\fldinst{HYPERLINK "https://github.com/floop-s/floops-reaper-scripts/commits/main"}}{\fldrslt{\ul
+{\cf1 [image: https://img.shields.io/github/last-commit/floop-s/floops-reaper-scripts?style=flat-square]\cf0}
+}}}
+ {\field{\*\fldinst{HYPERLINK "https://github.com/floop-s/floops-reaper-scripts/releases"}}{\fldrslt{\ul
+{\cf1 [image: https://img.shields.io/github/downloads/floop-s/floops-reaper-scripts/total?style=flat-square&label=release%20downloads]\cf0}
+}}}
+ {\field{\*\fldinst{HYPERLINK "LICENSE"}}{\fldrslt{\ul
+{\cf1 [image: https://img.shields.io/badge/License-GPLv3-blue?style=flat-square]\cf0}
+}}}
+ {\cf1 [image: https://img.shields.io/badge/REAPER-Lua%20%7C%20JSFX-555?style=flat-square]\cf0} {\cf1 [image: https://img.shields.io/badge/Windows-tested-success?style=flat-square&logo=windows]\cf0} {\field{\*\fldinst{HYPERLINK "https://ko-fi.com/floopsreaperscripts"}}{\fldrslt{\ul
+{\cf1 [image: https://img.shields.io/badge/Ko--fi-Support-ff5e5b?style=flat-square&logo=ko-fi&logoColor=white]\cf0}
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li720 \fi0 {\b Install everything in 30 seconds with ReaPack} \u8212- add this URL in {\i Extensions \u8594 ? ReaPack \u8594 ? Import repositories}:\par}
+{\pard \ql \f0 \sa180 \li720 \fi0 \f1 https://github.com/floop-s/floops-reaper-scripts/raw/main/index.xml\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u11088 ? Featured: Floop Master Control (Modular)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b One JSFX, up to 9 slots, any combination of analysis modules} \u8212- peak/LUFS meter, VU, spectrum, spectrogram, phase scope, correlation, stereo field, oscilloscope and monitoring. Swap modules per slot without stacking multiple FX instances. No dependencies: drop it on your master and go.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b {\field{\*\fldinst{HYPERLINK "effects/floop-master-control-mod"}}{\fldrslt{\ul
+\u8594 ? Full documentation
+}}}
+}\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Contents\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "#vocal--dialogue-editing"}}{\fldrslt{\ul
+Vocal & dialogue editing
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "#workflow--productivity"}}{\fldrslt{\ul
+Workflow & productivity
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "#music--performance"}}{\fldrslt{\ul
+Music & performance
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "#audio-effects-jsfx"}}{\fldrslt{\ul
+Audio effects (JSFX)
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "#installation"}}{\fldrslt{\ul
+Installation
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "#feedback--bug-reports"}}{\fldrslt{\ul
+Feedback & bug reports
+}}}
+\sa180\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 At a glance\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 | Tool | Type | What it does | Requires | |---|---|---|---| | {\field{\*\fldinst{HYPERLINK "scripts/floop-hunter-framework"}}{\fldrslt{\ul
+Hunter Framework
+}}}
+ | Lua | Detects sibilance, plosives and breaths, writes volume automation | ReaImGui, SWS | | {\field{\*\fldinst{HYPERLINK "scripts/floop-ess-hunter"}}{\fldrslt{\ul
+Ess Hunter
+}}}
+ | Lua | Automatic de-essing via volume automation | ReaImGui, SWS | | {\field{\*\fldinst{HYPERLINK "scripts/floop-scratchpad"}}{\fldrslt{\ul
+Scratchpad
+}}}
+ | Lua | Notes per track, saved inside the project | ReaImGui 0.10.2+ | | {\field{\*\fldinst{HYPERLINK "scripts/floop-search"}}{\fldrslt{\ul
+Search
+}}}
+ | Lua | Keyboard-first track search and navigation | ReaImGui 0.10.2+, SWS | | {\field{\*\fldinst{HYPERLINK "scripts/floop-sheet-reader"}}{\fldrslt{\ul
+Sheet Reader
+}}}
+ | Lua | View PDFs and images inside REAPER | ReaImGui, SWS \u183 ? {\b Windows only} | | {\field{\*\fldinst{HYPERLINK "scripts/floop-bill-the-pain-clock"}}{\fldrslt{\ul
+Bill The Pain Clock
+}}}
+ | Lua | Background time tracking per project, for billing | ReaImGui 0.10.2+ | | {\field{\*\fldinst{HYPERLINK "scripts/floop-key-bpm-sniffer"}}{\fldrslt{\ul
+Key & BPM Sniffer
+}}}
+ | Lua | Detects key and tempo of audio items | ReaImGui | | {\field{\*\fldinst{HYPERLINK "scripts/floop-useless-time-based-effects-calculator"}}{\fldrslt{\ul
+Time-Based FX Calculator
+}}}
+ | Lua | Delay / reverb / release times from BPM | ReaImGui 0.10.2+ | | {\field{\*\fldinst{HYPERLINK "scripts/floop-groove-a-thor"}}{\fldrslt{\ul
+Groove-A-Thor
+}}}
+ | Lua | Extract, generate and apply groove (audio \u8596 ? MIDI) | ReaImGui | | {\field{\*\fldinst{HYPERLINK "scripts/floopa-station"}}{\fldrslt{\ul
+Floopa Station
+}}}
+ | Lua | 5-track live looper with count-in and auto-loop | ReaImGui 0.10.2+, SWS | | {\field{\*\fldinst{HYPERLINK "scripts/floop-studio-trainer"}}{\fldrslt{\ul
+Studio Trainer
+}}}
+ | Lua | Practice loops with automatic BPM increase | ReaImGui 0.10.2+ | | {\field{\*\fldinst{HYPERLINK "effects/floop-chrominator"}}{\fldrslt{\ul
+Chrominator
+}}}
+ | JSFX | Stereo analog-style saturator, 5 modes | \u8212- | | {\field{\*\fldinst{HYPERLINK "effects/floop-multiband-transient-shaper"}}{\fldrslt{\ul
+Multiband Transient Shaper
+}}}
+ | JSFX | 3-band attack/sustain, up to 8\u215 ? oversampling | \u8212- | | {\field{\*\fldinst{HYPERLINK "effects/floop-vert-ish"}}{\fldrslt{\ul
+Vert-ish VCA Compressor
+}}}
+ | JSFX | VCA bus compressor with L/R controls | \u8212- | | {\field{\*\fldinst{HYPERLINK "effects/floop-master-control-mod"}}{\fldrslt{\ul
+Master Control (Modular)
+}}}
+ | JSFX | Slot-based metering: LUFS, spectrum, phase, scope\u8230 ? | \u8212- | | {\field{\*\fldinst{HYPERLINK "effects/floop-master-control"}}{\fldrslt{\ul
+Master Control
+}}}
+ | JSFX | All-in-one master metering and true peak | \u8212- |\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Vocal & dialogue editing\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floop-hunter-framework"}}{\fldrslt{\ul
+Floop Hunter Framework
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Automatic vocal cleanup: finds {\b sibilance, plosives and breaths} and writes precise volume automation only where needed no plugin, no tone change, fully editable afterwards. Overlapping detections are merged cleanly.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floop-ess-hunter"}}{\fldrslt{\ul
+Floop Ess Hunter
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The standalone de-esser version of the Hunter: detects "s", "sh", "ch" and lowers them with envelope points.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Workflow & productivity\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floop-scratchpad"}}{\fldrslt{\ul
+Floop Scratchpad
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Write notes per track, stored inside the {\f1 .rpp} file. Optional embedded display in the TCP / mixer.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floop-search"}}{\fldrslt{\ul
+Floop Search
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A floating search bar to find, select and preview any track by name or number, without the mouse.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floop-sheet-reader"}}{\fldrslt{\ul
+Floop Sheet Reader
+}}}
+ \u183 ? {\i Windows only}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Open PDFs and images (sheet music, lyrics, notes) in a dockable REAPER window.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floop-bill-the-pain-clock"}}{\fldrslt{\ul
+Floop Bill The Pain Clock
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Tracks the time spent on each project in the background, with idle detection \u8212- made for billing clients.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floop-key-bpm-sniffer"}}{\fldrslt{\ul
+Floop Key & BPM Sniffer
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Detects musical key and tempo of selected audio items.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floop-useless-time-based-effects-calculator"}}{\fldrslt{\ul
+Floop Time-Based Effects Calculator
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Delay times, reverb pre-delay/decay and compressor release synced to project BPM.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Music & performance\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floop-groove-a-thor"}}{\fldrslt{\ul
+Floop Groove-A-Thor
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Extract timing and velocity feel from audio or MIDI, apply it elsewhere, or generate new grooves.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floopa-station"}}{\fldrslt{\ul
+Floopa Station
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Live looper with 5 dedicated tracks, count-in, beat counter, auto-loop and micro-fades.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "scripts/floop-studio-trainer"}}{\fldrslt{\ul
+Floop Studio Trainer
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Loop a section or the metronome; the BPM rises automatically after each set of repetitions.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Audio effects (JSFX)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "effects/floop-chrominator"}}{\fldrslt{\ul
+Floop Chrominator
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Stereo analog-style saturation with five modes (Soft, Even, Clip, Warm, Odd).\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "effects/floop-multiband-transient-shaper"}}{\fldrslt{\ul
+Floop Multiband Transient Shaper
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Independent attack, sustain and gain on three bands, up to 8\u215 ? oversampling.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "effects/floop-vert-ish"}}{\fldrslt{\ul
+Vert-ish VCA Compressor
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 VCA-style compressor for bus glue and drums, dual-mono or linked, with saturation and oversampling.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "effects/floop-master-control-mod"}}{\fldrslt{\ul
+Floop Master Control (Modular)
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Up to 9 slots, each hosting a module: meter, VU, spectrum, spectrogram, phase, correlation, stereo, oscilloscope, monitor.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 {\field{\*\fldinst{HYPERLINK "effects/floop-master-control"}}{\fldrslt{\ul
+Floop Master Control
+}}}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The original all-in-one version: true peak, LUFS, spectrum and phase in one plugin.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Installation\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 ReaPack (recommended \u8212- includes automatic updates)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Install {\field{\*\fldinst{HYPERLINK "https://reapack.com"}}{\fldrslt{\ul
+ReaPack
+}}}
+ if you don't have it.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab {\i Extensions \u8594 ? ReaPack \u8594 ? Import repositories\u8230 ?} and paste:\par}
+{\pard \ql \f0 \sa180 \li360 \fi0 \f1 https://github.com/floop-s/floops-reaper-scripts/raw/main/index.xml\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab {\i Extensions \u8594 ? ReaPack \u8594 ? Browse packages}, search {\b floop}, install what you need.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Most scripts need {\b ReaImGui} (install {\i "ReaScript binding for Dear ImGui"} from ReaPack) and some need the {\field{\*\fldinst{HYPERLINK "https://www.sws-extension.org"}}{\fldrslt{\ul
+SWS Extension
+}}}
+. See the table above.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Manual / single download\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Every tool also has a downloadable {\b {\field{\*\fldinst{HYPERLINK "https://github.com/floop-s/floops-reaper-scripts/releases"}}{\fldrslt{\ul
+Release
+}}}
+}.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab {\i Options \u8594 ? Show REAPER resource path}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Copy {\f1 .lua} files into {\f1 Scripts/}, {\f1 .jsfx} files into {\f1 Effects/}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Load scripts from the Actions list; press F5 in the FX browser for JSFX.\sa180\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Compatibility\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Windows}: primary platform, fully tested.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b macOS / Linux}: most tools should work (pure Lua + ReaImGui / JSFX) but are not fully tested. Reports are very welcome.\sa180\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Feedback & bug reports\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 ReaPack doesn't tell me who uses what \u8212- {\b your feedback is the only signal I get.}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab \u55357 ?\u56347 ? Found a bug? {\field{\*\fldinst{HYPERLINK "https://github.com/floop-s/floops-reaper-scripts/issues/new"}}{\fldrslt{\ul
+Open an issue
+}}}
+ \u8212- include REAPER version, OS and tool version.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab \u55357 ?\u56481 ? Idea or question? Use {\field{\*\fldinst{HYPERLINK "https://github.com/floop-s/floops-reaper-scripts/discussions"}}{\fldrslt{\ul
+Discussions
+}}}
+.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab \u11088 ? If a tool saves you time, a {\b star} on this repo helps other REAPER users find it.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The project is maintained in my spare time. If you'd like to support it: {\field{\*\fldinst{HYPERLINK "https://ko-fi.com/floopsreaperscripts"}}{\fldrslt{\ul
+Ko-fi
+}}}
+.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 License\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 GPLv3 \u8212- see {\field{\*\fldinst{HYPERLINK "LICENSE"}}{\fldrslt{\ul
+LICENSE
+}}}
+.\par}
+}
+]]></description>
+    <link rel="website">https://www.floratarantino.com/floop-reaper-scripts/</link>
+  </metadata>
+</index>

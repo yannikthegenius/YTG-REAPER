@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="DSP to JSFX" commit="be77bdea6dc32863442e30d65c80968aefd6e8a2">
+  <category name="Plugin Ports">
+    <reapack name="AcidReign.jsfx" type="effect" desc="Acid Reign Bass Synth (Open303 port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Monophonic acid bass synth in the style of the Roland TB-303: a saw/square blend oscillator into a resonant 303-style ladder filter, the decaying filter envelope and the accent circuit that make the squelch, with slides between overlapping notes. Play it from MIDI (velocity 100 and above is an accent) or use the 16-step pattern sequencer: Key Sync runs the pattern while you hold a key (the key transposes it), Host Sync follows REAPER's transport and tempo. The Devil Fish knobs open up the envelope and slide times. MIDI CC 74 cutoff, 71 resonance, 81 env mod, 7 volume; pitch bend is +/- 12 semitones. Ported from Open303 by Robin Schmidt (rs-met.com) https://github.com/RobinSchmidt/Open303 (MIT) JSFX version released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-11-02T20:18:32Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/2725b4a8b5150fb4dcf89000071cbee005ee722e/Plugin%20Ports/AcidReign.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="AnalogEQ.jsfx" type="effect" desc="Analog EQ (Luftikus port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/AnalogEQ.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="AnalogJam.jsfx" type="effect" desc="Analog Jam (cStop port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Tape stop and tape start effect Ported from cStop 2.0.1 by Cal Goheen (TapeStop from cgo_modules, delay line and state variable filter from chowdsp_utils) https://github.com/calgoheen/cStop (GPLv3) JSFX code released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-28T19:14:06Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/a44e71ff9771c7874028a0f65fc53acb6fc78737/Plugin%20Ports/AnalogJam.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="BitMeter.jsfx" type="effect" desc="Bit Meter (x42 Bitmeter port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/BitMeter.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Busk Stop.jsfx" type="effect" desc="Busk Stop (AVL Drumkits port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Hand percussion kit based on the AVL Drumkits Buskman's Holiday: cajon, congas, shakers, tambourines, claves, cymbal, cowbell, foot stomp, bucket and bell tree, 21 pieces (notes 35-55, stick click on 35), 210 samples with ten velocity layers (stereo bell trees), clickable kit photo, stereo output, ported from avldrums.lv2 by Robin Gareus (fluidsynth sample engine, kit photo and hit map) https://github.com/x42/avldrums.lv2 (GPLv2+) Samples and kit photo: AVL Drumkits (Buskman's Holiday) by Glen MacArthur, http://www.bandshed.net/avldrumkits/ Samples as modified for avldrums.lv2, then reduced to 12-bit and joined into one file for this plugin; the sample file remains under CC-BY-SA 3.0 (see Dependencies/Drumkits/BuskStop-LICENSE.txt), and music made with it can be licensed freely JSFX code released under GPLv3+ license Claude Opus 5.x may have generated some of the port of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-01T15:25:12Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Busk%20Stop.jsfx</source>
+        <source file="Dependencies/Drumkits/BuskStop.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/BuskStop.flac</source>
+        <source file="Dependencies/Drumkits/BuskStop.jpg">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/BuskStop.jpg</source>
+        <source file="Dependencies/Drumkits/BuskStopMap.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/BuskStopMap.png</source>
+        <source file="Dependencies/Drumkits/BuskStopGlow.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/BuskStopGlow.png</source>
+        <source file="Dependencies/Drumkits/BuskStop-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/BuskStop-LICENSE.txt</source>
+      </version>
+      <version name="1.0.1" author="chmaha" time="2026-10-25T03:16:30Z">
+        <changelog><![CDATA[Larger, easier-to-read text in the GUI.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Busk%20Stop.jsfx</source>
+        <source file="Dependencies/Drumkits/BuskStop.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/BuskStop.flac</source>
+        <source file="Dependencies/Drumkits/BuskStop.jpg">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/BuskStop.jpg</source>
+        <source file="Dependencies/Drumkits/BuskStopMap.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/BuskStopMap.png</source>
+        <source file="Dependencies/Drumkits/BuskStopGlow.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/BuskStopGlow.png</source>
+        <source file="Dependencies/Drumkits/BuskStop-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/BuskStop-LICENSE.txt</source>
+      </version>
+    </reapack>
+    <reapack name="Captain's Kit.jsfx" type="effect" desc="Captain's Kit (AVL Drumkits port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Acoustic drum kit based on the AVL Drumkits Black Pearl 4-piece, 26 pieces on the GM drum map (notes 36-61), 118 samples with five velocity layers, hi-hat and cymbal chokes, clickable kit photo, stereo or multi-channel (kick, snare, hi-hat, tom, floor tom, overheads, percussion) outputs, ported from avldrums.lv2 by Robin Gareus (fluidsynth sample engine, kit photo and hit map) https://github.com/x42/avldrums.lv2 (GPLv2+) Samples and kit photo: AVL Drumkits (Black Pearl) by Glen MacArthur, http://www.bandshed.net/avldrumkits/ Samples as modified for avldrums.lv2, then reduced to 12-bit and joined into one file for this plugin; the sample file remains under CC-BY-SA 3.0 (see Dependencies/Drumkits/CaptainsKit-LICENSE.txt), and music made with it can be licensed freely JSFX code released under GPLv3+ license Claude Opus 5.x may have generated some of the port of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-01T15:25:12Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Captain's%20Kit.jsfx</source>
+        <source file="Dependencies/Drumkits/CaptainsKit.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/CaptainsKit.flac</source>
+        <source file="Dependencies/Drumkits/CaptainsKit.jpg">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/CaptainsKit.jpg</source>
+        <source file="Dependencies/Drumkits/CaptainsKitMap.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/CaptainsKitMap.png</source>
+        <source file="Dependencies/Drumkits/CaptainsKitGlow.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/CaptainsKitGlow.png</source>
+        <source file="Dependencies/Drumkits/CaptainsKit-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/CaptainsKit-LICENSE.txt</source>
+      </version>
+      <version name="1.0.1" author="chmaha" time="2026-10-25T03:16:30Z">
+        <changelog><![CDATA[Larger, easier-to-read text in the GUI.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Captain's%20Kit.jsfx</source>
+        <source file="Dependencies/Drumkits/CaptainsKit.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/CaptainsKit.flac</source>
+        <source file="Dependencies/Drumkits/CaptainsKit.jpg">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/CaptainsKit.jpg</source>
+        <source file="Dependencies/Drumkits/CaptainsKitMap.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/CaptainsKitMap.png</source>
+        <source file="Dependencies/Drumkits/CaptainsKitGlow.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/CaptainsKitGlow.png</source>
+        <source file="Dependencies/Drumkits/CaptainsKit-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/CaptainsKit-LICENSE.txt</source>
+      </version>
+    </reapack>
+    <reapack name="ChamberOrgan.jsfx" type="effect" desc="Chamber Organ (Aeolus port) by chmaha">
+      <version name="1.0" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/ChamberOrgan.jsfx</source>
+        <source file="Dependencies/ChamberOrganStops.jsfx-inc">https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Dependencies/ChamberOrganStops.jsfx-inc</source>
+      </version>
+    </reapack>
+    <reapack name="ChronoDupe.jsfx" type="effect" desc="ChronoDupe (ADT port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Automatic double tracking for vocals and other sources: four pitch-shifted, delayed copies spread across the stereo field, with high- and low-pass filters and separate dry and wet levels, ported from ADT by Christopher Arndt https://github.com/SpotlightKid/adt (MIT) JSFX version released under MIT license Claude Opus 5.x may have generated some of the port of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-09-23T18:30:45Z">
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/41b40803924f78f491b73d1b098ee309969f1313/Plugin%20Ports/ChronoDupe.jsfx</source>
+      </version>
+      <version name="1.0.1" author="chmaha" time="2026-09-24T19:29:48Z">
+        <changelog><![CDATA[The name now shows the original plugin (ADT), and the GUI credits it.
+Dry and Wet levels change smoothly (no clicks when automated).]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/e4e7966352dd3ab71b5a7e603c018403fb4ed313/Plugin%20Ports/ChronoDupe.jsfx</source>
+      </version>
+      <version name="1.0.2" author="chmaha" time="2026-09-26T16:04:55Z">
+        <changelog><![CDATA[The name now shows the original plugin (ADT), and the GUI credits it.
+Dry and Wet levels change smoothly (no clicks when automated).
+Resizable GUI: the window scales to fit and stays centred.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/7442341df390fd7dc3dc306c51be2329108a70aa/Plugin%20Ports/ChronoDupe.jsfx</source>
+      </version>
+      <version name="1.0.3" author="chmaha" time="2026-10-25T03:16:30Z">
+        <changelog><![CDATA[Larger, easier-to-read text in the GUI.
+Fader dragging is smoother: switching to fine adjustment mid-drag no longer makes the value jump.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/ChronoDupe.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Compressor.jsfx" type="effect" desc="Compressor (x42-darc port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Compressor.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="De-Esser.jsfx" type="effect" desc="De-Esser (Airwindows DeEss/DeBess port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/De-Esser.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Delay.jsfx" type="effect" desc="Delay (ZamDelay port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Delay.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Dizzy.jsfx" type="effect" desc="Dizzy (setBfree b_whirl port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Rotary speaker (Leslie) with horn and drum rotors, speed switching, brake, filters and cabinet geometry, ported from setBfree's b_whirl by Fredrik Kilander, Robin Gareus, Ken Restivo and Will Panther https://github.com/pantherb/setBfree (GPLv2+) JSFX version released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Dizzy.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="DrNine.jsfx" type="effect" desc="Dr. Nine Drum Synthesizer (9W9 port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 TR-909 style drum machine: circuit-modelled kick, snare, toms, rim shot and hand clap, sampled hi-hats, ride and crash, per-voice drive, distortion, pan and reverb/delay sends, master distortion and glue compressor, stereo or 11-channel multi-out (one output per voice as on the TR-909's back panel, hi-hats shared, plus an FX return; pan, master distortion and compressor are stereo only), ported from 9W9 by athousanddetails, after ER-99 by Matthew Cieplak https://github.com/athousanddetails/schwung-9W9 (GPLv3) JSFX version released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/DrNine.jsfx</source>
+        <source file="Dependencies/DrNine/DrNineHiHat.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Dependencies/DrNine/DrNineHiHat.flac</source>
+        <source file="Dependencies/DrNine/DrNineRide.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Dependencies/DrNine/DrNineRide.flac</source>
+        <source file="Dependencies/DrNine/DrNineCrash.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Dependencies/DrNine/DrNineCrash.flac</source>
+      </version>
+    </reapack>
+    <reapack name="DynamicTilt.jsfx" type="effect" desc="Dynamic Tilt by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/DynamicTilt.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="EQ.jsfx" type="effect" desc="EQ (x42-fil4 port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/EQ.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="EvangelinaSymphonicaEspressivoStringEnsemble.jsfx" type="effect" desc="Evangelina Symphonica Espressivo String Ensemble (SCC Expressive Strings port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 String ensemble playing S. Christian Collins' SCC Expressive Strings through a port of the sfizz SFZ engine. Seven key-switched articulations: legato with expression control, legato with velocity control, staccato, pizzicato, tremolo (expression or velocity) and a legato/tremolo crossfade on the soft pedal (CC67). Expression on the mod wheel (CC1), breath (CC2), foot (CC4) or expression (CC11). Ported from sfizz 1.2.3 (sfizz authors, https://sfz.tools/sfizz, BSD 2-clause). Instrument: SCC Expressive Strings 1.0 by S. Christian Collins (https://www.schristiancollins.com), released as "use at your own risk"; samples collected by the author from free SoundFont banks (Dependencies/EvangelinaSymphonica/Espressivo-LICENSE.txt). JSFX code released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-31T14:23:08Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/935da7c5cfc178c7d4103b7c183dbbb1b76b4e68/Plugin%20Ports/EvangelinaSymphonicaEspressivoStringEnsemble.jsfx</source>
+        <source file="Dependencies/EvangelinaSymphonica/Espressivo.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/935da7c5cfc178c7d4103b7c183dbbb1b76b4e68/Plugin%20Ports/Dependencies/EvangelinaSymphonica/Espressivo.txt</source>
+        <source file="Dependencies/EvangelinaSymphonica/EspressivoStrings.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/935da7c5cfc178c7d4103b7c183dbbb1b76b4e68/Plugin%20Ports/Dependencies/EvangelinaSymphonica/EspressivoStrings.flac</source>
+        <source file="Dependencies/EvangelinaSymphonica/Espressivo-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/935da7c5cfc178c7d4103b7c183dbbb1b76b4e68/Plugin%20Ports/Dependencies/EvangelinaSymphonica/Espressivo-LICENSE.txt</source>
+      </version>
+    </reapack>
+    <reapack name="FinalTouch.jsfx" type="effect" desc="Final Touch (ReFine port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/FinalTouch.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Gate.jsfx" type="effect" desc="Gate (ZamGateX2 port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Gate.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Goldibops.jsfx" type="effect" desc="Goldibops (AVL Drumkits port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Acoustic drum kit based on the AVL Drumkits Blonde Bop, played with sticks or Hot Rods (from Blonde Bop HR), 27 pieces on the GM drum map (notes 35-61, stick click on 35), 135 samples per set with five velocity layers, hi-hat and cymbal chokes, clickable kit photo, stereo or multi-channel (kick, snare, hi-hat, tom, floor tom, overheads, percussion) outputs, ported from avldrums.lv2 by Robin Gareus (fluidsynth sample engine, kit photo and hit map) https://github.com/x42/avldrums.lv2 (GPLv2+) Samples and kit photo: AVL Drumkits (Blonde Bop) by Glen MacArthur, http://www.bandshed.net/avldrumkits/ Samples as modified for avldrums.lv2, then reduced to 12-bit and joined into one file per set for this plugin; the sample files remain under CC-BY-SA 3.0 (see Dependencies/Drumkits/Goldibops-LICENSE.txt), and music made with it can be licensed freely JSFX code released under GPLv3+ license Claude Opus 5.x may have generated some of the port of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-01T15:25:12Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Goldibops.jsfx</source>
+        <source file="Dependencies/Drumkits/Goldibops.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/Goldibops.flac</source>
+        <source file="Dependencies/Drumkits/GoldibopsHotRods.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/GoldibopsHotRods.flac</source>
+        <source file="Dependencies/Drumkits/Goldibops.jpg">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/Goldibops.jpg</source>
+        <source file="Dependencies/Drumkits/GoldibopsHotRods.jpg">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/GoldibopsHotRods.jpg</source>
+        <source file="Dependencies/Drumkits/GoldibopsMap.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/GoldibopsMap.png</source>
+        <source file="Dependencies/Drumkits/GoldibopsGlow.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/GoldibopsGlow.png</source>
+        <source file="Dependencies/Drumkits/Goldibops-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/Goldibops-LICENSE.txt</source>
+      </version>
+      <version name="1.0.1" author="chmaha" time="2026-10-25T03:16:30Z">
+        <changelog><![CDATA[Larger, easier-to-read text in the GUI.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Goldibops.jsfx</source>
+        <source file="Dependencies/Drumkits/Goldibops.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/Goldibops.flac</source>
+        <source file="Dependencies/Drumkits/GoldibopsHotRods.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/GoldibopsHotRods.flac</source>
+        <source file="Dependencies/Drumkits/Goldibops.jpg">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/Goldibops.jpg</source>
+        <source file="Dependencies/Drumkits/GoldibopsHotRods.jpg">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/GoldibopsHotRods.jpg</source>
+        <source file="Dependencies/Drumkits/GoldibopsMap.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/GoldibopsMap.png</source>
+        <source file="Dependencies/Drumkits/GoldibopsGlow.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/GoldibopsGlow.png</source>
+        <source file="Dependencies/Drumkits/Goldibops-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/Goldibops-LICENSE.txt</source>
+      </version>
+    </reapack>
+    <reapack name="Inflator.jsfx" type="effect" desc="Inflator (RCInflator2 port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Inflator.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="IntelligentSpectralCompressor.jsfx" type="effect" desc="Intelligent Spectral Compressor (Spectral Compressor port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/IntelligentSpectralCompressor.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="JamSynth.jsfx" type="effect" desc="JamSynth Subtractive Synth (amsynth port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Two-oscillator subtractive polysynth with LFO, filter, distortion and reverb, ported from amsynth by Nick Dowell https://github.com/amsynth/amsynth (GPLv2+) Reverb: Freeverb by Jezar at Dreampoint (public domain) Bundled presets: the 28 banks shipped with amsynth (Factory, BriansBank01-22, PatriksBank01-05) User bank of 128 slots: STORE the current sound from any bank, INIT, rename; saved with the project and in REAPER presets JSFX version released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/JamSynth.jsfx</source>
+        <source file="Dependencies/JamSynth/JamSynthPresets.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Dependencies/JamSynth/JamSynthPresets.txt</source>
+      </version>
+    </reapack>
+    <reapack name="JamSynthPresets.jsfx" type="effect" desc="JamSynth Presets (amsynth port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Two-oscillator subtractive polysynth with LFO, filter, distortion and reverb, ported from amsynth by Nick Dowell https://github.com/amsynth/amsynth (GPLv2+) Reverb: Freeverb by Jezar at Dreampoint (public domain) Bundled presets: the 28 banks shipped with amsynth (Factory, BriansBank01-22, PatriksBank01-05) JSFX version released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-29T18:31:17Z">
+        <changelog><![CDATA[Presets-only edition of JamSynth: bank and preset browser with scope, meters and keyboard, no sound editor.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/4cd91c25ee5114291f0c1342d44449be5f5b5b87/Plugin%20Ports/JamSynthPresets.jsfx</source>
+        <source file="Dependencies/JamSynthPresets/JamSynthPresets.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/4cd91c25ee5114291f0c1342d44449be5f5b5b87/Plugin%20Ports/Dependencies/JamSynthPresets/JamSynthPresets.txt</source>
+      </version>
+    </reapack>
+    <reapack name="Jexed.jsfx" type="effect" desc="Jexed FM Synth (Dexed port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 DX7-style FM synthesizer, ported from Dexed by Pascal Gauthier https://github.com/asb2m10/dexed (GPLv3) Dexed's synth engine is based on Music Synthesizer for Android by Raph Levien (Google Inc.) https://github.com/google/music-synthesizer-for-android (Apache 2.0) Bundled cartridges: Dexed_01 and SynprezFM_01-32, as shipped with Dexed JSFX version released under GPLv3+ license Claude Opus 5.x may have generated some of the port of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-09-23T16:10:19Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/cb5e16ca9cba0b50baaa117670c288f6ae58c73d/Plugin%20Ports/Jexed.jsfx</source>
+        <source file="Dependencies/JexedCarts.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/cb5e16ca9cba0b50baaa117670c288f6ae58c73d/Plugin%20Ports/Dependencies/JexedCarts.txt</source>
+      </version>
+      <version name="1.0.1" author="chmaha" time="2026-09-24T19:29:48Z">
+        <changelog><![CDATA[The name now shows the original plugin (Dexed), and the GUI credits it.
+Listed in REAPER's Instruments folder.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/e4e7966352dd3ab71b5a7e603c018403fb4ed313/Plugin%20Ports/Jexed.jsfx</source>
+        <source file="Dependencies/JexedCarts.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/e4e7966352dd3ab71b5a7e603c018403fb4ed313/Plugin%20Ports/Dependencies/JexedCarts.txt</source>
+      </version>
+      <version name="1.1.0" author="chmaha" time="2026-10-01T14:27:34Z">
+        <changelog><![CDATA[Full voice editor: every DX7 parameter as an automatable control, with an EDIT page (algorithm diagram, six operators with live envelopes, LFO, pitch envelope, key scaling) next to the PLAY page (voice grid, performance and controller settings).
+Dexed's performance controls: filter cutoff and resonance, mono mode, master tune, pitch-bend range and step, mod wheel / foot / breath / aftertouch routing, operator on/off switches.
+User cartridge of 32 slots: STORE the current voice, INIT VOICE, rename voices; saved with the project and in REAPER presets.
+Edited voices are saved with the project.
+The name now shows the original plugin (Dexed), and the GUI credits it.
+Listed in REAPER's Instruments folder.
+The voice arrows and mouse wheel stay within the current cartridge, wrapping at the ends; choosing another cartridge starts at its first voice.
+The cartridge file moved to its own folder (Dependencies/Jexed).]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/87eade13356930881e20365b33e14f1052722afa/Plugin%20Ports/Jexed.jsfx</source>
+        <source file="Dependencies/Jexed/JexedCarts.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/87eade13356930881e20365b33e14f1052722afa/Plugin%20Ports/Dependencies/Jexed/JexedCarts.txt</source>
+      </version>
+      <version name="1.1.1" author="chmaha" time="2026-10-25T03:16:30Z">
+        <changelog><![CDATA[Larger, easier-to-read text and brighter labels in the GUI.
+The mouse cursor hides while dragging a knob (REAPER 7.83+).
+Changing the project sample rate updates the filter and all voices immediately.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Jexed.jsfx</source>
+        <source file="Dependencies/Jexed/JexedCarts.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Jexed/JexedCarts.txt</source>
+      </version>
+      <version name="1.1.2" author="chmaha" time="2026-10-27T21:04:42Z">
+        <changelog><![CDATA[Larger, easier-to-read text and brighter labels in the GUI.
+The mouse cursor hides while dragging a knob (REAPER 7.83+).
+Changing the project sample rate updates the filter and all voices immediately.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/3f62db6cfecea9271bae6ef23916d495dcba0bcd/Plugin%20Ports/Jexed.jsfx</source>
+        <source file="Dependencies/Jexed/JexedCarts.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/3f62db6cfecea9271bae6ef23916d495dcba0bcd/Plugin%20Ports/Dependencies/Jexed/JexedCarts.txt</source>
+      </version>
+    </reapack>
+    <reapack name="JexedPresets.jsfx" type="effect" desc="Jexed Presets FM Synth (Dexed port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 DX7-style FM synthesizer, ported from Dexed by Pascal Gauthier https://github.com/asb2m10/dexed (GPLv3) Dexed's synth engine is based on Music Synthesizer for Android by Raph Levien (Google Inc.) https://github.com/google/music-synthesizer-for-android (Apache 2.0) Bundled cartridges: Dexed_01 and SynprezFM_01-32, as shipped with Dexed JSFX version released under GPLv3+ license Claude Code generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-29T18:31:17Z">
+        <changelog><![CDATA[Presets-only edition of Jexed: cartridge and program browser, no voice editor.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/4cd91c25ee5114291f0c1342d44449be5f5b5b87/Plugin%20Ports/JexedPresets.jsfx</source>
+        <source file="Dependencies/JexedPresets/JexedCarts.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/4cd91c25ee5114291f0c1342d44449be5f5b5b87/Plugin%20Ports/Dependencies/JexedPresets/JexedCarts.txt</source>
+      </version>
+    </reapack>
+    <reapack name="JuKnow Chorus.jsfx" type="effect" desc="JuKnow Chorus (junologue-chorus port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Juno-style chorus with modes I, I+II and II, tone and mix controls, ported from junologue-chorus by Peter Allwin https://github.com/peterall/junologue-chorus (MIT) JSFX version released under MIT license Claude Opus 5.x may have generated some of the port of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-09-23T16:10:19Z">
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/cb5e16ca9cba0b50baaa117670c288f6ae58c73d/Plugin%20Ports/JuKnow%20Chorus.jsfx</source>
+      </version>
+      <version name="1.0.1" author="chmaha" time="2026-09-24T19:29:48Z">
+        <changelog><![CDATA[The name now shows the original plugin (junologue-chorus), and the GUI credits it.
+Tone changes smoothly (no stepping when automated).]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/e4e7966352dd3ab71b5a7e603c018403fb4ed313/Plugin%20Ports/JuKnow%20Chorus.jsfx</source>
+      </version>
+      <version name="1.0.2" author="chmaha" time="2026-09-26T16:04:55Z">
+        <changelog><![CDATA[The name now shows the original plugin (junologue-chorus), and the GUI credits it.
+Tone changes smoothly (no stepping when automated).
+Resizable GUI: the window scales to fit and stays centred.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/7442341df390fd7dc3dc306c51be2329108a70aa/Plugin%20Ports/JuKnow%20Chorus.jsfx</source>
+      </version>
+      <version name="1.0.3" author="chmaha" time="2026-10-25T03:16:30Z">
+        <changelog><![CDATA[Larger, easier-to-read text in the GUI.
+Mouse wheel adjusts the Tone and Mix faders.
+The GUI sits at the top of the window instead of being centred vertically.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/JuKnow%20Chorus.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="K-Meter.jsfx" type="effect" desc="K-Meter (x42 K-Meter port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/K-Meter.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Kaminari.jsfx" type="effect" desc="Kaminari (SCC Taiko Drums port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Taiko drums: S. Christian Collins' SCC Taiko Drums played through a port of the sfizz SFZ engine. Fifteen drums and hits on key pairs from C2 to A#4 (white key + the black key above it, for easy rolls), with velocity layers and round robins; how long a key is held sets how long the drum rings (hold the sustain pedal for full decays). Click a drum in the list to hear it. Ported from sfizz 1.2.3 (sfizz authors, https://sfz.tools/sfizz, BSD 2-clause). Samples: SCC Taiko Drums 1.0 by S. Christian Collins (https://www.schristiancollins.com), mostly from Subaqueous' Free Taiko Drum Rack (http://subaqueousmusic.com), CC BY-SA 4.0, with a freesound.org sample by whatsanickname4u (CC BY 3.0); joined into one 16-bit FLAC, released under CC BY-SA 4.0 (Dependencies/Kaminari/Kaminari-LICENSE.txt). JSFX code released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="0.1" author="chmaha" time="2026-10-30T02:20:26Z">
+        <changelog><![CDATA[Initial preview.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/d4f809306d7d7157459c9f02a5608d152b699ff6/Plugin%20Ports/Kaminari.jsfx</source>
+        <source file="Dependencies/Kaminari/Kaminari.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/d4f809306d7d7157459c9f02a5608d152b699ff6/Plugin%20Ports/Dependencies/Kaminari/Kaminari.txt</source>
+        <source file="Dependencies/Kaminari/Kaminari.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/d4f809306d7d7157459c9f02a5608d152b699ff6/Plugin%20Ports/Dependencies/Kaminari/Kaminari.flac</source>
+        <source file="Dependencies/Kaminari/Kaminari-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/d4f809306d7d7157459c9f02a5608d152b699ff6/Plugin%20Ports/Dependencies/Kaminari/Kaminari-LICENSE.txt</source>
+      </version>
+    </reapack>
+    <reapack name="Led Head.jsfx" type="effect" desc="Led Head (AVL Drumkits port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Acoustic drum kit based on the AVL Drumkits Red Zeppelin 4-piece, 26 pieces on the GM drum map (notes 36-61), 118 samples with five velocity layers, hi-hat and cymbal chokes, clickable kit photo, stereo or multi-channel (kick, snare, hi-hat, tom, floor tom, overheads, percussion) outputs, ported from avldrums.lv2 by Robin Gareus (fluidsynth sample engine, kit photo and hit map) https://github.com/x42/avldrums.lv2 (GPLv2+) Samples and kit photo: AVL Drumkits (Red Zeppelin) by Glen MacArthur, http://www.bandshed.net/avldrumkits/ Samples as modified for avldrums.lv2, then reduced to 12-bit and joined into one file for this plugin; the sample file remains under CC-BY-SA 3.0 (see Dependencies/Drumkits/LedHead-LICENSE.txt), and music made with it can be licensed freely JSFX code released under GPLv3+ license Claude Opus 5.x may have generated some of the port of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-01T15:25:12Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Led%20Head.jsfx</source>
+        <source file="Dependencies/Drumkits/LedHead.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/LedHead.flac</source>
+        <source file="Dependencies/Drumkits/LedHead.jpg">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/LedHead.jpg</source>
+        <source file="Dependencies/Drumkits/LedHeadMap.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/LedHeadMap.png</source>
+        <source file="Dependencies/Drumkits/LedHeadGlow.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/LedHeadGlow.png</source>
+        <source file="Dependencies/Drumkits/LedHead-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/c4b3f4155f282fc644a2db67b2cb52446f94f89c/Plugin%20Ports/Dependencies/Drumkits/LedHead-LICENSE.txt</source>
+      </version>
+      <version name="1.0.1" author="chmaha" time="2026-10-25T03:16:30Z">
+        <changelog><![CDATA[Larger, easier-to-read text in the GUI.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Led%20Head.jsfx</source>
+        <source file="Dependencies/Drumkits/LedHead.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/LedHead.flac</source>
+        <source file="Dependencies/Drumkits/LedHead.jpg">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/LedHead.jpg</source>
+        <source file="Dependencies/Drumkits/LedHeadMap.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/LedHeadMap.png</source>
+        <source file="Dependencies/Drumkits/LedHeadGlow.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/LedHeadGlow.png</source>
+        <source file="Dependencies/Drumkits/LedHead-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/Drumkits/LedHead-LICENSE.txt</source>
+      </version>
+    </reapack>
+    <reapack name="Limiter.jsfx" type="effect" desc="Limiter (x42-dpl port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Limiter.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="LordOfTheRinks.jsfx" type="effect" desc="Lord of the Rinks Tonewheel Organ (setBfree port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Tonewheel organ with upper and lower manuals, pedals, percussion, vibrato/chorus scanner, overdrive, reverb and a rotary speaker, ported from setBfree by Fredrik Kilander, Robin Gareus, Ken Restivo and Will Panther https://github.com/pantherb/setBfree (GPLv2+) JSFX version released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/LordOfTheRinks.jsfx</source>
+      </version>
+      <version name="1.1" author="chmaha" time="2026-10-29T12:38:53Z">
+        <changelog><![CDATA[Fix drawbar numbering order]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/49f044c7ea19235f5c3af690a01b1fdb06bf6602/Plugin%20Ports/LordOfTheRinks.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="LoudnessMeter.jsfx" type="effect" desc="Loudness Meter (x42 EBU R128 port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/LoudnessMeter.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="LuminaChannelStrip.jsfx" type="effect" desc="Lumina Channel Strip (port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Channel strip: HPF/LPF, gate, analog EQ, compressor, saturation, limiter, true peak metering. DSP ports of the original plugins (not of the standalone versions): HPF/LPF: Ported from x42/fil4.lv2 (Robin Gareus). GPLv2+. https://github.com/x42/fil4.lv2 Gate: Ported from ZamGateX2 (zam-plugins). GPLv2+. https://github.com/zamaudio/zam-plugins Analog EQ: Ported from Luftikus (lkjb). MIT. https://github.com/lkjbdsp/lkjb-plugins/tree/master/Luftikus Compressor: Ported from x42/darc.lv2 (Robin Gareus). GPLv2+. https://github.com/x42/darc.lv2 Saturation: DSP from Airwindows ChannelX by Chris Johnson (MIT License). https://github.com/airwindows/airwindows/tree/master/plugins/LinuxVST/src/ChannelX Limiter & True Peak metering: Ported from x42/dpl.lv2 (Robin Gareus; DSP by Fons Adriaensen). GPLv3+. https://github.com/x42/dpl.lv2 JSFX port by chmaha. GPLv3. Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/LuminaChannelStrip.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="MajorGeneralMIDI.jsfx" type="effect" desc="Major General MIDI (Sonivox EAS port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 General MIDI synthesizer with 16 multitimbral channels, 128 GM instruments and a drum kit, up to 256 voices (default 64), the original reverb and chorus (per-channel CC91/CC93 sends or the whole mix), GM/master-volume SysEx, A4 tuning and 80 historical temperaments (as in Sonata Chamber Organ) on the melodic channels. Ported from the Sonivox EAS wavetable synthesizer (the Android MIDI synth, Sonic Network Inc. and The Android Open Source Project), including its built-in GM sound bank https://github.com/pedrolcl/sonivox (Apache License 2.0) The engine runs at 44.1 kHz with the original integer arithmetic and matches it sample for sample; other host rates are resampled. Original DSP Copyright (c) 2004-2006 Sonic Network Inc. Licensed under the Apache License v2: http://www.apache.org/licenses/LICENSE-2.0 JSFX code released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/MajorGeneralMIDI.jsfx</source>
+        <source file="Dependencies/MajorGeneralMIDI/MajorGeneralMIDI.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Dependencies/MajorGeneralMIDI/MajorGeneralMIDI.flac</source>
+      </version>
+    </reapack>
+    <reapack name="Maximizer.jsfx" type="effect" desc="Maximizer (ZaMaximX2 port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Maximizer.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="MultibandCompressor.jsfx" type="effect" desc="Multiband Compressor (ZaMultiCompX2 port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/MultibandCompressor.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="MultibandCorrelationMeter.jsfx" type="effect" desc="Multiband Correlation Meter (x42 correlation port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/MultibandCorrelationMeter.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="NeedleMeter.jsfx" type="effect" desc="Needle Meter (x42 Needle Meter port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/NeedleMeter.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Oscilloscope.jsfx" type="effect" desc="Oscilloscope (unplugred Scope port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Oscilloscope with XY mode, time and scale controls, hold, sync, grid and colour settings. Click the scope to open or close the settings panel. Ported from unplugred's Scope (https://github.com/unplugred/vsts), AGPLv3+. Image assets by unplugred, CC BY-NC (see Dependencies/Scope/Scope-LICENSE.txt). Claude Sonnet 5.x was involved in the porting of the DSP and GUI JSFX code released under AGPLv3+ license\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-27T21:12:09Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/cf0ed2f6bac7825319f19c26c2fdae41cb363724/Plugin%20Ports/Oscilloscope.jsfx</source>
+        <source file="Dependencies/Scope/base.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/cf0ed2f6bac7825319f19c26c2fdae41cb363724/Plugin%20Ports/Dependencies/Scope/base.png</source>
+        <source file="Dependencies/Scope/noise.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/cf0ed2f6bac7825319f19c26c2fdae41cb363724/Plugin%20Ports/Dependencies/Scope/noise.png</source>
+        <source file="Dependencies/Scope/Scope-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/cf0ed2f6bac7825319f19c26c2fdae41cb363724/Plugin%20Ports/Dependencies/Scope/Scope-LICENSE.txt</source>
+      </version>
+    </reapack>
+    <reapack name="Phase-FrequencyWheel.jsfx" type="effect" desc="Phase/Frequency Wheel (x42 Phase Wheel port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Phase-FrequencyWheel.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="PotatoQuality.jsfx" type="effect" desc="Potato Quality Lo-Fi Degrader (mda port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Sample quality reduction: lower the bit depth and sample rate, add harmonic "thickening", clip the peaks and muffle the result with a steep low-pass filter. Starts clean (24 bits, full rate, no thickening, filter off) so you can dial the damage in. Turn Rate left of centre to hold single samples (gritty, aliased) or right to hold averaged samples (smoother); turn Non-Lin left for even harmonics or right for odd harmonics. Mono sums the input like the original plugin; Stereo degrades each channel on its own. Ported from mda-lv2 by Paul Kellett (Maxim Digital Audio) and David Robillard https://gitlab.com/drobilla/mda-lv2 (GPLv3+) JSFX version released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-11-01T16:23:38Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/4455dddedfa0d9e0fd832d164887ee438280d514/Plugin%20Ports/PotatoQuality.jsfx</source>
+      </version>
+      <version name="1.1" author="chmaha" time="2026-11-02T19:17:40Z">
+        <changelog><![CDATA[The GUI sits at the top of the window instead of being centred vertically.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/9e10e2dce212d5165782952dbc94ca26e9c6f8bb/Plugin%20Ports/PotatoQuality.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="ReelTalk.jsfx" type="effect" desc="Reel Talk Tape Machine (CHOW Tape Model port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 A physically modelled reel-to-reel tape machine. The heart of it is a magnetic hysteresis model of the tape itself (Drive, Saturation and Bias), solved with your choice of Runge-Kutta or Newton-Raphson solvers, a small neural network (STN) or the original v1 sound, and oversampled up to 16x. Around it sit the rest of the machine: input filters, tone, a tape-style compressor, playback head loss (speed, spacing, thickness, gap and azimuth, with the head bump), wow and flutter, degradation noise and "chew" for damaged tape, plus mid/side and stereo balance. Comes with the 94 factory presets. Needs Dependencies/ReelTalk/stn_weights.txt for the STN tape mode. Ported from CHOW Tape Model by Jatin Chowdhury (Chowdhury DSP) https://github.com/jatinchowdhury18/AnalogTapeModel (GPLv3) JSFX version released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-11-03T17:16:47Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/43e1ec6386c5dc445426efd36e7d51059c9d41c1/Plugin%20Ports/ReelTalk.jsfx</source>
+        <source file="Dependencies/ReelTalk/stn_weights.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/43e1ec6386c5dc445426efd36e7d51059c9d41c1/Plugin%20Ports/Dependencies/ReelTalk/stn_weights.txt</source>
+      </version>
+      <version name="1.1" author="chmaha" time="2026-11-03T17:20:51Z">
+        <changelog><![CDATA[The credit line under the title is right-aligned with the line above it.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/8d52fbb51df6bd359efe0c447c41226dcbd01d38/Plugin%20Ports/ReelTalk.jsfx</source>
+        <source file="Dependencies/ReelTalk/stn_weights.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/8d52fbb51df6bd359efe0c447c41226dcbd01d38/Plugin%20Ports/Dependencies/ReelTalk/stn_weights.txt</source>
+      </version>
+    </reapack>
+    <reapack name="Reverb.jsfx" type="effect" desc="Reverb (Zita-Rev1 port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Reverb.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Saturation.jsfx" type="effect" desc="Saturation (Airwindows ChannelX port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Saturation.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="ScoringSynth.jsfx" type="effect" desc="Scoring Synth (Fluidsynth + GeneralUser GS port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 General MIDI and GS workstation playing S. Christian Collins' GeneralUser GS 2.0.3 through a port of FluidSynth: Ported from FluidSynth 2.6.1 (Peter Hanappe and others, https://www.fluidsynth.org, GNU LGPL 2.1): Sound set: GeneralUser GS 2.0.3 by S. Christian Collins (https://www.schristiancollins.com), GeneralUser GS License v2.0 (Dependencies/ScoringSynth/ScoringSynth-LICENSE.txt). JSFX code released under the GNU LGPL 2.1 or later. Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-29T12:48:49Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/308706cca4d32b6352db5ce11d5686929cce697f/Plugin%20Ports/ScoringSynth.jsfx</source>
+        <source file="Dependencies/ScoringSynth/ScoringSynth.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/308706cca4d32b6352db5ce11d5686929cce697f/Plugin%20Ports/Dependencies/ScoringSynth/ScoringSynth.txt</source>
+        <source file="Dependencies/ScoringSynth/ScoringSynth.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/308706cca4d32b6352db5ce11d5686929cce697f/Plugin%20Ports/Dependencies/ScoringSynth/ScoringSynth.flac</source>
+        <source file="Dependencies/ScoringSynth/ScoringSynth-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/308706cca4d32b6352db5ce11d5686929cce697f/Plugin%20Ports/Dependencies/ScoringSynth/ScoringSynth-LICENSE.txt</source>
+      </version>
+      <version name="1.1" author="chmaha" time="2026-10-31T19:25:48Z">
+        <changelog><![CDATA[Fix a possible freeze (no sound, unresponsive GUI) when a looped sample wrapped many times in one block]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/6d5fec4a55aa4368d1618a1a79188580d80b5191/Plugin%20Ports/ScoringSynth.jsfx</source>
+        <source file="Dependencies/ScoringSynth/ScoringSynth.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/6d5fec4a55aa4368d1618a1a79188580d80b5191/Plugin%20Ports/Dependencies/ScoringSynth/ScoringSynth.txt</source>
+        <source file="Dependencies/ScoringSynth/ScoringSynth.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/6d5fec4a55aa4368d1618a1a79188580d80b5191/Plugin%20Ports/Dependencies/ScoringSynth/ScoringSynth.flac</source>
+        <source file="Dependencies/ScoringSynth/ScoringSynth-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/6d5fec4a55aa4368d1618a1a79188580d80b5191/Plugin%20Ports/Dependencies/ScoringSynth/ScoringSynth-LICENSE.txt</source>
+      </version>
+      <version name="1.2" author="chmaha" time="2026-11-01T14:48:43Z">
+        <changelog><![CDATA[Remove old ctrl + wheel fine tuning]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/a715f9f82930f7811b38efd4906c968bbc208961/Plugin%20Ports/ScoringSynth.jsfx</source>
+        <source file="Dependencies/ScoringSynth/ScoringSynth.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/a715f9f82930f7811b38efd4906c968bbc208961/Plugin%20Ports/Dependencies/ScoringSynth/ScoringSynth.txt</source>
+        <source file="Dependencies/ScoringSynth/ScoringSynth.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/a715f9f82930f7811b38efd4906c968bbc208961/Plugin%20Ports/Dependencies/ScoringSynth/ScoringSynth.flac</source>
+        <source file="Dependencies/ScoringSynth/ScoringSynth-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/a715f9f82930f7811b38efd4906c968bbc208961/Plugin%20Ports/Dependencies/ScoringSynth/ScoringSynth-LICENSE.txt</source>
+      </version>
+    </reapack>
+    <reapack name="SightForSoreEars.jsfx" type="effect" desc="Sight for Sore Ears (audio visualizer) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 An audio-reactive visualizer with twenty-five scenes. Plasma: flowing colour fields that keep a steady pace. The louder and busier the music, the more vivid the colours and the finer the pattern breaks up. Stereo width adds a second swirl. Lava Lamp: eight glowing blobs, each one following its own part of the spectrum, from sub-bass to air. Nebula: a feedback tunnel with a spectrum ring and a waveform ring that zooms on kicks and turns with the mids. Kaleidoscope: six mirrored slices of a flowing pattern that zoom on bass and kicks and turn with the mids. Tunnel: a race down a glowing tunnel. Loudness sets the speed and shifts the colour, and the track bends left or right as the music gets brighter or darker. Starfield: a warp-speed flight. Bass and kicks push the throttle and each star glows with its own band. Ridgelines: a scrolling 3D landscape of the spectrum, newest at the front. Aurora: curtains of light over a dark horizon, taller where the spectrum is louder (bass in the middle, treble at the sides). Fireworks: every kick bursts a big shell, in the colour of the loudest band, right on the hit. Snares and hi-hats add small crackles. Without drums, note onsets burst shells sized by their strength. Silk: hundreds of threads drift through a flowing field, each one carried by its own band. Phosphor: a glowing stereo vectorscope (mid up, side across), mirrored three ways into a slowly turning mandala. Stained Glass: sixteen drifting panes of coloured glass, each one lit by its own band. Julia: a morphing Julia-set fractal. The mids steer its shape, bass and kicks zoom in. Cymatics: sand gathers on the nodal lines of a vibrating plate. The dominant pitch picks the mode, so each new note re-forms the pattern, and the louder the music the more the sand dances. Skyline: a city of spectrum bars with lit windows and slowly falling rooftop beacons, reflected in the water. Chroma Wheel: twelve petals, one per pitch class, round the circle of fifths. Chords light up their own shape. Live Score: a full 88-key piano. Every key that sounds releases coloured smoke, which rises, curls into eddies, mixes with its neighbours and thins out as it climbs. Choose the Smoke look (lit from the keys, turning to grey wisps) or the Paint look (glossy colour that never fades) in the settings. Constellations: each note onset lights a star at the height of its pitch, and phrases join up into constellations drifting across the sky. Bloom: a flower of sixteen petal rings, from bass at the centre to treble at the edge, each breathing with its band. Digital Rain: streams of glowing glyphs pour down, bass in the middle and treble at the sides. Louder bands rain faster, longer and brighter, and every hit or note onset sends down fresh streams. Slime: a living slime mould. Thousands of agents lay glowing trails and follow each other into branching veins. Loudness drives them, the mids change how they branch, and hits scatter them. Galaxy: a spiral galaxy seen by a slowly orbiting camera that drifts closer when the music is loud. Stars glow with their bands (bass at the core, treble at the rim) among gas clouds and dust lanes. Note onsets ignite new star-forming knots, kicks send a shockwave out along the arms, and the biggest hits set off a supernova. Synthwave: a striped sun that swells with the bass, spectrum mountains and a neon grid that races on loud music. Plasma Globe: lightning tendrils crackle from the core to the glass, more of them as the music builds. Harmonograph: pendulum line art. The ratio of the swings follows the interval being played, so a fifth draws a different figure from a third. Click the picture to open or close the settings. In Nebula and Starfield, hi-hats and snares throw sparks. Without drums (classical, ambient), note onsets take over the drum reactions, and loudness is judged against the recent level so quiet passages stay alive. Audio passes through untouched. Original design by chmaha JSFX code released under GPLv3 license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-11-03T20:12:59Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/23962f59d641715bc07762f6d35468282fbb99f8/Plugin%20Ports/SightForSoreEars.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="SoundBlasted.jsfx" type="effect" desc="Sound Blasted! (FluidSynth port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 SoundFont (SF2) General MIDI synthesizer with 16 multitimbral channels playing HL4MGM, FluidSynth's reverb engines (FDN, Freeverb, Dattorro) and chorus, per-channel level, pan and Follows layering, A4 tuning and 80 historical temperaments on the melodic channels (as in Major General MIDI), interpolation from none to 25-point sinc, and GM, GM2, GS and XG reset SysEx. Ported from FluidSynth 2.6.1 (Peter Hanappe and others, https://www.fluidsynth.org, GNU LGPL 2.1): sample playback, envelopes, LFOs, resonant filter, SoundFont modulators, voice allocation, MIDI handling, the FDN and Freeverb reverbs and the chorus match FluidSynth sample for sample. Sound set: HL4MGM 0.9.0 RC1 by Stardream Studios (strixSF2, Yingchun Soul), a 4 MB bank for Sound Blaster and AWE cards based on Yingchun Soul's 2MGM (samples from VCSL, FreePats, Iowa MIS, OSDK), Public Domain. JSFX code released under the GNU LGPL 2.1 or later. Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="0.3" author="chmaha" time="2026-10-30T02:17:30Z">
+        <changelog><![CDATA[Initial preview.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/57d7ac09be8f4ad0ba74329a2883f95b2c062a20/Plugin%20Ports/SoundBlasted.jsfx</source>
+        <source file="Dependencies/SoundBlasted/SoundBlasted-HL4MGM.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/57d7ac09be8f4ad0ba74329a2883f95b2c062a20/Plugin%20Ports/Dependencies/SoundBlasted/SoundBlasted-HL4MGM.txt</source>
+        <source file="Dependencies/SoundBlasted/SoundBlasted-HL4MGM.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/57d7ac09be8f4ad0ba74329a2883f95b2c062a20/Plugin%20Ports/Dependencies/SoundBlasted/SoundBlasted-HL4MGM.flac</source>
+      </version>
+      <version name="1.1" author="chmaha" time="2026-10-31T19:25:48Z">
+        <changelog><![CDATA[Fix a possible freeze (no sound, unresponsive GUI) when a looped sample wrapped many times in one block]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/6d5fec4a55aa4368d1618a1a79188580d80b5191/Plugin%20Ports/SoundBlasted.jsfx</source>
+        <source file="Dependencies/SoundBlasted/SoundBlasted-HL4MGM.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/6d5fec4a55aa4368d1618a1a79188580d80b5191/Plugin%20Ports/Dependencies/SoundBlasted/SoundBlasted-HL4MGM.txt</source>
+        <source file="Dependencies/SoundBlasted/SoundBlasted-HL4MGM.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/6d5fec4a55aa4368d1618a1a79188580d80b5191/Plugin%20Ports/Dependencies/SoundBlasted/SoundBlasted-HL4MGM.flac</source>
+      </version>
+      <version name="1.2" author="chmaha" time="2026-11-01T14:48:43Z">
+        <changelog><![CDATA[Remove old ctrl + wheel fine tuning]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/a715f9f82930f7811b38efd4906c968bbc208961/Plugin%20Ports/SoundBlasted.jsfx</source>
+        <source file="Dependencies/SoundBlasted/SoundBlasted-HL4MGM.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/a715f9f82930f7811b38efd4906c968bbc208961/Plugin%20Ports/Dependencies/SoundBlasted/SoundBlasted-HL4MGM.txt</source>
+        <source file="Dependencies/SoundBlasted/SoundBlasted-HL4MGM.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/a715f9f82930f7811b38efd4906c968bbc208961/Plugin%20Ports/Dependencies/SoundBlasted/SoundBlasted-HL4MGM.flac</source>
+      </version>
+    </reapack>
+    <reapack name="SpaghettiJunction.jsfx" type="effect" desc="Spaghetti Junction MIDI Filters (x42 midifilter port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Spaghetti Junction MIDI Filters: a modular rack for the 34 x42 MIDI filters. Insert up to eight filters as blocks and patch them with cables from MIDI IN to MIDI OUT. An output can feed several inputs (parallel branches) and an input merges every cable plugged into it, so serial chains, key splits and layers are all possible. Right-click the canvas (or use ADD FILTER) to insert a filter after the selected block, or at the end of the chain when nothing is selected (hold Shift to insert it unpatched). Drag between an output jack and an input jack, in either direction, to add a cable; pull a cable well away from its path and release to unplug it. Right-click cables, jacks or blocks to disconnect, bypass, remove or reset. Delete removes the selected block. CABLE SLACK sets how loosely the cables hang. Notes still sounding are released whenever the patch changes. Requires REAPER 7 or later (more than 64 sliders). Ported from x42 midifilter.lv2 by Robin Gareus and contributors https://github.com/x42/midifilter.lv2 (GPLv2+) JSFX version released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-30T18:17:56Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ba836596b3b6428b318ce4f8ca9d554d89090732/Plugin%20Ports/SpaghettiJunction.jsfx</source>
+      </version>
+      <version name="1.1" author="chmaha" time="2026-10-30T21:19:29Z">
+        <changelog><![CDATA[Fix knob snapping back.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/e287869f449cc2b7b68714e255fc8de58bbd6344/Plugin%20Ports/SpaghettiJunction.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="SpectrumAnalyzer.jsfx" type="effect" desc="Spectrum Analyzer (x42 Spectra port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/SpectrumAnalyzer.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Stereo-FrequencyScope.jsfx" type="effect" desc="Stereo/Frequency Scope (x42 Stereo Scope port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Stereo-FrequencyScope.jsfx</source>
+      </version>
+      <version name="1.1" author="chmaha" time="2026-10-29T13:21:21Z">
+        <changelog><![CDATA[Fix graph when resizing]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/16d66aecd9bbd7bf21c06c7294e800bdc77fe1c0/Plugin%20Ports/Stereo-FrequencyScope.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="StereoPhaseScope.jsfx" type="effect" desc="Stereo Phase Scope (x42 Goniometer port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/StereoPhaseScope.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="SuperColor.jsfx" type="effect" desc="Super Color (unplugred MPaint port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 A sampler from a popular video game: fifteen sounds (mario, mushroom, yoshi, star, flower, gameboy, dog, cat, pig, duck, face, plane, ship, car, heart) playable from B3 to G5 (MIDI notes 59-79). Click an icon to pick a sound (the icons are laid out in a grid that fills the window); the LIMIT VOICES switch toggles voice limiting (on: the original's monophonic/three-voice note handling). The on-screen keyboard covers the playable range: click or drag across it to play the current sound. Ported from unplugred's MPaint (https://github.com/unplugred/vsts), AGPLv3+. Samples and images by unplugred, CC BY-NC (see Dependencies/SuperColor/SuperColor-LICENSE.txt); samples joined into one stereo FLAC at 12-bit. Claude Sonnet 5.x was involved in the porting of the DSP and GUI JSFX code released under AGPLv3+ license\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-27T21:03:25Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/b91b5edd83abdd2a86f8d3cf475d8adcc239304f/Plugin%20Ports/SuperColor.jsfx</source>
+        <source file="Dependencies/SuperColor/SuperColor.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/b91b5edd83abdd2a86f8d3cf475d8adcc239304f/Plugin%20Ports/Dependencies/SuperColor/SuperColor.flac</source>
+        <source file="Dependencies/SuperColor/SuperColorIcons.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/b91b5edd83abdd2a86f8d3cf475d8adcc239304f/Plugin%20Ports/Dependencies/SuperColor/SuperColorIcons.png</source>
+        <source file="Dependencies/SuperColor/SuperColorError.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/b91b5edd83abdd2a86f8d3cf475d8adcc239304f/Plugin%20Ports/Dependencies/SuperColor/SuperColorError.png</source>
+        <source file="Dependencies/SuperColor/SuperColor-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/b91b5edd83abdd2a86f8d3cf475d8adcc239304f/Plugin%20Ports/Dependencies/SuperColor/SuperColor-LICENSE.txt</source>
+      </version>
+      <version name="1.1" author="chmaha" time="2026-10-29T13:38:10Z">
+        <changelog><![CDATA[Update base64 hand cursor]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/b73f2e25a455c5d7c1f1eb960a623731452f3181/Plugin%20Ports/SuperColor.jsfx</source>
+        <source file="Dependencies/SuperColor/SuperColor.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/b73f2e25a455c5d7c1f1eb960a623731452f3181/Plugin%20Ports/Dependencies/SuperColor/SuperColor.flac</source>
+        <source file="Dependencies/SuperColor/SuperColorIcons.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/b73f2e25a455c5d7c1f1eb960a623731452f3181/Plugin%20Ports/Dependencies/SuperColor/SuperColorIcons.png</source>
+        <source file="Dependencies/SuperColor/SuperColorError.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/b73f2e25a455c5d7c1f1eb960a623731452f3181/Plugin%20Ports/Dependencies/SuperColor/SuperColorError.png</source>
+        <source file="Dependencies/SuperColor/SuperColor-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/b73f2e25a455c5d7c1f1eb960a623731452f3181/Plugin%20Ports/Dependencies/SuperColor/SuperColor-LICENSE.txt</source>
+      </version>
+    </reapack>
+    <reapack name="SynthyMcSynthface.jsfx" type="effect" desc="Synthy McSynthface Piano/EPiano/FM Synth (mda port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Four instruments in one: ePiano, JX10 (analog-style synth), DX10 (two-operator FM) and Piano, ported from mda-lv2 by Paul Kellett (Maxim Digital Audio) and David Robillard https://gitlab.com/drobilla/mda-lv2 (GPLv3+) JSFX version released under GPLv3+ license Claude Opus 5.x may have generated some of the port of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-09-23T16:10:19Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/cb5e16ca9cba0b50baaa117670c288f6ae58c73d/Plugin%20Ports/SynthyMcSynthface.jsfx</source>
+        <source file="Dependencies/SynthyMcSynthfacePiano.wav">https://github.com/chmaha/DSP-Ports-JSFX/raw/cb5e16ca9cba0b50baaa117670c288f6ae58c73d/Plugin%20Ports/Dependencies/SynthyMcSynthfacePiano.wav</source>
+        <source file="Dependencies/SynthyMcSynthfaceEPiano.wav">https://github.com/chmaha/DSP-Ports-JSFX/raw/cb5e16ca9cba0b50baaa117670c288f6ae58c73d/Plugin%20Ports/Dependencies/SynthyMcSynthfaceEPiano.wav</source>
+      </version>
+      <version name="1.0.1" author="chmaha" time="2026-09-24T00:38:22Z">
+        <changelog><![CDATA[Samples stored as 12-bit FLAC (a quarter of the download size).]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/23c1aed4132f6b699caa0a40f7768dcdc14609d9/Plugin%20Ports/SynthyMcSynthface.jsfx</source>
+        <source file="Dependencies/SynthyMcSynthfacePiano.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/23c1aed4132f6b699caa0a40f7768dcdc14609d9/Plugin%20Ports/Dependencies/SynthyMcSynthfacePiano.flac</source>
+        <source file="Dependencies/SynthyMcSynthfaceEPiano.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/23c1aed4132f6b699caa0a40f7768dcdc14609d9/Plugin%20Ports/Dependencies/SynthyMcSynthfaceEPiano.flac</source>
+      </version>
+      <version name="1.0.2" author="chmaha" time="2026-09-24T20:00:11Z">
+        <changelog><![CDATA[Samples stored as 12-bit FLAC (a quarter of the download size).
+The name now shows the original plugins (mda), and the GUI credits them.
+Listed in REAPER's Instruments folder.
+Smaller plugin file: program data stored with mem_set_values, and the automation code generated by the EEL2 preprocessor (no change in sound).]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/e3eb46b151f32688da696411399f772bf4a91bf9/Plugin%20Ports/SynthyMcSynthface.jsfx</source>
+        <source file="Dependencies/SynthyMcSynthfacePiano.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/e3eb46b151f32688da696411399f772bf4a91bf9/Plugin%20Ports/Dependencies/SynthyMcSynthfacePiano.flac</source>
+        <source file="Dependencies/SynthyMcSynthfaceEPiano.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/e3eb46b151f32688da696411399f772bf4a91bf9/Plugin%20Ports/Dependencies/SynthyMcSynthfaceEPiano.flac</source>
+      </version>
+      <version name="1.0.3" author="chmaha" time="2026-09-26T16:04:55Z">
+        <changelog><![CDATA[Samples stored as 12-bit FLAC (a quarter of the download size).
+The name now shows the original plugins (mda), and the GUI credits them.
+Listed in REAPER's Instruments folder.
+Smaller plugin file: program data stored with mem_set_values, and the automation code generated by the EEL2 preprocessor (no change in sound).
+Resizable GUI: the window scales to fit and stays centred.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/7442341df390fd7dc3dc306c51be2329108a70aa/Plugin%20Ports/SynthyMcSynthface.jsfx</source>
+        <source file="Dependencies/SynthyMcSynthfacePiano.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/7442341df390fd7dc3dc306c51be2329108a70aa/Plugin%20Ports/Dependencies/SynthyMcSynthfacePiano.flac</source>
+        <source file="Dependencies/SynthyMcSynthfaceEPiano.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/7442341df390fd7dc3dc306c51be2329108a70aa/Plugin%20Ports/Dependencies/SynthyMcSynthfaceEPiano.flac</source>
+      </version>
+      <version name="1.0.4" author="chmaha" time="2026-10-01T14:29:56Z">
+        <changelog><![CDATA[Sample files moved to their own folder (Dependencies/SynthyMcSynthface).]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/2d2e5a5dec28aae7251f4154bae146f71b6185ab/Plugin%20Ports/SynthyMcSynthface.jsfx</source>
+        <source file="Dependencies/SynthyMcSynthface/SynthyMcSynthfacePiano.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/2d2e5a5dec28aae7251f4154bae146f71b6185ab/Plugin%20Ports/Dependencies/SynthyMcSynthface/SynthyMcSynthfacePiano.flac</source>
+        <source file="Dependencies/SynthyMcSynthface/SynthyMcSynthfaceEPiano.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/2d2e5a5dec28aae7251f4154bae146f71b6185ab/Plugin%20Ports/Dependencies/SynthyMcSynthface/SynthyMcSynthfaceEPiano.flac</source>
+      </version>
+      <version name="1.0.5" author="chmaha" time="2026-10-25T03:16:30Z">
+        <changelog><![CDATA[Larger, easier-to-read text in the GUI.
+The mouse cursor hides while dragging a control (REAPER 7.83+).]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/SynthyMcSynthface.jsfx</source>
+        <source file="Dependencies/SynthyMcSynthface/SynthyMcSynthfacePiano.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/SynthyMcSynthface/SynthyMcSynthfacePiano.flac</source>
+        <source file="Dependencies/SynthyMcSynthface/SynthyMcSynthfaceEPiano.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/ebc4595dc7daa70c6ed598c4ecae430c93d0a7a6/Plugin%20Ports/Dependencies/SynthyMcSynthface/SynthyMcSynthfaceEPiano.flac</source>
+      </version>
+    </reapack>
+    <reapack name="TestSignalGenerator.jsfx" type="effect" desc="Test Signal Generator (x42 Test Signal port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/TestSignalGenerator.jsfx</source>
+      </version>
+      <version name="1.1" author="chmaha" time="2026-10-29T15:48:26Z">
+        <changelog><![CDATA[Fix band limiting, volume reduction on samplerate increase etc]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/1e041141a26ac4d44b3bb9875d112b01d682fca1/Plugin%20Ports/TestSignalGenerator.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="TolerableTines.jsfx" type="effect" desc="Tolerable Tines Electric Piano (ACE Reasonable Synth port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Simple piano-like synth with minimal controls, playable from an 88-key on-screen keyboard or the computer keyboard, with a MIDI channel filter. The Tolerable sound (the first screen) is ported from Ardour's ACE Reasonable Synth by Robin Gareus https://github.com/Ardour/ardour/tree/master/libs/plugins/reasonablesynth.lv2 (GPLv2+) Everything else is original to this plugin by chmaha: the mystery sound that changes a little every day, the six keyboard games and the December lights (click them to play the Jingle Bells chorus, click again to stop). JSFX version released under GPLv3+ license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/TolerableTines.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="TruePeak.jsfx" type="effect" desc="True Peak (x42-dpl port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/TruePeak.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Tuner.jsfx" type="effect" desc="Tuner (x42 Tuna port) by chmaha">
+      <version name="1.0" author="chmaha" time="2026-10-28T13:11:03Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/ddd1710a6b61f70c713cf38e1d59c67e99bee28b/Plugin%20Ports/Tuner.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="VUMeter.jsfx" type="effect" desc="VU Meter (unplugred VU port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 VU meter with adjustable nominal level, rise and decay speed, and mono or stereo display. Click the meter to open or close the settings panel. Ported from unplugred's VU (https://github.com/unplugred/vsts), AGPLv3+. Image asset by unplugred, CC BY-NC (see Dependencies/VU/VU-LICENSE.txt). Claude Sonnet 5.x was involved in the porting of the DSP and GUI JSFX code released under AGPLv3+ license\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-10-27T21:12:09Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/cf0ed2f6bac7825319f19c26c2fdae41cb363724/Plugin%20Ports/VUMeter.jsfx</source>
+        <source file="Dependencies/VU/map.png">https://github.com/chmaha/DSP-Ports-JSFX/raw/cf0ed2f6bac7825319f19c26c2fdae41cb363724/Plugin%20Ports/Dependencies/VU/map.png</source>
+        <source file="Dependencies/VU/VU-LICENSE.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/cf0ed2f6bac7825319f19c26c2fdae41cb363724/Plugin%20Ports/Dependencies/VU/VU-LICENSE.txt</source>
+      </version>
+    </reapack>
+    <reapack name="WaxLyrical.jsfx" type="effect" desc="Wax Lyrical Vinyl Simulator (Calf Vinyl port) by chmaha">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Makes any audio sound like it is playing from an old record. Drone: a slow, off-centre wobble in pitch that turns once per revolution of the record at the chosen Speed (33, 45 or 78 rpm, or anything in between). Aging: narrows the frequency range around the Frequency setting, the way old, worn records lose their lows and highs and gain a honky middle. Seven noise layers, each with its own on/off switch, level and pitch: Hum, Motor, Static, Noise, Rumble, Crackle and Crinkle. Bypass crossfades over 1024 samples, then passes the audio through untouched. Ported from Calf Vinyl by Markus Schmidt (Calf Studio Gear, https://calf-studio-gear.org), GNU LGPL 2.1. The noise layers play through a port of FluidSynth 2.6.1 (Peter Hanappe and others, GNU LGPL 2.1), exactly as Calf does. JSFX version released under GPLv3 license Claude generated some of this code\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="chmaha" time="2026-11-05T02:25:16Z">
+        <changelog><![CDATA[Initial release.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/b0cfe0047370fa8dc1c37ab6cff70bcc7bb07be9/Plugin%20Ports/WaxLyrical.jsfx</source>
+        <source file="Dependencies/WaxLyrical/WaxLyrical.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/b0cfe0047370fa8dc1c37ab6cff70bcc7bb07be9/Plugin%20Ports/Dependencies/WaxLyrical/WaxLyrical.txt</source>
+        <source file="Dependencies/WaxLyrical/WaxLyrical.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/b0cfe0047370fa8dc1c37ab6cff70bcc7bb07be9/Plugin%20Ports/Dependencies/WaxLyrical/WaxLyrical.flac</source>
+      </version>
+      <version name="1.1" author="chmaha" time="2026-11-05T02:30:08Z">
+        <changelog><![CDATA[Tighter layout: removed the empty space below the noise layer knobs.]]></changelog>
+        <source>https://github.com/chmaha/DSP-Ports-JSFX/raw/c05e7b731ca6054b70cd1ee27fcd04c4cc97c4b9/Plugin%20Ports/WaxLyrical.jsfx</source>
+        <source file="Dependencies/WaxLyrical/WaxLyrical.txt">https://github.com/chmaha/DSP-Ports-JSFX/raw/c05e7b731ca6054b70cd1ee27fcd04c4cc97c4b9/Plugin%20Ports/Dependencies/WaxLyrical/WaxLyrical.txt</source>
+        <source file="Dependencies/WaxLyrical/WaxLyrical.flac">https://github.com/chmaha/DSP-Ports-JSFX/raw/c05e7b731ca6054b70cd1ee27fcd04c4cc97c4b9/Plugin%20Ports/Dependencies/WaxLyrical/WaxLyrical.flac</source>
+      </version>
+    </reapack>
+  </category>
+</index>

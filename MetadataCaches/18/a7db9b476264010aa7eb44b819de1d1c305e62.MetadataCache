@@ -1,0 +1,37 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/Drake - Started From The Bottom"
+F "808 (B).wav" 1881836 0 1686936674 0
+D t 808 p 135 s 44100 n 2
+D l 0:05.333 i 32
+F Bass.wav 978336 0 1686936636 0
+D c "Recorded on 6/16/2023 in Edison." s 44100 n 2 l 0:02.772
+D i 32
+F "FX 1.wav" 1199548 0 1296999914 0
+D s 44100 n 2 l 0:03.400 i 32
+F "FX 2.wav" 110676 0 1336100622 0
+D s 44100 n 2 l 0:00.626 i 16
+F "FX 3.wav" 110404 0 1296672512 0
+D s 44100 n 2 l 0:00.312 i 32
+F Hat.wav 165566 0 1344888210 0
+D t "Hat 5" s 44100 n 2 l 0:00.938
+D i 16
+F "Kick 1.wav" 67950 0 1301428908 0
+D s 44100 n 2 l 0:00.256 i 24
+F "Kick 2.wav" 355740 0 1350692816 0
+D s 44100 n 2 l 0:01.008 i 32
+F "Kick 3.wav" 26346 0 1357660194 0
+D s 44100 n 2 l 0:00.099 i 24
+F "Open Hat 1.wav" 63496 0 1353094264 0
+D y 2012-11-16 s 44100 n 2 r 1:00:00.000
+D l 0:00.237 i 24
+F "Open Hat 2.wav" 157960 0 1290136148 0
+D s 44100 n 2 l 0:00.596 i 24
+F "Open Hat 3.wav" 606596 0 1306438552 0
+D c "Modified by FL Studio 9" s 44100 n 2 l 0:01.719
+D i 32
+F Perc.wav 99126 0 1254371642 0
+D c "Recorded on 9/30/2009 in Edison." s 44100 n 2 l 0:00.280
+D i 32
+F "Snare 1.wav" 228120 0 1350692164 0
+D s 44100 n 2 l 0:00.646 i 32
+F "Snare 2.wav" 23288 0 1350689780 0
+D s 44100 n 2 l 0:00.065 i 32

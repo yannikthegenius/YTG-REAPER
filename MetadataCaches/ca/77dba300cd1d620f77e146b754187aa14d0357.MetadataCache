@@ -1,0 +1,52 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/Ariana Grande - breathin"
+F "808 (F2).wav" 210892 0 1717371772 0
+D s 44100 n 2 l 0:00.597 i 32
+F "Bass 1 (F2).wav" 440084 0 1717371798 0
+D s 44100 n 2 l 0:01.246 i 32
+F "Bass 2 (D#3).wav" 293012 0 1717371824 0
+D s 44100 n 2 l 0:00.829 i 32
+F Crash.wav 1811568 0 1717371696 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:05.134
+D i 32
+F "Drum Loop 100.wav" 3387184 0 1717371976 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:09.600
+D i 32
+F "FX 1.wav" 4538880 0 1717371854 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:12.865
+D i 32
+F "FX 2.wav" 4385632 0 1717371912 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:12.430
+D i 32
+F Hat.wav 210864 0 1717371864 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.597
+D i 32
+F Kick.wav 387760 0 1717371860 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:01.098
+D i 32
+F "Perc 1.wav" 259992 0 1717371918 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.736
+D i 32
+F "Perc 2.wav" 863048 0 1717371894 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:02.446
+D i 32
+F "Perc 3.wav" 208720 0 1717371906 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.591
+D i 32
+F "Perc 4.wav" 101352 0 1717371922 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.287
+D i 32
+F "Perc Loop 1 100.wav" 1695920 0 1717371934 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:09.612
+D i 16
+F "Perc Loop 2 100.wav" 3387040 0 1717371956 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:09.600
+D i 32
+F "Perc Loop 3 100.wav" 3388000 0 1717371966 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:09.602
+D i 32
+F "Perc Loop 4 100.wav" 1698124 0 1717372034 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:09.625
+D i 16
+F Rim.wav 419648 0 1717371900 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:01.189
+D i 32

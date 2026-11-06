@@ -1,0 +1,22 @@
+C10018 "/home/yannik/Desktop/HOFA Campus/Level 3/3. Mixing III/Klangbeispiele/Sound Examples When It Rains/9_Leadvocals"
+F "Leadvocals_mit DeEssing.wav" 3048062 0 1659601006 0
+D y 2022-08-03 s 44100 n 2 r 1:00:21.166
+D l 0:11.500 i 24
+F "Leadvocals_mit Delayinsert.wav" 3048062 0 1659601006 0
+D y 2022-08-03 s 44100 n 2 r 1:00:21.166
+D l 0:11.500 i 24
+F "Leadvocals_mit Delaysend.wav" 3048062 0 1659601006 0
+D y 2022-08-03 s 44100 n 2 r 1:00:21.166
+D l 0:11.500 i 24
+F "Leadvocals_mit Frequenzbearbeitung.wav" 3048064 0 1659601005 0
+D y 2022-08-03 s 44100 n 2 r 1:00:21.166
+D l 0:11.500 i 24
+F "Leadvocals_mit Kompression.wav" 3048062 0 1659601006 0
+D y 2022-08-03 s 44100 n 2 r 1:00:21.166
+D l 0:11.500 i 24
+F "Leadvocals_mit Reverb.wav" 3048062 0 1659601006 0
+D y 2022-08-03 s 44100 n 2 r 1:00:21.166
+D l 0:11.500 i 24
+F Leadvocals_unbearbeitet.wav 3048064 0 1659601005 0
+D y 2022-08-03 s 44100 n 2 r 1:00:21.166
+D l 0:11.500 i 24

@@ -1,0 +1,181 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/Mac Miller, Anderson .Paak - Dang!"
+F "Clap 1.wav" 30446 0 1717814054 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.342
+D i 16
+F "Clap 2.wav" 53198 0 1717814064 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.600
+D i 16
+F "Clap 3.wav" 203880 0 1717814072 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.577
+D i 32
+F "Clap 4.wav" 379384 0 1717814082 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:01.075
+D i 32
+F "Clap 5.wav" 381712 0 1717814098 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:01.081
+D i 32
+F "Clap 6.wav" 155912 0 1717814648 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.441
+D i 32
+F Cymbal.wav 1622712 0 1717814408 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:04.599
+D i 32
+F "FX 1.wav" 332904 0 1717814552 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:00.866
+D i 32
+F "FX 10.wav" 1189496 0 1717815078 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:03.371
+D i 32
+F "FX 2.wav" 3654992 0 1717814638 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:10.359
+D i 32
+F "FX 3.wav" 1666528 0 1717815018 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:04.723
+D i 32
+F "FX 4.wav" 1338880 0 1717815026 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:03.794
+D i 32
+F "FX 5.wav" 1517720 0 1717815034 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:04.301
+D i 32
+F "FX 6.wav" 1413656 0 1717815044 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:04.006
+D i 32
+F "FX 7.wav" 1063016 0 1717815052 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:03.012
+D i 32
+F "FX 8.wav" 1465152 0 1717815062 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:04.152
+D i 32
+F "FX 9.wav" 2120144 0 1717815068 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:06.009
+D i 32
+F "Hat 1.wav" 205328 0 1717814126 0
+D c "Modified by FL Studio 21" p 103.2263 s 44100 n 2
+D l 0:00.581 i 32
+F "Hat 2.wav" 1279920 0 1717814134 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:03.627
+D i 32
+F "Hat 3.wav" 248320 0 1717814142 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.703
+D i 32
+F "Hat 4.wav" 54952 0 1717814154 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.155
+D i 32
+F "Hat 5.wav" 58864 0 1717814162 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.166
+D i 32
+F "Hat 6.wav" 82424 0 1717814168 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.233
+D i 32
+F "Hat 7.wav" 267688 0 1717814572 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.758
+D i 32
+F "Kick 1.wav" 83512 0 1717814016 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.236
+D i 32
+F "Kick 2.wav" 68872 0 1717814200 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.194
+D i 32
+F "Kick 3.wav" 76592 0 1717814226 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.433
+D i 32
+F "Kick 4.wav" 1536264 0 1717814242 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:04.000
+D i 32
+F "Kick 5.wav" 72360 0 1717814366 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.409
+D i 16
+F "Kick 6.wav" 40976 0 1717814658 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.115
+D i 32
+F "Open Hat 1.wav" 119432 0 1717814250 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.676
+D i 32
+F "Open Hat 2.wav" 77976 0 1717814260 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.441
+D i 16
+F "Open Hat 3.wav" 1314128 0 1717814274 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:03.724
+D i 32
+F "Perc 1.wav" 264864 0 1717814034 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.750
+D i 32
+F "Perc 10.wav" 47988 0 1717814376 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.271
+D i 16
+F "Perc 11.wav" 182184 0 1717814382 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.516
+D i 32
+F "Perc 12.wav" 1429520 0 1717814390 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:04.051
+D i 32
+F "Perc 13.wav" 176664 0 1717814400 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.500
+D i 32
+F "Perc 14.wav" 51396 0 1717814502 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.290
+D i 16
+F "Perc 15.wav" 30440 0 1717814514 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.171
+D i 16
+F "Perc 16.wav" 32862 0 1717814582 0
+D t XF_PercGlas32 c "order this CD at http://www.deadmau5.com" s 44100 n 1
+D l 0:00.369 i 16
+F "Perc 17.wav" 29610 0 1717814590 0
+D t XF_PercGlas29 c "order this CD at http://www.deadmau5.com" s 44100 n 1
+D l 0:00.332 i 16
+F "Perc 18.wav" 30774 0 1717814614 0
+D t XF_PercGlas27 c "order this CD at http://www.deadmau5.com" s 44100 n 1
+D l 0:00.346 i 16
+F "Perc 19.wav" 30026 0 1717814626 0
+D t XF_PercGlas28 c "order this CD at http://www.deadmau5.com" s 44100 n 1
+D l 0:00.337 i 16
+F "Perc 2.wav" 29348 0 1717814108 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.328
+D i 16
+F "Perc 3.wav" 37712 0 1717814284 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.212
+D i 16
+F "Perc 4.wav" 103484 0 1717814296 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.585
+D i 16
+F "Perc 5.wav" 317784 0 1717814304 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.900
+D i 32
+F "Perc 6.wav" 1227400 0 1717814314 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:03.478
+D i 32
+F "Perc 7.wav" 41796 0 1717814328 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.236
+D i 16
+F "Perc 8.wav" 70592 0 1717814340 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.399
+D i 16
+F "Perc 9.wav" 52428 0 1717814352 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.296
+D i 16
+F "Perc Loop 1 100.wav" 1693704 0 1717813980 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:04.800
+D i 32
+F "Perc Loop 2 100.wav" 106092 0 1717814188 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:01.200
+D i 16
+F "Snare 1.wav" 24510 0 1717814114 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.273
+D i 16
+F "Snare 2.wav" 124452 0 1717814422 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.704
+D i 16
+F "Snare 3.wav" 32276 0 1717814434 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.182
+D i 16
+F "Snare 4.wav" 52668 0 1717814472 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.594
+D i 16
+F "Snare 5.wav" 18006 0 1717814482 0
+D c "Modified by FL Studio 21" s 44100 n 1 l 0:00.201
+D i 16
+F "Snare 6.wav" 27504 0 1717814492 0
+D t Blaxploitation c www.emusic.com/albums/25459/ s 44100 n 2
+D l 0:00.154 i 16

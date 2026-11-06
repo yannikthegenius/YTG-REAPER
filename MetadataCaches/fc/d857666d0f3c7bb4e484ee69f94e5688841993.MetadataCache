@@ -1,0 +1,11 @@
+C10018 "/home/yannik/Desktop/HOFA Campus/Level 3/3. Mixing III/Halleinsatz im Mix Instrumente"
+F "Dry Synth.wav" 4233680 0 1636095720 0
+D s 44100 n 2 l 0:16.000 i 24
+F "Guitar Dub.wav" 846800 0 1636095720 0
+D s 44100 n 1 l 0:06.400 i 24
+F Guitar.wav 846800 0 1636095720 0
+D s 44100 n 1 l 0:06.400 i 24
+F "String Line.wav" 8304452 0 1636095720 0
+D s 44100 n 2 l 0:31.384 i 24
+F "Synth low.wav" 4233680 0 1655192978 0
+D s 44100 n 2 l 0:16.000 i 24

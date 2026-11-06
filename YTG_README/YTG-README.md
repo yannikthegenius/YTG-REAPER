@@ -1,0 +1,162 @@
+# YTG-REAPER
+
+> [!NOTE]
+Meine Configs für [REAPER](https://reaper.fm) based on [Reapertips Theme](https://forum.cockos.com/showthread.php?t=281644).
+
+<img width="1915" height="930" alt="Screenshot_2026-09-15_15-16-42" src="https://github.com/user-attachments/assets/88ff81a5-b123-4caf-87e4-997bbffe144c" />
+
+
+---
+
+####  👌 REAPER hätte sicherlich Millionen mehr User, wenn es by default einfach nur besser aussehen würde.
+Durch meine Configs wird die User Experience innerhalb von einer Sekunde signifikant verbessert, indem ihr einfach nur die Files von dieser Repo in euren REAPER Config-Ordner kopiert. 
+
+---
+
+## 🎧 Notable Changes
+Viele nützliche REAPER-Scripts für eine bessere User Experience:
+
+  - Press C for [Color Picker](https://forum.cockos.com/showthread.php?t=281516).
+<img width="1116" height="607" alt="Screenshot_2026-09-11_19-29-38" src="https://github.com/user-attachments/assets/93b67132-dc3a-47ce-93fb-4f68592a9099" />
+
+
+  - Press I for [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
+<img width="1150" height="722" alt="Screenshot_2026-09-11_19-30-31" src="https://github.com/user-attachments/assets/09662a6f-dbd4-401d-8982-dfd122d5cbad" />
+
+
+ - Press CTRL+SHIFT+B for [Step Sequencer](https://forum.cockos.com/showthread.php?t=286577).
+<img width="1812" height="816" alt="Screenshot_2026-09-11_19-33-12" src="https://github.com/user-attachments/assets/58220bc0-5697-4210-b331-4bdb886bc521" />
+
+
+  - REAPER zeigt bei einem verfügbaren Update die [REAPER Update Utility](https://forum.cockos.com/showthread.php?t=242922) beim nächsten Startup an: Man kann einfach REAPER updaten, ohne jemals den Browser öffnen zu müssen.
+<img width="403" height="300" alt="image" src="https://github.com/user-attachments/assets/af603b9f-8ae5-46b6-b218-60c379d8f8e7" />
+
+  - Open Media Explorer with [MX Tuner](https://forum.cockos.com/showthread.php?t=259698) by default (CTRL+ALT+X): Tune selected sample to a key.
+<img width="343" height="830" alt="Screenshot_2026-08-19_20-48-56" src="https://github.com/user-attachments/assets/83889d0c-2229-4e85-be17-aaf6adf23dc3" />
+
+
+  - [Project Timer](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua): Jede .RPP Project File wird immer automatisch die Zeit tracken, sodass man weiß, wie lang man an einem Projekt gearbeitet hat (seriöse Messung durch integrierten AFK-Mode).
+<img width="580" height="108" alt="image" src="https://github.com/user-attachments/assets/c4d2616e-137b-4ed3-a547-3adb78aee792" />
+
+- Show FX Sends + Inserts by default; ähnlich wie Pro Tools.
+<img width="555" height="174" alt="Screenshot_2026-07-28_16-26-02" src="https://github.com/user-attachments/assets/14243189-2e6a-4559-bb88-114fdafca0a9" />
+
+- New track is now blue instead of grey to achieve a more coherent and vibrant look.
+<img width="734" height="199" alt="Screenshot_2026-09-09_20-47-27" src="https://github.com/user-attachments/assets/de127f8c-d1b2-43b8-be91-8514bab42b5f" />
+
+- REAPER startet mit [Project Launcher](https://github.com/Reapertips/ReaScripts/): Man kann seine vorherigen Projekte durchsuchen, direkt wieder öffnen und weiterarbeiten.
+
+- [STEMwerk AI Stem Seperation](https://github.com/flarkflarkflark/STEMwerk-reaper) (local AI).
+
+- [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514): Jedes Signal, was durch den Master läuft, wird by default immer aufgezeichnet und kann per Drag and Drop ganz einfach in das Projekt gezogen werden - als neue WAV File, die unabhängig bearbeitet oder processed werden kann.
+<img width="1920" height="437" alt="image" src="https://github.com/user-attachments/assets/f43fab6e-46af-4fda-b4d4-ca95ab08e842" />
+
+- [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html): Visuelle Darstellung des Routings im [TCP](https://reaper.blog/2012/10/reaper-101-the-track-control-panel/).
+<img width="785" height="298" alt="image" src="https://github.com/user-attachments/assets/11e4b2ae-9177-43a7-99ad-a1b74c6b5649" />
+
+- Mehrere sinnvolle Toolbars mit nützlichen Funktionen: Sinnvoll angeordnet, sodass es die Usability von REAPER verbessert und die Funktionalität erweitert. Alle Icons haben einen Hover Text mit Erläuterung der Funktion. 
+<img width="1920" height="86" alt="Kooha-2026-10-09-20-45-22" src="https://github.com/user-attachments/assets/3b5c23a9-ec66-42d4-a4d9-7372c6ae021c" />
+
+
+- Improved Main Toolbar.
+<img width="722" height="111" alt="Screenshot_2026-10-09_20-13-39" src="https://github.com/user-attachments/assets/651f0236-2235-4d9b-b178-c706deb39e79" />
+
+- Setup project auto saves.
+- Extended keyboard shortcuts.
+
+- Extended right click menu entries.
+<img width="689" height="342" alt="Screenshot_2026-09-09_20-52-36" src="https://github.com/user-attachments/assets/5d8a7b96-7380-48bf-aa4c-16eeefee5094" />
+<img width="709" height="343" alt="image" src="https://github.com/user-attachments/assets/553d5f86-8a70-4525-a467-9a6d6d64b72b" />
+
+- Pre-Installed [ReaPack](https://reapack.com/).
+- Imported additional ReaPack repos.
+- Pre-Installed [SWS](https://sws-extension.org/).
+- Navigate project timeline with middle click, like in video editors or graphic design software. Or scroll in TCP area for vertical movement and outside of TCP area for horizontal movement (zoom in).
+- Pre-Defined automatic track coloring and automatic track icons (Example: Naming a track 'REC' automatically inserts a microphone icon and arming a track for recording automatically colors the track red. No need to configure anything manually).
+  <!-- - [Smooth Playhead (Play Cursor)](https://forum.cockos.com/showthread.php?t=310863). -->
+- [Signify time selection loop](https://github.com/Reapertips/ReaScripts/) with yellow color, [time selection recording](https://github.com/Reapertips/ReaScripts/) with red color and active recording with red ruler color.
+<img width="1824" height="811" alt="Screenshot_2026-10-09_21-39-14" src="https://github.com/user-attachments/assets/bd1f059f-695a-48b6-80a0-481693192d4d" />
+
+
+- Improved MIDI Editor (Piano Roll) workflow with extended toolbar icons and key bindings.
+<img width="906" height="382" alt="image" src="https://github.com/user-attachments/assets/a16d769c-c292-4220-b256-ed1a664b8de6" />
+
+
+- Implemented startup sound and render sound effect.
+- Changed Reapeaks file directory to reduce clutter. 
+- Pre-Defined [Wildcards](https://www.scribd.com/document/986767840/REAPER-Render-Wildcards-CheatSheet-1) für Automatic File Naming.
+- Pre-Defined Project Templates für *Mixing [1]*, *Mastering [2]*, *Producing [3]* oder *Empty [E]*, welche mit einem Klick auf dedizierte Toolbar-Icons geladen werden können.
+<img width="128" height="33" alt="Screenshot_2026-08-19_21-06-19" src="https://github.com/user-attachments/assets/6a72edc8-ea77-44aa-9d3c-9dfee31dec8f" />
+
+- Various other scripts and other small refinements.
+
+
+---
+
+## 🚀 Installation
+
+### I. Replace Config Files
+0. Backup your REAPER config folder.
+1. ``git clone https://github.com/yannikthegenius/YTG-REAPER.git``
+2. Open REAPER.
+3. Options > "Show REAPER resource path in explorer/finder..."
+4. File Manager will open in the correct directory.
+5. Close REAPER.
+6. Copy all files from YTG-REAPER into that directory.
+
+### II. Setup REAPER
+7. Open REAPER.
+8. Close all "Missing Files" errors.
+9. Options > Themes > Pick any of the available "Reapertips" Themes.
+10. Extensions > ReaPack > "Synchronize Packages".
+11. Restart REAPER. Errors are gone.
+12. Press CTRL+P to open REAPER Preferences > General > Paths > Define your paths.
+13. Missing icons? Check [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) by [Reapertips](https://www.reapertips.com). Or right click on any toolbar > "Customize toolbar..." > Double click on the icon you want to change > Pick any new icon > Apply.
+14. Missing plug-ins? Modify the project templates or install the FOSS plug-ins.
+
+---
+
+#### 👏 Credits
+
+  - Danke an [Reapertips](https://www.reapertips.com) und [FTC](https://forum.cockos.com/member.php?u=131628) für das [Reapertips Theme](https://forum.cockos.com/showthread.php?t=281644).
+  - Danke an [FTC](https://forum.cockos.com/member.php?u=131628) für [MX Tuner](https://forum.cockos.com/showthread.php?t=259698).
+  - Danke an die Developer von [SWS](https://sws-extension.org/).
+  - Danke an die Developer vom [ReaPack Package Manager](https://reapack.com/).
+  - Danke an [White Tie](https://www.houseofwhitetie.com) für [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html). Mach den Script FOSS, du Stinker.
+  - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Track Icon Selector](https://www.reapertips.com/post/quickest-way-to-add-icons-to-your-tracks).
+  - Danke an [Sexan](https://forum.cockos.com/member.php?u=14264) für [Project Time Counter](https://github.com/ReaTeam/ReaScripts/blob/master/Various/sexan_Project%20time%20counter.lua).
+  - Danke an [ArthurMcArthur](https://forum.cockos.com/member.php?u=109337) für [McSequencer](https://forum.cockos.com/showthread.php?t=286577).
+  - Danke an [Reapertips](https://www.reapertips.com) für [Time Selection Colors](https://github.com/Reapertips/ReaScripts/).
+  - Danke an [Reapertips](https://www.reapertips.com) für [Project Launcher](https://github.com/Reapertips/ReaScripts/).
+    <!-- - Danke an [DSG](https://dsgdnb.com/) für [Smooth Playhead](https://forum.cockos.com/showthread.php?t=310863). -->
+  - Danke an [FlarkAUDIO](https://github.com/flarkflarkflark) für [STEMwerk](https://github.com/flarkflarkflark/STEMwerk-reaper).
+  - Danke an [OLSHALOM](https://forum.cockos.com/member.php?u=134313) für [CHROMA Coloring Tool](https://forum.cockos.com/showthread.php?t=281516).
+  - Danke an [BirdBird](https://forum.cockos.com/member.php?u=130362) für [Global Sampler](https://forum.cockos.com/showthread.php?p=2506514).
+  - Danke an [Justin Frankel](https://www.cockos.com/) für die [REAPER DAW](https://www.reaper.fm).
+  - Excluded files in this repo:
+    - [Essential Icons](https://www.reapertips.com/products/essential-icons-for-reaper) von [Reapertips](https://www.reapertips.com/); diese sollten erworben werden.
+    - [ReaPack Packages](https://reapack.com/repos), da Lizenz nicht für alle Scripts validiert werden konnte. Alle Scripts können jedoch mit einem Klick direkt gedownloaded werden ("Synchronize packages").
+    - [Graphical Sends](https://www.houseofwhitetie.com/graphical_annex.html) von [WhiteTie](https://www.houseofwhitetie.com), da prop. 🙄
+
+
+---
+
+#### ℹ️ Information
+- Due to toolbar icons not being vector files, this config is intended to be used for 24" monitors at 100% display scaling.
+- I am aware that there are absolute paths. I don't know how it would be possible to automatically adapt this into user specific relative paths.
+- The intention behind this repo is to give a proof of concept of what is possible in the REAPER DAW.
+- In my opinion, giving users a better out of the box experience, like a focus on more visual toolbar buttons or implementing the most popular .lua scripts as native features, would increase the user experience by a lot. As well as finally giving the ReaPlugs a visual overhaul and including some rudimentary stock sounds or libraries. If Cockos would do that, REAPER could finally advance.
+
+
+
+
+---
+
+#### 🐧 Gute FOSS-Plugins
+
+- [ZL Audio](https://zl-audio.github.io/)
+- [Dragonfly](https://michaelwillis.github.io/dragonfly-reverb/)
+- [Zero Audio](https://github.com/Jun-Murakami)
+- [Tukan Studios](https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS)
+- [TiagoLr](https://github.com/tiagolr)
+- [LSP](https://lsp-plug.in/)

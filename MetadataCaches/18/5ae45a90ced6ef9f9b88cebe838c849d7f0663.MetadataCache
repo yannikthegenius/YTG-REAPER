@@ -1,0 +1,64 @@
+C10018 "/home/yannik/Desktop/HOFA Praktische Abschlussprüfung Mixing 6 machen bis 03.26/Praktische Abschlusspruefung A - Michelangelo/HOFA Praktische Abschlussprüfung Mixing VI/Media"
+F "Backing Vocals Hey.wav" 23255066 0 1670354388 0
+D s 44100 n 2 l 1:27.887 i 24
+F "Bass Moog.wav" 32592242 0 1670338586 0
+D s 44100 n 2 l 2:03.175 i 24
+F "Drum room.wav" 32649536 0 1670339022 0
+D s 44100 n 2 l 2:03.391 i 24
+F "Guitar hook.wav" 16547718 0 1670338606 0
+D y 2022-12-05 d Cubase s 44100 n 1
+D l 2:05.070 i 24
+F "Guitar verse.wav" 11180363 0 1670338610 0
+D s 44100 n 1 l 1:24.507 i 24
+F Hihat.wav 16323644 0 1670339020 0
+D s 44100 n 1 l 2:03.382 i 24
+F Kick.wav 16320332 0 1670345368 0
+D s 44100 n 1 l 2:03.357 i 24
+F OH.wav 32647166 0 1670339022 0
+D s 44100 n 2 l 2:03.382 i 24
+F "Reverb drums.wav" 33093716 0 1670353404 0
+D s 44100 n 2 l 2:05.070 i 24
+F "Rhodes refrain.wav" 16546898 0 1670338602 0
+D s 44100 n 1 l 2:05.070 i 24
+F "Rhodes verse.wav" 11180363 0 1670338614 0
+D s 44100 n 1 l 1:24.507 i 24
+F Snare.wav 16320743 0 1670345370 0
+D s 44100 n 1 l 2:03.361 i 24
+F "Synth solo.wav" 29068814 0 1670338620 0
+D s 44100 n 2 l 1:49.859 i 24
+F "Tambourin OH.wav" 29068814 0 1670338572 0
+D s 44100 n 2 l 1:49.859 i 24
+F "Tambourin room.wav" 29068814 0 1670338572 0
+D s 44100 n 2 l 1:49.859 i 24
+F "Tom 1.wav" 16326660 0 1670354870 0
+D t "Michelangelo MM6 Mix A" y 2022-12-06 d Cubase s 44100
+D n 1 l 2:03.380 i 24
+F "Tom 2.wav" 16308518 0 1670354916 0
+D t "Michelangelo MM6 Mix A" y 2022-12-06 d Cubase s 44100
+D n 1 l 2:03.243 i 24
+F "Voc female 1.wav" 14534447 0 1670338698 0
+D s 44100 n 1 l 1:49.859 i 24
+F "Voc female 2.wav" 14534447 0 1670338698 0
+D s 44100 n 1 l 1:49.859 i 24
+F "Voc verse endings 1.wav" 11180363 0 1670338644 0
+D s 44100 n 1 l 1:24.507 i 24
+F "Voc verse endings 2.wav" 11180363 0 1670338644 0
+D s 44100 n 1 l 1:24.507 i 24
+F "Vocal high verse.wav" 11180363 0 1670338644 0
+D s 44100 n 1 l 1:24.507 i 24
+F "Vocal low refrain 1.wav" 14981657 0 1670338688 0
+D s 44100 n 1 l 1:53.239 i 24
+F "Vocal low refrain 2.wav" 14981657 0 1670338688 0
+D s 44100 n 1 l 1:53.239 i 24
+F "Vocal main refrain 1.wav" 14981657 0 1670338686 0
+D s 44100 n 1 l 1:53.239 i 24
+F "Vocal main refrain 2.wav" 14981657 0 1670338688 0
+D s 44100 n 1 l 1:53.239 i 24
+F "Vocal main refrain 3.wav" 14981657 0 1670338688 0
+D s 44100 n 1 l 1:53.239 i 24
+F "Vocal main verse double.wav" 11180363 0 1670338644 0
+D s 44100 n 1 l 1:24.507 i 24
+F "Vocal main verse.wav" 11180363 0 1670338644 0
+D s 44100 n 1 l 1:24.507 i 24
+F "Vocal Verse Ad Libs.wav" 11180363 0 1670338644 0
+D s 44100 n 1 l 1:24.507 i 24

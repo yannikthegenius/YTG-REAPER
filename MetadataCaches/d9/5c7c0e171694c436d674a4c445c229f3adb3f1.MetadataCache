@@ -1,0 +1,145 @@
+C10018 "/home/yannik/Desktop/OTSZ/BEAT_RESSOURCES/Drums From Stems 2 @ALLSTAR2X/BLACKPINK - Pretty Savage"
+F "808 1 (A2).wav" 678768 0 1716242882 0
+D s 48000 n 2 l 0:01.766 i 32
+F "808 2 (A2).wav" 740816 0 1716242912 0
+D s 48000 n 2 l 0:01.929 i 32
+F "808 3 (A2).wav" 589408 0 1716245400 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.534
+D i 32
+F "808 4 (A2).wav" 1141680 0 1716245424 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:02.972
+D i 32
+F "808 5 (A2).wav" 759116 0 1716245442 0
+D s 48000 n 2 l 0:01.976 i 32
+F "Bass Loop 152.wav" 2430604 0 1716245466 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.328
+D i 32
+F "Clap Loop 1 152.wav" 2424712 0 1716245772 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.314
+D i 32
+F "Clap Loop 2 152.wav" 2425816 0 1716245780 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.317
+D i 32
+F Congo.wav 2384272 0 1716246624 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.208
+D i 32
+F "Drum Fill 152.wav" 2577712 0 1716245810 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.712
+D i 32
+F "Drum Loop 152.wav" 2425336 0 1716246444 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.315
+D i 32
+F "FX 1.wav" 493576 0 1716246290 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.285
+D i 32
+F "FX 2.wav" 3873144 0 1716246296 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:10.086
+D i 32
+F "FX 3.wav" 3348744 0 1716246316 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:08.720
+D i 32
+F "FX 4.wav" 1847712 0 1716246324 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:04.811
+D i 32
+F "FX 5.wav" 409480 0 1716246332 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.066
+D i 32
+F "FX 6.wav" 2437968 0 1716246348 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.348
+D i 32
+F "FX 7.wav" 957392 0 1716246356 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:02.493
+D i 32
+F "FX 8.wav" 958680 0 1716246366 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:02.496
+D i 32
+F "FX Loop 152.wav" 3775688 0 1716246306 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:09.832
+D i 32
+F "Hat 1.wav" 75576 0 1716246094 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:00.196
+D i 32
+F "Hat 2.wav" 75928 0 1716246098 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:00.197
+D i 32
+F "Hat Loop 1 152.wav" 2425528 0 1716246108 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.316
+D i 32
+F "Hat Loop 2 152.wav" 2425568 0 1716246116 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.316
+D i 32
+F "Hat Loop 3 152.wav" 4456852 0 1716246128 0
+D c "Recorded on 20-5-24 in Edison." s 44100 n 2 l 0:12.632
+D i 32
+F "Hat Loop 4 152.wav" 2425496 0 1716246208 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.316
+D i 32
+F "Hat Loop 5 152.wav" 4456852 0 1716246248 0
+D c "Recorded on 20-5-24 in Edison." s 44100 n 2 l 0:12.632
+D i 32
+F "Kick 1.wav" 148096 0 1716245494 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:00.385
+D i 32
+F "Kick 2.wav" 597088 0 1716245508 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.554
+D i 32
+F "Kick 3.wav" 460312 0 1716245502 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.198
+D i 32
+F "Kick 4.wav" 478176 0 1716245516 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.245
+D i 32
+F "Open Hat 1.wav" 768968 0 1716245798 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:02.002
+D i 32
+F "Open Hat 2.wav" 2225440 0 1716246084 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:05.795
+D i 32
+F "Perc Loop 1 + Transition 152.wav" 6430608 0 1716245930 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:16.746
+D i 32
+F "Perc Loop 152.wav" 1864432 0 1716246034 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:04.855
+D i 32
+F "Perc Loop 2 152.wav" 4456852 0 1716246566 0
+D c "Recorded on 20-5-24 in Edison." s 44100 n 2 l 0:12.632
+D i 32
+F "Perc Loop 3 152.wav" 4456852 0 1716246590 0
+D c "Recorded on 20-5-24 in Edison." s 44100 n 2 l 0:12.632
+D i 32
+F "Perc Loop 4 152.wav" 3524184 0 1716246638 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:09.177
+D i 32
+F "Perc Loop 5 152.wav" 4850712 0 1716246656 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:12.631
+D i 32
+F "Perc_FX Loop 1 152.wav" 2425672 0 1716246418 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:06.316
+D i 32
+F "Perc_FX Loop 2 152.wav" 4592528 0 1716246392 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:11.959
+D i 32
+F Snap.wav 479720 0 1716245750 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.249
+D i 32
+F "Snare 1.wav" 606608 0 1716245586 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.579
+D i 32
+F "Snare 2.wav" 599352 0 1716245594 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.560
+D i 32
+F "Snare 3.wav" 227752 0 1716245600 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:00.592
+D i 32
+F "Snare 4.wav" 225608 0 1716245610 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:00.587
+D i 32
+F "Snare 5.wav" 452240 0 1716245700 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.177
+D i 32
+F "Tambourine + Clap.wav" 1329544 0 1716245856 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:03.462
+D i 32
+F Tambourine.wav 672424 0 1716245838 0
+D c "Modified by FL Studio 21" s 48000 n 2 l 0:01.750
+D i 32

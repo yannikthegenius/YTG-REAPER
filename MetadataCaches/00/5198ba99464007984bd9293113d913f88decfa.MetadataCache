@@ -1,0 +1,76 @@
+C10018 "/media/Data/OUT$IDERZ/RESSOURCES/BEAT RESSOURCES/Drums/Trap Sample Pack 1#/FX"
+F "FX Bubble 001.wav" 19182 0 1395139586 0
+D s 44100 n 2 l 0:00.108 i 16
+F "FX Downlifter 001 Puttin On.wav" 1226470 0 1342376666 0
+D s 44100 n 2 l 0:06.952 i 16
+F "FX Reverse 001 Cymbal.wav" 190748 0 1395143782 0
+D s 44100 n 2 l 0:01.081 i 16
+F "FX Riser 001 Lex Luger Effect.wav" 846764 0 1395130580 0
+D s 44100 n 2 l 0:04.800 i 16
+F "FX Riser 002 Boi 1 da.wav" 622730 0 1395139654 0
+D s 44100 n 2 l 0:03.529 i 16
+F "FX Riser 003 Puttin On.wav" 1566222 0 1395143774 0
+D s 44100 n 2 l 0:08.878 i 16
+F "FX UP.wav" 1263804 0 1342445342 0
+D s 44100 n 2 l 0:07.164 i 16
+F "FX Windchime 001 Bell Tree.wav" 1828532 0 1395051964 0
+D y 2008-07-11 s 44100 n 2 r 1:01:50.357
+D l 0:10.359 i 16
+F "Gun Shot.wav" 455972 0 1020568712 0
+D s 44100 n 2 l 0:02.585 i 16
+F "Hit Woody.wav" 1027788 0 1337703574 0
+D s 44100 n 2 l 0:02.913 i 32
+F "Kick Drop.wav" 1458692 0 1342445502 0
+D s 44100 n 2 l 0:08.269 i 16
+F "Loading a Gun.wav" 94544 0 1342447696 0
+D s 44100 n 2 l 0:00.536 i 16
+F "Money Counter.wav" 604844 0 1342471426 0
+D s 44100 n 2 l 0:03.429 i 16
+F "Noise Layer.wav" 134440 0 1342445316 0
+D s 44100 n 2 l 0:00.762 i 16
+F "Rumble to Hiss.wav" 529244 0 1340281740 0
+D s 44100 n 2 l 0:03.000 i 16
+F Up.wav 65536 0 1342445852 0
+D s 44100 n 2 l 0:00.146 i 16
+F "War FX Distant Boom 001.wav" 358112 0 1181862002 0
+D t "SC EXPLOSION" s 44100 n 1 l 0:04.058
+D i 16
+F "War FX Distant Boom 002.wav" 2419244 0 1395056074 0
+D s 44100 n 2 l 0:13.714 i 16
+F "War FX Distant Boom 003.wav" 837944 0 1395051858 0
+D s 44100 n 2 l 0:04.750 i 16
+F "War FX Distant Boom 004.wav" 604844 0 1395056046 0
+D s 44100 n 2 l 0:03.429 i 16
+F "War FX Gun Reload 001.wav" 352844 0 1395051660 0
+D s 44100 n 2 l 0:02.000 i 16
+F "War FX Gun Reload 002.wav" 88980 0 1395051670 0
+D s 44100 n 2 l 0:00.504 i 16
+F "War FX Gun Reload 003.wav" 76092 0 1395056024 0
+D s 44100 n 2 l 0:00.431 i 16
+F "War FX Gun Reload 004.wav" 183596 0 1395051896 0
+D t untitled y 0000-01-01 s 44100 n 2
+D l 0:01.040 i 16
+F "War FX Gun Shot 001.wav" 147120 0 1395051732 0
+D s 44100 n 2 l 0:00.834 i 16
+F "War FX Gun Shot 002.wav" 352844 0 1395051926 0
+D s 44100 n 2 l 0:02.000 i 16
+F "War FX Gun Shot 003.wav" 352844 0 1271142516 0
+D s 44100 n 2 l 0:02.000 i 16
+F "War FX Gun Shot 004.wav" 71788 0 1298851700 0
+D t "EXT SHOTS ASSAUL_DR013009" s 22050 n 1 l 0:01.624
+D i 16
+F "War FX Gun Shot 005.wav" 33116 0 1095712182 0
+D s 22050 n 1 l 0:01.495 i 8
+F "War FX Machine Gun 001.wav" 284284 0 1395056000 0
+D s 44100 n 2 l 0:01.611 i 16
+F "War FX Machine Gun 002.wav" 476420 0 1395051840 0
+D t untitled y 0000-01-01 s 44100 n 2
+D l 0:02.700 i 16
+F "War FX Synth Boom 001.wav" 665668 0 1395051794 0
+D s 44100 n 2 l 0:02.515 i 24
+F "War FX Synth Boom 002.wav" 657598 0 1244311244 0
+D s 44100 n 2 l 0:02.485 i 24
+F "Zap 001.wav" 65536 0 1342445248 0
+D s 44100 n 2 l 0:00.086 i 16
+F "Zap 002.wav" 75644 0 1342444370 0
+D s 44100 n 2 l 0:00.429 i 16
